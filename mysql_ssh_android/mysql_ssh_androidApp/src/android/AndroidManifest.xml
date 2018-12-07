@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Maqbool Solutions (SMC-Pvt) Ltd.
+ https://www.maqboolsolutions.com
+ info@maqboolsolutions.com
+
+ author: Abid Maqbool
+ author-designation: CTO (Chief Technology Officer)
+ author-email: cto.ms@outlook.com-->
+ 
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="com.maqboolsolutions.mysql_ssh_android" android:versionCode="1" android:versionName="1.0">
+        <supports-screens android:xlargeScreens="true"/>
+        <uses-permission android:name="android.permission.INTERNET"/>
+        <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
+        <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+        <uses-sdk android:minSdkVersion="4" android:targetSdkVersion="21"/>
+        <application android:label="mysql_ssh_android" android:name="android.support.multidex.MultiDexApplication" android:icon="@mipmap/ic_launcher">
+                <activity android:name="javafxports.android.FXActivity" android:label="mysql_ssh_android" android:configChanges="orientation|screenSize">
+                        <meta-data android:name="main.class" android:value="com.maqboolsolutions.mysql_ssh_android.Main"/>
+                        <meta-data android:name="debug.port" android:value="0"/>
+                        <intent-filter>
+                                <action android:name="android.intent.action.MAIN"/>
+                                <category android:name="android.intent.category.LAUNCHER"/>
+                        </intent-filter>
+                </activity>
+
+                <activity android:name="com.gluonhq.impl.charm.down.plugins.android.PermissionRequestActivity" />
+        </application>
+</manifest>
