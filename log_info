@@ -1,0 +1,413 @@
+12-07 17:13:31.211: I/InputReader(791): Touch event's action is 0x0 (deviceType=0) [pCnt=1, s=0.2419 ] when=53363503121000
+12-07 17:13:31.211: I/InputDispatcher(791): Delivering touch to (1389): action: 0x4, toolType: 1
+12-07 17:13:31.211: I/InputDispatcher(791): Delivering touch to (2486): action: 0x4, toolType: 1
+12-07 17:13:31.211: I/InputDispatcher(791): Delivering touch to (3415): action: 0x0, toolType: 1
+12-07 17:13:31.221: E/FXEntity(3415): call native MultitouchEvent, density = 3.0, touchXs0 = 230
+12-07 17:13:31.221: I/GLASS(3415): Call InternalSurfaceView_onMultiTouchEventNative
+12-07 17:13:31.221: I/GLASS(3415): Glass will pass multitouchevent to monocle with count = 1
+12-07 17:13:31.231: E/FXEntity(3415): call native MultitouchEvent, density = 3.0, touchXs0 = 230
+12-07 17:13:31.231: I/GLASS(3415): Call InternalSurfaceView_onMultiTouchEventNative
+12-07 17:13:31.231: I/GLASS(3415): Glass will pass multitouchevent to monocle with count = 1
+12-07 17:13:31.261: E/FXEntity(3415): call native MultitouchEvent, density = 3.0, touchXs0 = 230
+12-07 17:13:31.261: I/GLASS(3415): Call InternalSurfaceView_onMultiTouchEventNative
+12-07 17:13:31.261: I/GLASS(3415): Glass will pass multitouchevent to monocle with count = 1
+12-07 17:13:31.291: E/FXEntity(3415): call native MultitouchEvent, density = 3.0, touchXs0 = 230
+12-07 17:13:31.301: I/GLASS(3415): Call InternalSurfaceView_onMultiTouchEventNative
+12-07 17:13:31.301: I/GLASS(3415): Glass will pass multitouchevent to monocle with count = 1
+12-07 17:13:31.321: I/InputReader(791): Touch event's action is 0x1 (deviceType=0) [pCnt=1, s=] when=53363612049000
+12-07 17:13:31.321: I/InputDispatcher(791): Delivering touch to (3415): action: 0x1, toolType: 1
+12-07 17:13:31.321: E/FXEntity(3415): call native MultitouchEvent, density = 3.0, touchXs0 = 230
+12-07 17:13:31.321: E/FXEntity(3415): call native MultitouchEvent, density = 3.0, touchXs0 = 230
+12-07 17:13:31.321: I/GLASS(3415): Call InternalSurfaceView_onMultiTouchEventNative
+12-07 17:13:31.321: I/GLASS(3415): Glass will pass multitouchevent to monocle with count = 1
+12-07 17:13:31.321: I/GLASS(3415): Call InternalSurfaceView_onMultiTouchEventNative
+12-07 17:13:31.321: I/GLASS(3415): Glass will pass multitouchevent to monocle with count = 1
+12-07 17:13:31.321: I/System.out(3415): don't add points, primary = -1
+12-07 17:13:41.671: E/Watchdog(791): !@Sync 1777 [12-07 17:13:41.684]
+12-07 17:13:41.881: I/ActivityManager(791): Killing 28410:com.sec.android.widgetapp.digitalclockeasy/u0a174 (adj 8): SSR - service for lastStateTime 612s, lastActivityTime 612s
+12-07 17:13:41.921: I/ActivityManager(791): isWidgetUsingPkg : com.sec.android.widgetapp.digitalclockeasy widget is using.
+12-07 17:13:41.921: W/ActivityManager(791): Scheduling restart of crashed service com.sec.android.widgetapp.digitalclockeasy/.DigitalClockEasyService in 1000ms
+12-07 17:13:41.931: I/MotionRecognitionService(791): Plugged
+12-07 17:13:41.931: I/PERF(1389): received broadcast android.intent.action.BATTERY_CHANGED
+12-07 17:13:42.961: I/ActivityManager(791): Start proc 3574:com.sec.android.widgetapp.digitalclockeasy/u0a174 for service com.sec.android.widgetapp.digitalclockeasy/.DigitalClockEasyService
+12-07 17:13:42.961: E/Zygote(3574): v2
+12-07 17:13:42.961: I/libpersona(3574): KNOX_SDCARD checking this for 10174
+12-07 17:13:42.961: I/libpersona(3574): KNOX_SDCARD not a persona
+12-07 17:13:42.961: W/SELinux(3574): Function: selinux_compare_spd_ram, index[1], priority [2], priority version is VE=SEPF_SECMOBILE_6.0.1_0011
+12-07 17:13:42.961: E/Zygote(3574): accessInfo : 0
+12-07 17:13:42.961: W/SELinux(3574): SELinux: seapp_context_lookup: seinfo=shared, level=s0:c512,c768, pkgname=com.sec.android.widgetapp.digitalclockeasy 
+12-07 17:13:43.021: W/ResourcesManager(3574): getTopLevelResources: /system/app/DigitalClockEasy_MUPG/DigitalClockEasy_MUPG.apk / 1.0 running in com.sec.android.widgetapp.digitalclockeasy rsrc of package null
+12-07 17:13:43.051: W/System(3574): ClassLoader referenced unknown path: /system/app/DigitalClockEasy_MUPG/lib/arm
+12-07 17:13:43.661: I/Finsky(28617): [11703] com.google.android.finsky.bo.an.run(6): Stats for Executor: Db-frosting.db com.google.android.finsky.bo.ao@f41b645[Running, pool size = 0, active threads = 0, queued tasks = 0, completed tasks = 14]
+12-07 17:13:43.671: I/Finsky(28617): [11703] com.google.android.finsky.bo.an.run(6): Stats for Executor: Db-scheduled_acquisitions.db com.google.android.finsky.bo.ao@c1ae9fb[Running, pool size = 0, active threads = 0, queued tasks = 0, completed tasks = 2]
+12-07 17:13:47.241: I/Finsky(28617): [11703] com.google.android.finsky.bo.an.run(6): Stats for Executor: Db-auto_update.db com.google.android.finsky.bo.ao@aedcca0[Running, pool size = 0, active threads = 0, queued tasks = 0, completed tasks = 0]
+12-07 17:13:47.251: I/Finsky(28617): [11703] com.google.android.finsky.bo.an.run(6): Stats for Executor: Db-user_languages_store com.google.android.finsky.bo.ao@f591059[Running, pool size = 0, active threads = 0, queued tasks = 0, completed tasks = 1]
+12-07 17:13:49.941: I/Finsky(28617): [11703] com.google.android.finsky.bo.an.run(6): Stats for Executor: Db-scheduled_acquisitions.db com.google.android.finsky.bo.ao@9bd441e[Running, pool size = 0, active threads = 0, queued tasks = 0, completed tasks = 0]
+12-07 17:13:51.981: I/MotionRecognitionService(791): Plugged
+12-07 17:13:51.991: I/PERF(1389): received broadcast android.intent.action.BATTERY_CHANGED
+12-07 17:13:53.981: I/CAE(791): parse(SensorHubParserProvider.java:188) - buffer size = 10
+12-07 17:13:53.981: I/CAE(791): parse(SensorHubParserProvider.java:199) - 1, 1, 26, 1, 2, -97, -25, -91, 4, 0,
+12-07 17:13:53.991: I/CAE(791): display(ContextProvider.java:391) - Accuracy=[0], OperationMode=[0], ActivityType=[4], TimeStamp=[1544184833957]
+12-07 17:13:54.931: I/CAE(791): parse(SensorHubParserProvider.java:188) - buffer size = 10
+12-07 17:13:54.931: I/CAE(791): parse(SensorHubParserProvider.java:199) - 1, 1, 26, 1, 2, -97, -21, 120, 4, 1,
+12-07 17:13:54.941: I/CAE(791): display(ContextProvider.java:391) - Accuracy=[1], OperationMode=[0], ActivityType=[4], TimeStamp=[1544184834936]
+12-07 17:13:54.951: I/WifiStateMachine(791): sendMessageDelayed CMD_SET_SCAN_MOVE after 5 mins with 3
+12-07 17:13:55.511: I/Finsky(28617): [11703] com.google.android.finsky.bo.an.run(6): Stats for Executor: NotificationAssistDatabaseManager com.google.android.finsky.bo.ao@d8b54ff[Running, pool size = 0, active threads = 0, queued tasks = 0, completed tasks = 1]
+12-07 17:13:55.531: I/CellLocationSupport(1859): onCellLocationChanged
+12-07 17:13:55.541: I/Finsky(28617): [11703] com.google.android.finsky.bo.an.run(6): Stats for Executor: InstallBackgroundThread com.google.android.finsky.bo.ao@47312cc[Running, pool size = 0, active threads = 0, queued tasks = 0, completed tasks = 0]
+12-07 17:13:55.571: I/PERF(1389): received broadcast android.intent.action.SERVICE_STATE
+12-07 17:13:55.571: I/ActivityManager(791): Killing 28599:com.sec.android.app.videoplayer/u0a47 (adj 8): SSR - service for lastStateTime 611s, lastActivityTime 604s
+12-07 17:13:55.611: I/CellLocationSupport(1859): onCellLocationChanged
+12-07 17:13:55.621: I/RegConnHandler2(1859): [XAN_NWK_TYPE_HDR_IMS] Old bearer type [XAN_SVC_NETWORK_SVCTYPE_HSPA] New bearer type [XAN_SVC_NETWORK_SVCTYPE_3G]
+12-07 17:13:55.621: E/DynamicConfigWriter(1859): No such serviceId was created! This is create!.
+12-07 17:13:55.631: I/ActivityManager(791): isWidgetUsingPkg : com.sec.android.app.videoplayer no widget is using.
+12-07 17:13:55.631: W/ActivityManager(791): Scheduling restart of crashed service com.sec.android.app.videoplayer/.appwidget.VideoWidget$UpdateService in 1000ms
+12-07 17:13:55.631: I/ActivityManager(791): isWidgetUsingPkg : com.sec.android.app.videoplayer no widget is using.
+12-07 17:13:55.631: W/ActivityManager(791): Scheduling restart of crashed service com.sec.android.app.videoplayer/.videowall.TranscodeService in 10999ms
+12-07 17:13:55.631: I/RegConnHandler2(1859): [XAN_NWK_TYPE_HDR_INET] Old bearer type [XAN_SVC_NETWORK_SVCTYPE_HSPA] New bearer type [XAN_SVC_NETWORK_SVCTYPE_3G]
+12-07 17:13:55.631: E/DynamicConfigWriter(1859): No such serviceId was created! This is create!.
+12-07 17:13:55.631: I/CellLocationSupport(1859): onCellLocationChanged
+12-07 17:13:55.641: I/CellLocationSupport(1859): onCellLocationChanged
+12-07 17:13:56.681: E/Zygote(3660): v2
+12-07 17:13:56.681: I/libpersona(3660): KNOX_SDCARD checking this for 10047
+12-07 17:13:56.681: I/libpersona(3660): KNOX_SDCARD not a persona
+12-07 17:13:56.681: I/ActivityManager(791): Start proc 3660:com.sec.android.app.videoplayer/u0a47 for service com.sec.android.app.videoplayer/.appwidget.VideoWidget$UpdateService
+12-07 17:13:56.681: W/SELinux(3660): Function: selinux_compare_spd_ram, index[1], priority [2], priority version is VE=SEPF_SECMOBILE_6.0.1_0011
+12-07 17:13:56.691: E/Zygote(3660): accessInfo : 0
+12-07 17:13:56.691: W/SELinux(3660): SELinux: seapp_context_lookup: seinfo=platform, level=s0:c512,c768, pkgname=com.sec.android.app.videoplayer 
+12-07 17:13:56.751: W/ResourcesManager(3660): getTopLevelResources: /system/priv-app/SecVideoPlayer/SecVideoPlayer.apk / 1.0 running in com.sec.android.app.videoplayer rsrc of package null
+12-07 17:13:56.821: W/System(3660): ClassLoader referenced unknown path: /system/priv-app/SecVideoPlayer/lib/arm
+12-07 17:13:56.871: W/ResourcesManager(3660): getTopLevelResources: /system/priv-app/SecVideoPlayer/SecVideoPlayer.apk / 1.0 running in com.sec.android.app.videoplayer rsrc of package null
+12-07 17:13:56.921: I/CAE(791): parse(SensorHubParserProvider.java:188) - buffer size = 10
+12-07 17:13:56.921: I/CAE(791): parse(SensorHubParserProvider.java:199) - 1, 1, 26, 1, 2, -97, -13, 68, 4, 2,
+12-07 17:13:56.921: I/CAE(791): display(ContextProvider.java:391) - Accuracy=[2], OperationMode=[0], ActivityType=[4], TimeStamp=[1544184836932]
+12-07 17:13:57.121: E/Zygote(3673): v2
+12-07 17:13:57.121: I/libpersona(3673): KNOX_SDCARD checking this for 10013
+12-07 17:13:57.121: I/libpersona(3673): KNOX_SDCARD not a persona
+12-07 17:13:57.121: I/ActivityManager(791): Start proc 3673:com.sec.android.cloudagent/u0a13 for content provider com.sec.android.cloudagent/.CloudProvider
+12-07 17:13:57.121: W/SELinux(3673): Function: selinux_compare_spd_ram, index[1], priority [2], priority version is VE=SEPF_SECMOBILE_6.0.1_0011
+12-07 17:13:57.131: E/Zygote(3673): accessInfo : 0
+12-07 17:13:57.131: W/SELinux(3673): SELinux: seapp_context_lookup: seinfo=platform, level=s0:c512,c768, pkgname=com.sec.android.cloudagent 
+12-07 17:13:57.201: W/ResourcesManager(3673): getTopLevelResources: /system/priv-app/CloudAgent/CloudAgent.apk / 1.0 running in com.sec.android.cloudagent rsrc of package null
+12-07 17:13:57.221: W/System(3673): ClassLoader referenced unknown path: /system/priv-app/CloudAgent/lib/arm
+12-07 17:14:00.041: I/PERF(1389): received broadcast android.intent.action.TIME_TICK
+12-07 17:14:00.081: I/qtaguid(3097): Tagging socket 65 with tag 400000000{4,0} uid -1, pid: 3097, getuid(): 10186
+12-07 17:14:00.171: I/qtaguid(3097): Untagging socket 65
+12-07 17:14:01.811: I/CAE(791): parse(SensorHubParserProvider.java:188) - buffer size = 10
+12-07 17:14:01.811: I/CAE(791): parse(SensorHubParserProvider.java:199) - 1, 1, 26, 1, 2, -96, 6, 93, 4, 1,
+12-07 17:14:01.811: I/CAE(791): display(ContextProvider.java:391) - Accuracy=[1], OperationMode=[0], ActivityType=[4], TimeStamp=[1544184841821]
+12-07 17:14:02.011: I/System.out(3415): Waiting for connections…
+12-07 17:14:02.131: W/BroadcastQueue(791): Permission Denial: broadcasting Intent { act=com.whatsapp.MessageHandler.CLIENT_PINGER_ACTION flg=0x14 (has extras) } from com.whatsapp.w4b (pid=-1, uid=10186) requires com.whatsapp.permission.BROADCAST due to registered receiver BroadcastFilter{1a9da73 u0 ReceiverList{71d66e2 28307 com.whatsapp/10220/u0 remote:dd4b3ad}}
+12-07 17:14:02.171: I/PedometerService(28094): onStartCommand  true, true, false
+12-07 17:14:02.211: I/PERF(1389): received broadcast android.intent.action.BATTERY_CHANGED
+12-07 17:14:02.231: I/MotionRecognitionService(791): Plugged
+12-07 17:14:02.311: I/ActivityManager(791): Start proc 3727:com.google.android.youtube/u0a88 for service com.google.android.youtube/com.firebase.jobdispatcher.GooglePlayReceiver
+12-07 17:14:02.311: E/Zygote(3727): v2
+12-07 17:14:02.311: I/libpersona(3727): KNOX_SDCARD checking this for 10088
+12-07 17:14:02.311: I/libpersona(3727): KNOX_SDCARD not a persona
+12-07 17:14:02.321: W/SELinux(3727): Function: selinux_compare_spd_ram, index[1], priority [2], priority version is VE=SEPF_SECMOBILE_6.0.1_0011
+12-07 17:14:02.321: E/Zygote(3727): accessInfo : 0
+12-07 17:14:02.321: W/SELinux(3727): SELinux: seapp_context_lookup: seinfo=untrusted, level=s0:c512,c768, pkgname=com.google.android.youtube 
+12-07 17:14:02.421: W/ResourcesManager(3727): getTopLevelResources: /data/app/com.google.android.youtube-2/base.apk / 1.0 running in com.google.android.youtube rsrc of package null
+12-07 17:14:02.591: W/ResourcesManager(3727): getTopLevelResources: /data/app/com.google.android.youtube-2/base.apk / 1.0 running in com.google.android.youtube rsrc of package null
+12-07 17:14:02.601: W/FileProviderCompat(3727): isPatchingNecessary returned true and in == null: false
+12-07 17:14:02.631: W/PatchedPackageManager(3727): patching ProviderInfo. Metadata was not null
+12-07 17:14:02.631: W/PatchedPackageManager(3727): resolveContentProvider flags: 128 ret: ContentProviderInfo{name=com.google.android.youtube.fileprovider className=com.google.android.apps.youtube.app.common.util.FileProviderCompat}
+12-07 17:14:02.631: W/ResourcesManager(3727): getTopLevelResources: /data/app/com.google.android.youtube-2/base.apk / 1.0 running in com.google.android.youtube rsrc of package null
+12-07 17:14:02.651: W/YT(3727): Last known version:13.48.51
+12-07 17:14:02.781: W/YouTube(3727): Fetching the Gservices key 'failsafe_clear_cache_release_13_02' before the end of the bulk initialization
+12-07 17:14:03.011: W/YouTube(3727): Fetching the Gservices key 'disable_binder_callback_flush' before the end of the bulk initialization
+12-07 17:14:03.061: W/ResourcesManager(3727): getTopLevelResources: /data/app/com.google.android.gms-2/base.apk / 1.0 running in com.google.android.youtube rsrc of package null
+12-07 17:14:03.221: I/Finsky(28617): [11703] com.google.android.finsky.bo.an.run(6): Stats for Executor: BlockingExecutor com.google.android.finsky.bo.ao@8f0060[Running, pool size = 0, active threads = 0, queued tasks = 0, completed tasks = 12]
+12-07 17:14:03.231: I/Finsky(28617): [11703] com.google.android.finsky.bo.an.run(6): Stats for Executor: LightweightExecutor com.google.android.finsky.bo.ao@17cfdde[Running, pool size = 3, active threads = 0, queued tasks = 0, completed tasks = 55]
+12-07 17:14:03.231: I/Finsky(28617): [11703] com.google.android.finsky.bo.an.run(6): Stats for Executor: bgExecutor com.google.android.finsky.bo.ao@353c28c[Running, pool size = 4, active threads = 0, queued tasks = 0, completed tasks = 24]
+12-07 17:14:03.231: I/Finsky(28617): [11703] com.google.android.finsky.bo.an.run(6): Stats for Executor: SimChangeExecutor com.google.android.finsky.bo.ao@8d719ea[Running, pool size = 0, active threads = 0, queued tasks = 0, completed tasks = 0]
+12-07 17:14:03.231: I/Finsky(28617): [11703] com.google.android.finsky.bo.an.run(6): Stats for Executor: Db-xternal_referrer_status.db com.google.android.finsky.bo.ao@27784db[Running, pool size = 0, active threads = 0, queued tasks = 0, completed tasks = 0]
+12-07 17:14:03.241: I/Finsky(28617): [11703] com.google.android.finsky.bo.an.run(6): Stats for Executor: Db-split_install_service com.google.android.finsky.bo.ao@3c07b78[Running, pool size = 0, active threads = 0, queued tasks = 0, completed tasks = 7]
+12-07 17:14:03.241: I/Finsky(28617): [11703] com.google.android.finsky.bo.an.run(6): Stats for Executor: StorageAwareDownloadServiceManagerSpaceChecker com.google.android.finsky.bo.ao@5635251[Running, pool size = 0, active threads = 0, queued tasks = 0, completed tasks = 0]
+12-07 17:14:03.251: I/Finsky(28617): [11703] com.google.android.finsky.bo.an.run(6): Stats for Executor: InstallBackgroundThread com.google.android.finsky.bo.ao@25f93b7[Running, pool size = 0, active threads = 0, queued tasks = 0, completed tasks = 0]
+12-07 17:14:03.251: I/Finsky(28617): [11703] com.google.android.finsky.bo.an.run(6): Stats for Executor: Db-install_service com.google.android.finsky.bo.ao@83dd724[Running, pool size = 0, active threads = 0, queued tasks = 0, completed tasks = 0]
+12-07 17:14:03.251: I/Finsky(28617): [11703] com.google.android.finsky.bo.an.run(6): Stats for Executor: InstallBackgroundThread com.google.android.finsky.bo.ao@3b9c28d[Running, pool size = 0, active threads = 0, queued tasks = 0, completed tasks = 0]
+12-07 17:14:03.291: I/DynamiteModule(3727): Considering local module com.google.android.gms.ads.dynamite:0 and remote module com.google.android.gms.ads.dynamite:11020
+12-07 17:14:03.291: I/DynamiteModule(3727): Selected remote version of com.google.android.gms.ads.dynamite, version >= 11020
+12-07 17:14:03.331: W/ResourcesManager(3727): getTopLevelResources: /data/app/com.google.android.gms-2/base.apk / 1.0 running in com.google.android.youtube rsrc of package null
+12-07 17:14:03.381: E/YouTube(3727): Failed delayed event dispatch, no dispatchers.
+12-07 17:14:03.451: W/ResourcesManager(3727): getTopLevelResources: /data/app/com.google.android.youtube-2/base.apk / 1.0 running in com.google.android.youtube rsrc of package null
+12-07 17:14:03.491: W/System(3727): ClassLoader referenced unknown path: /data/data/com.google.android.gms/app_chimera/m/00000026/n/armeabi-v7a
+12-07 17:14:03.491: W/System(3727): ClassLoader referenced unknown path: /data/data/com.google.android.gms/app_chimera/m/00000026/n/armeabi
+12-07 17:14:03.501: I/CAE(791): parse(SensorHubParserProvider.java:188) - buffer size = 10
+12-07 17:14:03.511: I/CAE(791): parse(SensorHubParserProvider.java:199) - 1, 1, 26, 1, 2, -96, 12, -2, 4, 0,
+12-07 17:14:03.511: I/CAE(791): display(ContextProvider.java:391) - Accuracy=[0], OperationMode=[0], ActivityType=[4], TimeStamp=[1544184843518]
+12-07 17:14:03.511: W/ContextImpl(791): Calling a method in the system process without a qualified user: android.app.ContextImpl.sendBroadcast:845 com.android.server.am.ActivityManagerService.requestKnoxVpnToSendProxyBroadcast:29700 com.android.server.am.ActivityManagerService.registerReceiver:22565 android.app.ActivityManagerNative.onTransact:431 com.android.server.am.ActivityManagerService.onTransact:3992 
+12-07 17:14:03.511: W/ResourcesManager(3727): getTopLevelResources: /data/data/com.google.android.gms/app_chimera/m/00000026/AdsDynamite.apk / 1.0 running in com.google.android.youtube rsrc of package null
+12-07 17:14:03.541: W/ResourcesManager(3727): getTopLevelResources: /data/data/com.google.android.gms/app_chimera/m/00000026/AdsDynamite.apk / 1.0 running in com.google.android.youtube rsrc of package null
+12-07 17:14:03.651: W/ResourcesManager(3727): getTopLevelResources: /data/app/com.google.android.gms-2/base.apk / 1.0 running in com.google.android.youtube rsrc of package null
+12-07 17:14:03.651: W/PrimesInit(3727): Primes instant initialization
+12-07 17:14:03.681: W/Primes(3727): background initialization
+12-07 17:14:03.701: I/PrimesTesting(3727): GserviceFlagsSupplier.get()
+12-07 17:14:03.711: W/ContextImpl(791): Calling a method in the system process without a qualified user: android.app.ContextImpl.sendBroadcast:845 com.android.server.am.ActivityManagerService.requestKnoxVpnToSendProxyBroadcast:29700 com.android.server.am.ActivityManagerService.registerReceiver:22565 android.app.ActivityManagerNative.onTransact:431 com.android.server.am.ActivityManagerService.onTransact:3992 
+12-07 17:14:03.721: W/QCamera2Factory(343): getCameraInfo: E, camera_id = 0
+12-07 17:14:03.721: W/QCamera2HWI(343): __dbg: info->orientation : 90 rc = 0
+12-07 17:14:03.721: W/QCamera2Factory(343): getCameraInfo: X
+12-07 17:14:03.731: W/QCamera2Factory(343): getCameraInfo: E, camera_id = 1
+12-07 17:14:03.731: W/QCamera2HWI(343): __dbg: info->orientation : 90 rc = 0
+12-07 17:14:03.731: W/QCamera2HWI(343): __dbg: info->orientation : 270 rc = 0
+12-07 17:14:03.731: W/QCamera2Factory(343): getCameraInfo: X
+12-07 17:14:03.731: I/CrashMetricService(3727): Startup metric for 'PRIMES_CRASH_MONITORING_INITIALIZED' dropped.
+12-07 17:14:03.911: W/YT.MDX.aarv(3727): CastAppId for type 0 not found. Defaulting to mainCastAppId.
+12-07 17:14:04.011: W/DropBoxManagerService(791): Dropping: exp_det_cert_pin_failure (10 > 0 bytes)
+12-07 17:14:04.111: W/YT.MDX.aarv(3727): CastAppId for type 0 not found. Defaulting to mainCastAppId.
+12-07 17:14:04.161: E/SensorService(791): getSensorList a sensor (HRM Sensor) without holding its required permission: com.samsung.permission.SSENSOR
+12-07 17:14:04.161: I/SensorService(791): Skipped sensor HRM Sensor because it requires permission com.samsung.permission.SSENSOR and app op -1
+12-07 17:14:04.161: W/ServiceManager(791): Permission failure: android.permission.BODY_SENSORS from uid=10088 pid=3727
+12-07 17:14:04.161: E/SensorService(791): getSensorList a sensor (HeartRate Sensor) without holding its required permission: android.permission.BODY_SENSORS
+12-07 17:14:04.161: I/SensorService(791): Skipped sensor HeartRate Sensor because it requires permission android.permission.BODY_SENSORS and app op 56
+12-07 17:14:04.161: E/SensorService(791): getSensorList a sensor (MAX86900) without holding its required permission: com.samsung.permission.SSENSOR
+12-07 17:14:04.161: I/SensorService(791): Skipped sensor MAX86900 because it requires permission com.samsung.permission.SSENSOR and app op -1
+12-07 17:14:04.231: W/YT.MDX.aarv(3727): CastAppId for type 0 not found. Defaulting to mainCastAppId.
+12-07 17:14:04.241: W/ActivityManager(791): Permission Denial: Accessing service ComponentInfo{com.google.android.music/com.google.android.music.dial.DialMediaRouteProviderService} from pid=3727, uid=10088 that is not exported from uid 10132
+12-07 17:14:04.261: W/CastMediaRouteProvider(1777): Not a Cast compatible category: MDX_MEDIA_ROUTE_CONTROL_CATEGORY
+12-07 17:14:04.261: W/CastMediaRouteProvider(1777): Not a Cast compatible category: android.media.intent.category.LIVE_AUDIO
+12-07 17:14:04.271: I/DiscoveryManager(1777): Filter criteria(233637DE) scannerFlags(2)
+12-07 17:14:04.331: I/qtaguid(1777): Tagging socket 239 with tag 3000090000000000{805308672,0} uid -1, pid: 1777, getuid(): 10031
+12-07 17:14:04.331: I/qtaguid(1777): Tagging socket 245 with tag 3000090000000000{805308672,0} uid -1, pid: 1777, getuid(): 10031
+12-07 17:14:04.331: I/qtaguid(1777): Untagging socket 245
+12-07 17:14:04.331: I/qtaguid(1777): Tagging socket 245 with tag 3000090000000000{805308672,0} uid -1, pid: 1777, getuid(): 10031
+12-07 17:14:04.331: I/qtaguid(1777): Untagging socket 245
+12-07 17:14:04.331: I/qtaguid(1777): Tagging socket 245 with tag 3000090000000000{805308672,0} uid -1, pid: 1777, getuid(): 10031
+12-07 17:14:04.331: I/qtaguid(1777): Untagging socket 245
+12-07 17:14:04.331: I/qtaguid(1777): Tagging socket 245 with tag 3000090000000000{805308672,0} uid -1, pid: 1777, getuid(): 10031
+12-07 17:14:04.331: I/qtaguid(1777): Untagging socket 245
+12-07 17:14:04.341: I/qtaguid(1777): Tagging socket 245 with tag 3000090000000000{805308672,0} uid -1, pid: 1777, getuid(): 10031
+12-07 17:14:04.341: I/qtaguid(1777): Untagging socket 245
+12-07 17:14:04.341: I/qtaguid(1777): Tagging socket 245 with tag 3000090000000000{805308672,0} uid -1, pid: 1777, getuid(): 10031
+12-07 17:14:04.341: I/qtaguid(1777): Untagging socket 245
+12-07 17:14:04.341: I/qtaguid(1777): Tagging socket 245 with tag 3000090000000000{805308672,0} uid -1, pid: 1777, getuid(): 10031
+12-07 17:14:04.341: I/qtaguid(1777): Untagging socket 245
+12-07 17:14:04.341: I/qtaguid(1777): Tagging socket 245 with tag 3000090000000000{805308672,0} uid -1, pid: 1777, getuid(): 10031
+12-07 17:14:04.341: I/qtaguid(1777): Untagging socket 245
+12-07 17:14:04.341: I/qtaguid(1777): Tagging socket 245 with tag 3000090000000000{805308672,0} uid -1, pid: 1777, getuid(): 10031
+12-07 17:14:04.341: I/qtaguid(1777): Untagging socket 245
+12-07 17:14:04.341: I/qtaguid(1777): Tagging socket 245 with tag 3000090000000000{805308672,0} uid -1, pid: 1777, getuid(): 10031
+12-07 17:14:04.341: I/qtaguid(1777): Untagging socket 245
+12-07 17:14:04.341: I/qtaguid(1777): Tagging socket 245 with tag 3000090000000000{805308672,0} uid -1, pid: 1777, getuid(): 10031
+12-07 17:14:04.341: I/qtaguid(1777): Untagging socket 245
+12-07 17:14:04.341: I/qtaguid(1777): Tagging socket 245 with tag 3000090000000000{805308672,0} uid -1, pid: 1777, getuid(): 10031
+12-07 17:14:04.341: I/qtaguid(1777): Untagging socket 245
+12-07 17:14:04.341: I/qtaguid(1777): Tagging socket 245 with tag 3000090000000000{805308672,0} uid -1, pid: 1777, getuid(): 10031
+12-07 17:14:04.341: I/qtaguid(1777): Untagging socket 245
+12-07 17:14:04.341: I/qtaguid(1777): Tagging socket 245 with tag 3000090000000000{805308672,0} uid -1, pid: 1777, getuid(): 10031
+12-07 17:14:04.341: I/qtaguid(1777): Untagging socket 245
+12-07 17:14:04.351: I/wpa_supplicant(19165): wlan0: Setting scan request: 0 sec 0 usec
+12-07 17:14:04.351: I/qtaguid(1777): Tagging socket 245 with tag 3000090000000000{805308672,0} uid -1, pid: 1777, getuid(): 10031
+12-07 17:14:04.351: I/qtaguid(1777): Untagging socket 245
+12-07 17:14:04.351: I/qtaguid(1777): Tagging socket 245 with tag 3000090000000000{805308672,0} uid -1, pid: 1777, getuid(): 10031
+12-07 17:14:04.351: I/qtaguid(1777): Untagging socket 245
+12-07 17:14:04.351: I/qtaguid(1777): Tagging socket 245 with tag 3000090000000000{805308672,0} uid -1, pid: 1777, getuid(): 10031
+12-07 17:14:04.351: I/qtaguid(1777): Untagging socket 245
+12-07 17:14:04.351: I/wpa_supplicant(19165): P2P: Current p2p state = IDLE
+12-07 17:14:04.351: I/qtaguid(1777): Tagging socket 245 with tag 3000090000000000{805308672,0} uid -1, pid: 1777, getuid(): 10031
+12-07 17:14:04.351: I/qtaguid(1777): Untagging socket 245
+12-07 17:14:04.351: I/qtaguid(1777): Tagging socket 245 with tag 3000090000000000{805308672,0} uid -1, pid: 1777, getuid(): 10031
+12-07 17:14:04.351: I/wpa_supplicant(19165): Scan requested (ret=0) - scan timeout 30 seconds
+12-07 17:14:04.351: I/qtaguid(1777): Untagging socket 245
+12-07 17:14:04.351: I/qtaguid(1777): Tagging socket 245 with tag 3000090000000000{805308672,0} uid -1, pid: 1777, getuid(): 10031
+12-07 17:14:04.351: I/qtaguid(1777): Untagging socket 245
+12-07 17:14:04.361: I/qtaguid(1777): Tagging socket 245 with tag 3000090000000000{805308672,0} uid -1, pid: 1777, getuid(): 10031
+12-07 17:14:04.361: I/qtaguid(1777): Untagging socket 245
+12-07 17:14:04.361: I/qtaguid(1777): Tagging socket 245 with tag 3000090000000000{805308672,0} uid -1, pid: 1777, getuid(): 10031
+12-07 17:14:04.361: I/qtaguid(1777): Untagging socket 245
+12-07 17:14:04.361: I/qtaguid(1777): Tagging socket 245 with tag 3000090000000000{805308672,0} uid -1, pid: 1777, getuid(): 10031
+12-07 17:14:04.361: I/qtaguid(1777): Untagging socket 245
+12-07 17:14:04.371: E/BatteryStatsImpl(791): Wifi multicast lock enabled by UID  = 10031
+12-07 17:14:05.171: I/wpa_supplicant(19165): nl80211: Received scan results (2 BSSes)
+12-07 17:14:06.761: I/InputReader(791): Touch event's action is 0x0 (deviceType=0) [pCnt=1, s=0.2420 ] when=53399058083000
+12-07 17:14:06.761: I/InputDispatcher(791): Delivering touch to (1389): action: 0x4, toolType: 1
+12-07 17:14:06.761: I/InputDispatcher(791): Delivering touch to (2486): action: 0x4, toolType: 1
+12-07 17:14:06.761: I/InputDispatcher(791): Delivering touch to (3415): action: 0x0, toolType: 1
+12-07 17:14:06.771: E/FXEntity(3415): call native MultitouchEvent, density = 3.0, touchXs0 = 555
+12-07 17:14:06.771: I/GLASS(3415): Call InternalSurfaceView_onMultiTouchEventNative
+12-07 17:14:06.771: I/GLASS(3415): Glass will pass multitouchevent to monocle with count = 1
+12-07 17:14:06.801: E/FXEntity(3415): call native MultitouchEvent, density = 3.0, touchXs0 = 555
+12-07 17:14:06.801: I/GLASS(3415): Call InternalSurfaceView_onMultiTouchEventNative
+12-07 17:14:06.801: I/GLASS(3415): Glass will pass multitouchevent to monocle with count = 1
+12-07 17:14:06.881: E/FXEntity(3415): call native MultitouchEvent, density = 3.0, touchXs0 = 555
+12-07 17:14:06.881: I/GLASS(3415): Call InternalSurfaceView_onMultiTouchEventNative
+12-07 17:14:06.881: I/GLASS(3415): Glass will pass multitouchevent to monocle with count = 1
+12-07 17:14:06.891: E/FXEntity(3415): call native MultitouchEvent, density = 3.0, touchXs0 = 555
+12-07 17:14:06.891: I/GLASS(3415): Call InternalSurfaceView_onMultiTouchEventNative
+12-07 17:14:06.891: I/GLASS(3415): Glass will pass multitouchevent to monocle with count = 1
+12-07 17:14:06.991: E/FXEntity(3415): call native MultitouchEvent, density = 3.0, touchXs0 = 555
+12-07 17:14:07.001: I/GLASS(3415): Call InternalSurfaceView_onMultiTouchEventNative
+12-07 17:14:07.001: I/GLASS(3415): Glass will pass multitouchevent to monocle with count = 1
+12-07 17:14:07.011: E/FXEntity(3415): call native MultitouchEvent, density = 3.0, touchXs0 = 555
+12-07 17:14:07.011: I/GLASS(3415): Call InternalSurfaceView_onMultiTouchEventNative
+12-07 17:14:07.011: I/GLASS(3415): Glass will pass multitouchevent to monocle with count = 1
+12-07 17:14:07.031: I/InputReader(791): Touch event's action is 0x1 (deviceType=0) [pCnt=1, s=] when=53399320408000
+12-07 17:14:07.031: I/InputDispatcher(791): Delivering touch to (3415): action: 0x1, toolType: 1
+12-07 17:14:07.031: E/FXEntity(3415): call native MultitouchEvent, density = 3.0, touchXs0 = 554
+12-07 17:14:07.031: I/GLASS(3415): Call InternalSurfaceView_onMultiTouchEventNative
+12-07 17:14:07.031: I/GLASS(3415): Glass will pass multitouchevent to monocle with count = 1
+12-07 17:14:07.031: E/FXEntity(3415): call native MultitouchEvent, density = 3.0, touchXs0 = 554
+12-07 17:14:07.031: I/GLASS(3415): Call InternalSurfaceView_onMultiTouchEventNative
+12-07 17:14:07.031: I/GLASS(3415): Glass will pass multitouchevent to monocle with count = 1
+12-07 17:14:07.031: I/System.out(3415): don't add points, primary = -1
+12-07 17:14:07.031: I/System.out(3415): [ 12-07 17:14:07.061  3415: 3891 W/         ]
+12-07 17:14:07.031: I/System.out(3415): Zip: Invalid filename 
+12-07 17:14:07.031: I/System.out(3415): [ 12-07 17:14:07.061  3415: 3891 W/         ]
+12-07 17:14:07.031: I/System.out(3415): Zip: Invalid filename 
+12-07 17:14:07.031: I/System.out(3415): [ 12-07 17:14:07.061  3415: 3891 W/         ]
+12-07 17:14:07.031: I/System.out(3415): Zip: Invalid filename 
+12-07 17:14:07.031: I/System.out(3415): [ 12-07 17:14:07.061  3415: 3891 W/         ]
+12-07 17:14:07.031: I/System.out(3415): Zip: Invalid filename 
+12-07 17:14:07.031: I/System.out(3415): [ 12-07 17:14:07.061  3415: 3891 W/         ]
+12-07 17:14:07.031: I/System.out(3415): Zip: Invalid filename 
+12-07 17:14:07.031: I/System.out(3415): [ 12-07 17:14:07.061  3415: 3891 W/         ]
+12-07 17:14:07.031: I/System.out(3415): Zip: Invalid filename 
+12-07 17:14:07.031: I/System.out(3415): [ 12-07 17:14:07.061  3415: 3891 W/         ]
+12-07 17:14:07.031: I/System.out(3415): Zip: Invalid filename 
+12-07 17:14:07.031: I/System.out(3415): [ 12-07 17:14:07.061  3415: 3891 W/         ]
+12-07 17:14:07.031: I/System.out(3415): Zip: Invalid filename 
+12-07 17:14:07.031: I/System.out(3415): [ 12-07 17:14:07.061  3415: 3891 W/         ]
+12-07 17:14:07.031: I/System.out(3415): Zip: Invalid filename 
+12-07 17:14:07.031: I/System.out(3415): [ 12-07 17:14:07.061  3415: 3891 W/         ]
+12-07 17:14:07.031: I/System.out(3415): Zip: Invalid filename 
+12-07 17:14:07.031: I/System.out(3415): [ 12-07 17:14:07.061  3415: 3891 W/         ]
+12-07 17:14:07.031: I/System.out(3415): Zip: Invalid filename 
+12-07 17:14:07.031: I/System.out(3415): [ 12-07 17:14:07.061  3415: 3891 W/         ]
+12-07 17:14:07.031: I/System.out(3415): Zip: Invalid filename 
+12-07 17:14:07.031: I/System.out(3415): [ 12-07 17:14:07.061  3415: 3891 W/         ]
+12-07 17:14:07.031: I/System.out(3415): Zip: Invalid filename 
+12-07 17:14:07.031: I/System.out(3415): [ 12-07 17:14:07.061  3415: 3891 W/         ]
+12-07 17:14:07.031: I/System.out(3415): Zip: Invalid filename 
+12-07 17:14:07.031: I/System.out(3415): [ 12-07 17:14:07.061  3415: 3891 W/         ]
+12-07 17:14:07.031: I/System.out(3415): Zip: Invalid filename 
+12-07 17:14:07.031: I/System.out(3415): [ 12-07 17:14:07.061  3415: 3891 W/         ]
+12-07 17:14:07.031: I/System.out(3415): Zip: Invalid filename 
+12-07 17:14:07.031: I/System.out(3415): [ 12-07 17:14:07.061  3415: 3891 W/         ]
+12-07 17:14:07.031: I/System.out(3415): Zip: Invalid filename 
+12-07 17:14:07.031: I/System.out(3415): [ 12-07 17:14:07.061  3415: 3891 W/         ]
+12-07 17:14:07.031: I/System.out(3415): Zip: Invalid filename 
+12-07 17:14:07.031: I/System.out(3415): [ 12-07 17:14:07.061  3415: 3891 W/         ]
+12-07 17:14:07.031: I/System.out(3415): Zip: Invalid filename 
+12-07 17:14:07.031: I/System.out(3415): [ 12-07 17:14:07.061  3415: 3891 W/         ]
+12-07 17:14:07.031: I/System.out(3415): Zip: Invalid filename 
+12-07 17:14:07.031: I/System.out(3415): [ 12-07 17:14:07.071  3415: 3891 W/         ]
+12-07 17:14:07.031: I/System.out(3415): Zip: Invalid filename 
+12-07 17:14:07.031: I/System.out(3415): [ 12-07 17:14:07.071  3415: 3891 W/         ]
+12-07 17:14:07.031: I/System.out(3415): Zip: Invalid filename 
+12-07 17:14:07.031: I/System.out(3415): [ 12-07 17:14:07.071  3415: 3891 W/         ]
+12-07 17:14:07.031: I/System.out(3415): Zip: Invalid filename 
+12-07 17:14:07.031: I/System.out(3415): [ 12-07 17:14:07.071  3415: 3891 W/         ]
+12-07 17:14:07.031: I/System.out(3415): Zip: Invalid filename 
+12-07 17:14:07.031: I/System.out(3415): [ 12-07 17:14:07.071  3415: 3891 W/         ]
+12-07 17:14:07.031: I/System.out(3415): Zip: Invalid filename 
+12-07 17:14:07.031: I/System.out(3415): [ 12-07 17:14:07.071  3415: 3891 W/         ]
+12-07 17:14:07.031: I/System.out(3415): Zip: Invalid filename 
+12-07 17:14:07.031: I/System.out(3415): [ 12-07 17:14:07.071  3415: 3891 W/         ]
+12-07 17:14:07.031: I/System.out(3415): Zip: Invalid filename 
+12-07 17:14:07.031: I/System.out(3415): [ 12-07 17:14:07.071  3415: 3891 W/         ]
+12-07 17:14:07.031: I/System.out(3415): Zip: Invalid filename 
+12-07 17:14:07.031: I/System.out(3415): [ 12-07 17:14:07.071  3415: 3891 W/         ]
+12-07 17:14:07.031: I/System.out(3415): Zip: Invalid filename 
+12-07 17:14:07.031: I/System.out(3415): [ 12-07 17:14:07.071  3415: 3891 W/         ]
+12-07 17:14:07.031: I/System.out(3415): Zip: Invalid filename 
+12-07 17:14:07.031: I/System.out(3415): [ 12-07 17:14:07.071  3415: 3891 W/         ]
+12-07 17:14:07.031: I/System.out(3415): Unable to open '/system/framework/com.qti.location.sdk.jar': No such file or directory
+12-07 17:14:07.071: W/art(3415): Failed to open zip archive '/system/framework/com.qti.location.sdk.jar': I/O Error
+12-07 17:14:07.121: E/AndroidRuntime(3415): FATAL EXCEPTION: JavaFX Application Thread
+12-07 17:14:07.121: E/AndroidRuntime(3415): Process: com.maqboolsolutions.mysql_ssh_android, PID: 3415
+12-07 17:14:07.121: E/AndroidRuntime(3415): java.lang.RuntimeException: java.lang.reflect.InvocationTargetException
+12-07 17:14:07.121: E/AndroidRuntime(3415): 	at javafx.fxml.FXMLLoader$MethodHandler.invoke(FXMLLoader.java:1774)
+12-07 17:14:07.121: E/AndroidRuntime(3415): 	at javafx.fxml.FXMLLoader$ControllerMethodEventHandler.handle(FXMLLoader.java:1657)
+12-07 17:14:07.121: E/AndroidRuntime(3415): 	at com.sun.javafx.event.CompositeEventHandler.dispatchBubblingEvent(CompositeEventHandler.java:86)
+12-07 17:14:07.121: E/AndroidRuntime(3415): 	at com.sun.javafx.event.EventHandlerManager.dispatchBubblingEvent(EventHandlerManager.java:238)
+12-07 17:14:07.121: E/AndroidRuntime(3415): 	at com.sun.javafx.event.EventHandlerManager.dispatchBubblingEvent(EventHandlerManager.java:191)
+12-07 17:14:07.121: E/AndroidRuntime(3415): 	at com.sun.javafx.event.CompositeEventDispatcher.dispatchBubblingEvent(CompositeEventDispatcher.java:59)
+12-07 17:14:07.121: E/AndroidRuntime(3415): 	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:58)
+12-07 17:14:07.121: E/AndroidRuntime(3415): 	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114)
+12-07 17:14:07.121: E/AndroidRuntime(3415): 	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56)
+12-07 17:14:07.121: E/AndroidRuntime(3415): 	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114)
+12-07 17:14:07.121: E/AndroidRuntime(3415): 	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56)
+12-07 17:14:07.121: E/AndroidRuntime(3415): 	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114)
+12-07 17:14:07.121: E/AndroidRuntime(3415): 	at com.sun.javafx.event.EventUtil.fireEventImpl(EventUtil.java:74)
+12-07 17:14:07.121: E/AndroidRuntime(3415): 	at com.sun.javafx.event.EventUtil.fireEvent(EventUtil.java:49)
+12-07 17:14:07.121: E/AndroidRuntime(3415): 	at javafx.event.Event.fireEvent(Event.java:198)
+12-07 17:14:07.121: E/AndroidRuntime(3415): 	at javafx.scene.Node.fireEvent(Node.java:8411)
+12-07 17:14:07.121: E/AndroidRuntime(3415): 	at javafx.scene.control.Button.fire(Button.java:185)
+12-07 17:14:07.121: E/AndroidRuntime(3415): 	at com.sun.javafx.scene.control.behavior.ButtonBehavior.mouseReleased(ButtonBehavior.java:182)
+12-07 17:14:07.121: E/AndroidRuntime(3415): 	at com.sun.javafx.scene.control.skin.BehaviorSkinBase$1.handle(BehaviorSkinBase.java:96)
+12-07 17:14:07.121: E/AndroidRuntime(3415): 	at com.sun.javafx.scene.control.skin.BehaviorSkinBase$1.handle(BehaviorSkinBase.java:89)
+12-07 17:14:07.121: E/AndroidRuntime(3415): 	at com.sun.javafx.event.CompositeEventHandler$NormalEventHandlerRecord.handleBubblingEvent(CompositeEventHandler.java:218)
+12-07 17:14:07.121: E/AndroidRuntime(3415): 	at com.sun.javafx.event.CompositeEventHandler.dispatchBubblingEvent(CompositeEventHandler.java:80)
+12-07 17:14:07.121: E/AndroidRuntime(3415): 	at com.sun.javafx.event.EventHandlerManager.dispatchBubblingEvent(EventHandlerManager.java:238)
+12-07 17:14:07.121: E/AndroidRuntime(3415): 	at com.sun.javafx.event.EventHandlerManager.dispatchBubblingEvent(EventHandlerManager.java:191)
+12-07 17:14:07.121: E/AndroidRuntime(3415): 	at com.sun.javafx.event.CompositeEventDispatcher.dispatchBubblingEvent(CompositeEventDispatcher.java:59)
+12-07 17:14:07.121: E/AndroidRuntime(3415): 	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:58)
+12-07 17:14:07.121: E/AndroidRuntime(3415): 	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114)
+12-07 17:14:07.121: E/AndroidRuntime(3415): 	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56)
+12-07 17:14:07.121: E/AndroidRuntime(3415): 	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114)
+12-07 17:14:07.121: E/AndroidRuntime(3415): 	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56)
+12-07 17:14:07.121: E/AndroidRuntime(3415): 	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114)
+12-07 17:14:07.121: E/AndroidRuntime(3415): 	at com.sun.javafx.event.EventUtil.fireEventImpl(EventUtil.java:74)
+12-07 17:14:07.121: E/AndroidRuntime(3415): 	at com.sun.javafx.event.EventUtil.fireEvent(EventUtil.java:54)
+12-07 17:14:07.121: E/AndroidRuntime(3415): 	at javafx.event.Event.fireEvent(Event.java:198)
+12-07 17:14:07.121: E/AndroidRuntime(3415): 	at javafx.scene.Scene$MouseHandler.process(Scene.java:3761)
+12-07 17:14:07.121: E/AndroidRuntime(3415): 	at javafx.scene.Scene$MouseHandler.access$1500(Scene.java:3489)
+12-07 17:14:07.121: E/AndroidRuntime(3415): 	at javafx.scene.Scene.impl_processMouseEvent(Scene.java:1762)
+12-07 17:14:07.121: E/AndroidRuntime(3415): 	at javafx.scene.Scene$ScenePeerListener.mouseEvent(Scene.java:2498)
+12-07 17:14:07.121: E/AndroidRuntime(3415): 	at com.sun.javafx.tk.quantum.GlassViewEventHandler$MouseEventNotification.run(GlassViewEventHandler.java:352)
+12-07 17:14:07.121: E/AndroidRuntime(3415): 	at com.sun.javafx.tk.quantum.GlassViewEventHandler$MouseEventNotification.run(GlassViewEventHandler.java:275)
+12-07 17:14:07.121: E/AndroidRuntime(3415): 	at java.security.AccessController.doPrivileged(AccessController.java:52)
+12-07 17:14:07.121: E/AndroidRuntime(3415): 	at com.sun.javafx.tk.quantum.GlassViewEventHandler.lambda$handleMouseEvent$335(GlassViewEventHandler.java:388)
+12-07 17:14:07.121: E/AndroidRuntime(3415): 	at com.sun.javafx.tk.quantum.GlassViewEventHandler.access$lambda$1(GlassViewEventHandler.java)
+12-07 17:14:07.121: E/AndroidRuntime(3415): 	at com.sun.javafx.tk.quantum.GlassViewEventHandler$$Lambda$4.get(Unknown Source)
+12-07 17:14:07.121: E/AndroidRuntime(3415): 	at com.sun.javafx.tk.quantum.QuantumToolkit.runWithoutRenderLock(QuantumToolkit.java:391)
+12-07 17:14:07.121: E/AndroidRuntime(3415): 	at com.sun.javafx.tk
+12-07 17:14:07.121: W/ActivityManager(791):   Force finishing activity com.maqboolsolutions.mysql_ssh_android/javafxports.android.FXActivity
+12-07 17:14:07.131: W/DropBoxManagerService(791): Dropping: data_app_crash (10 > 0 bytes)
+12-07 17:14:07.241: E/android.os.Debug(791): ro.product_ship = true
+12-07 17:14:07.241: E/android.os.Debug(791): ro.debug_level = 0x4f4c
+12-07 17:14:07.241: E/android.os.Debug(791): sys.mobilecare.preload = false
+12-07 17:14:07.261: I/VerificationLog(30518): onResume
+12-07 17:14:07.281: I/SurfaceFlinger(315): id=839 createSurf (145x145),1 flag=4, nysql_ssh_a
+12-07 17:14:07.291: I/WallpaperManagerService(791): switchPersonaWallpaper is called for personaId-0
+12-07 17:14:07.291: I/KnoxTimeoutHandler(791): Shared devices show user statefalse
+12-07 17:14:07.301: I/OpenGLRenderer(791): Initialized EGL, version 1.4
+12-07 17:14:07.301: I/SurfaceFlinger(315): id=840 createSurf (1080x1920),1 flag=4, Mauncher
+12-07 17:14:07.311: W/ContextImpl(869): Calling a method in the system process without a qualified user: android.app.ContextImpl.startService:1305 android.content.ContextWrapper.startService:606 android.content.ContextWrapper.startService:606 com.samsung.android.sm.common.SmartManagerReceiver.b:259 com.samsung.android.sm.common.SmartManagerReceiver.onReceive:107 
+12-07 17:14:07.331: W/AdaptiveDiscoveryWorker(1777): Exiting Adaptive Discovery. Current NetworkInfo is NULL.
+12-07 17:14:07.381: W/DisplayListCanvas(791): DisplayListCanvas is started on unbinded RenderNode (without mOwningView)
+12-07 17:14:07.451: W/BroadcastQueue(791): Permission Denial: broadcasting Intent { act=com.sec.android.intent.action.HOME_RESUME flg=0x10 } from com.sec.android.app.launcher (pid=30518, uid=10021) is not exported from uid 1000 due to receiver com.android.settings/.accessibilitywidget.AccessibilityEasyWidgetProviderAssistiveLight
+12-07 17:14:07.541: I/Timeline(30518): Timeline: Activity_idle id: android.os.BinderProxy@b1742af time:53399833
+12-07 17:14:07.581: I/GLASS(3415): Native code is notified that surface has changed (repaintall)!
+12-07 17:14:07.581: I/KnoxTimeoutHandler(791): SD activityfalse
+12-07 17:14:07.581: I/ActivityManager(791): Displayed com.sec.android.app.launcher/com.android.launcher2.Launcher: +366ms
+12-07 17:14:07.591: I/art(791): Background partial concurrent mark sweep GC freed 89769(5MB) AllocSpace objects, 29(580KB) LOS objects, 20% free, 61MB/77MB, paused 13.177ms total 425.269ms
+12-07 17:14:07.911: I/SurfaceFlinger(315): id=837 Removed GXActivity (7/11)
+12-07 17:14:07.911: I/SurfaceFlinger(315): id=837 Removed GXActivity (-2/11)
+12-07 17:14:07.911: I/SurfaceFlinger(315): id=838 Removed TurfaceView (6/10)
+12-07 17:14:07.911: I/SurfaceFlinger(315): id=838 Removed TurfaceView (-2/10)
+12-07 17:14:07.961: I/Timeline(791): Timeline: Activity_windows_visible id: ActivityRecord{ac558db u0 com.sec.android.app.launcher/com.android.launcher2.Launcher t493} time:53400252
+12-07 17:14:07.961: I/Process(3415): Sending signal. PID: 3415 SIG: 9
+12-07 17:14:07.971: I/KnoxTimeoutHandler(791): SD activityfalse
+12-07 17:14:08.001: I/WindowState(791): WIN DEATH: Window{4b4f0f9 u0 d0 com.maqboolsolutions.mysql_ssh_android/javafxports.android.FXActivity}
+12-07 17:14:08.001: W/WindowManager(791): Force-removing child win Window{a9ab69f u0 d0 SurfaceView} from container Window{4b4f0f9 u0 d0 com.maqboolsolutions.mysql_ssh_android/javafxports.android.FXActivity}
+12-07 17:14:08.001: I/ActivityManager(791): Process com.maqboolsolutions.mysql_ssh_android (pid 3415)(adj 9) has died(124,288)
+12-07 17:14:08.031: W/WindowManager(791): Failed looking up window
+12-07 17:14:08.031: W/WindowManager(791): java.lang.IllegalArgumentException: Requested window android.os.BinderProxy@c0ca83e does not exist
+12-07 17:14:08.031: W/WindowManager(791): 	at com.android.server.wm.WindowManagerService.windowForClientLocked(WindowManagerService.java:14806)
+12-07 17:14:08.031: W/WindowManager(791): 	at com.android.server.wm.WindowManagerService.windowForClientLocked(WindowManagerService.java:14797)
+12-07 17:14:08.031: W/WindowManager(791): 	at com.android.server.wm.WindowState$DeathRecipient.binderDied(WindowState.java:1764)
+12-07 17:14:08.031: W/WindowManager(791): 	at android.os.BinderProxy.sendDeathNotice(Binder.java:558)
+12-07 17:14:08.031: I/WindowState(791): WIN DEATH: null
+12-07 17:14:08.041: W/InputMethodManagerService(791): Got RemoteException sending setActive(false) notification to pid 3415 uid 10265
+12-07 17:14:08.051: W/ContextImpl(791): Calling a method in the system process without a qualified user: android.app.ContextImpl.sendBroadcast:830 com.android.server.am.ActivityManagerService.updateOomAdjLocked:26709 com.android.server.am.ActivityManagerService.appDiedLocked:7560 com.android.server.am.ActivityManagerService$AppDeathRecipient.binderDied:1919 android.os.BinderProxy.sendDeathNotice:558 
+12-07 17:14:08.051: E/ViewRootImpl(791): sendUserActionEvent() mView == null
+12-07 17:14:08.091: I/ActivityManager(791): Force stopping com.dewmobile.kuaiya.play appid=10196 user=0: MARs-NonSticky-Kill-spcmpolicy(1)
+12-07 17:14:08.091: I/ActivityManager(791): Killing 1166:com.dewmobile.kuaiya.play/u0a196 (adj 15): stop com.dewmobile.kuaiya.play cause MARs-NonSticky-Kill-spcmpolicy(1)
+12-07 17:14:08.141: E/ConnectivityService(791): RemoteException caught trying to send a callback msg for NetworkRequest [ id=446, legacyType=-1, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED] ]
+12-07 17:14:08.141: E/ConnectivityService(791): RemoteException caught trying to send a callback msg for NetworkRequest [ id=447, legacyType=-1, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED] ]
+12-07 17:14:08.231: I/SurfaceFlinger(315): id=839 Removed nysql_ssh_a (8/9)
+12-07 17:14:08.231: I/SurfaceFlinger(315): id=839 Removed nysql_ssh_a (-2/9)
+12-07 17:14:08.231: W/AppOps(791): Finishing op nesting under-run: uid 1000 pkg android code 24 time=0 duration=0 nesting=0
