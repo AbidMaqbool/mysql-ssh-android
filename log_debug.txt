@@ -1,0 +1,1094 @@
+12-07 17:16:45.131: D/StatusBar.NetworkController(1389): refreshViews connected={ wifi } level=4 combinedSignalIconId=0x7f020648/com.android.systemui:drawable/stat_sys_wifi_signal_4 mobileLabel=Telenor wifiLabel="Maqbool Solutions" emergencyOnly=false combinedLabel="Maqbool Solutions" mAirplaneMode=false mDataActivity=0 mPhoneSignalIconId=0x7f0205c8/com.android.systemui:drawable/stat_sys_signal_4_auto_rotate mQSPhoneSignalIconId=0x7f02015e/com.android.systemui:drawable/ic_qs_signal_4 mDataDirectionIconId=0x0/(null) mDataSignalIconId=0x7f0205c8/com.android.systemui:drawable/stat_sys_signal_4_auto_rotate mDataTypeIconId=0x7f020420/com.android.systemui:drawable/stat_sys_data_connected_h mQSDataTypeIconId=0x7f020168/com.android.systemui:drawable/ic_qs_signal_h mNoSimIconId=0x0/(null) mWifiIconId=0x7f020648/com.android.systemui:drawable/stat_sys_wifi_signal_4 mQSWifiIconId=0x7f02032a/com.android.systemui:drawable/qs_tile_wifi_signal_4 mWifiActivityIconId=0x7f0205fe/com.android.systemui:drawable/stat_sys_signal_no_inout mBluetoothTetherIconId=0x7f020624/com.android.systemui:drawable/stat_sys_tether_bluetooth
+12-07 17:16:45.131: D/StatusBar.NetworkController(1389): refreshNwBoosterIndicator - setNWBoosterIndicators(false)
+12-07 17:16:45.161: D/StatusBar.NetworkController(1389): refreshNwBoosterIndicator - setNWBoosterIndicators(false)
+12-07 17:16:45.161: D/StatusBar.NetworkController(1389): refreshNwBoosterIndicator - setNWBoosterIndicators(false)
+12-07 17:16:45.161: W/System.err(791): remove failed: ENOENT (No such file or directory) : /data/system/recent_tasks/597_task.xml.bak
+12-07 17:16:45.161: D/StatusBar.NetworkController(1389): refreshNwBoosterIndicator - setNWBoosterIndicators(false)
+12-07 17:16:45.351: D/libEGL(1469): eglTerminate EGLDisplay = 0x9b372834
+12-07 17:16:45.941: D/InputReader(791): Input event(9): value=1 when=53558239332000
+12-07 17:16:45.951: I/InputReader(791): Touch event's action is 0x0 (deviceType=0) [pCnt=1, s=0.2435 ] when=53558239371000
+12-07 17:16:45.951: D/InputReader(791): lastThreadEndTime = 53554369836895, currentThreadStartTime = 53554369839551, diff = 0
+12-07 17:16:45.951: I/InputDispatcher(791): Delivering touch to (1389): action: 0x4, toolType: 1
+12-07 17:16:45.951: I/InputDispatcher(791): Delivering touch to (2486): action: 0x4, toolType: 1
+12-07 17:16:45.951: I/InputDispatcher(791): Delivering touch to (6615): action: 0x0, toolType: 1
+12-07 17:16:45.951: D/ViewRootImpl(6615): ViewPostImeInputStage processPointer 0
+12-07 17:16:45.951: E/FXEntity(6615): call native MultitouchEvent, density = 3.0, touchXs0 = 264
+12-07 17:16:45.951: I/GLASS(6615): Call InternalSurfaceView_onMultiTouchEventNative
+12-07 17:16:45.951: I/GLASS(6615): Glass will pass multitouchevent to monocle with count = 1
+12-07 17:16:45.971: E/FXEntity(6615): call native MultitouchEvent, density = 3.0, touchXs0 = 264
+12-07 17:16:45.971: I/GLASS(6615): Call InternalSurfaceView_onMultiTouchEventNative
+12-07 17:16:45.971: I/GLASS(6615): Glass will pass multitouchevent to monocle with count = 1
+12-07 17:16:45.981: D/libEGL(315): eglInitialize EGLDisplay = 0xbed7b364
+12-07 17:16:46.061: E/FXEntity(6615): call native MultitouchEvent, density = 3.0, touchXs0 = 264
+12-07 17:16:46.061: I/GLASS(6615): Call InternalSurfaceView_onMultiTouchEventNative
+12-07 17:16:46.061: I/GLASS(6615): Glass will pass multitouchevent to monocle with count = 1
+12-07 17:16:46.061: D/InputReader(791): Input event(9): value=0 when=53558348265000
+12-07 17:16:46.061: I/InputReader(791): Touch event's action is 0x1 (deviceType=0) [pCnt=1, s=] when=53558348266000
+12-07 17:16:46.061: I/InputDispatcher(791): Delivering touch to (6615): action: 0x1, toolType: 1
+12-07 17:16:46.061: D/ViewRootImpl(6615): ViewPostImeInputStage processPointer 1
+12-07 17:16:46.061: E/FXEntity(6615): call native MultitouchEvent, density = 3.0, touchXs0 = 264
+12-07 17:16:46.061: I/GLASS(6615): Call InternalSurfaceView_onMultiTouchEventNative
+12-07 17:16:46.061: I/GLASS(6615): Glass will pass multitouchevent to monocle with count = 1
+12-07 17:16:46.061: I/System.out(6615): don't add points, primary = -1
+12-07 17:16:46.131: D/StatusBar.NetworkController(1389): refreshViews connected={ wifi } level=4 combinedSignalIconId=0x7f020648/com.android.systemui:drawable/stat_sys_wifi_signal_4 mobileLabel=Telenor wifiLabel="Maqbool Solutions" emergencyOnly=false combinedLabel="Maqbool Solutions" mAirplaneMode=false mDataActivity=0 mPhoneSignalIconId=0x7f0205c8/com.android.systemui:drawable/stat_sys_signal_4_auto_rotate mQSPhoneSignalIconId=0x7f02015e/com.android.systemui:drawable/ic_qs_signal_4 mDataDirectionIconId=0x0/(null) mDataSignalIconId=0x7f0205c8/com.android.systemui:drawable/stat_sys_signal_4_auto_rotate mDataTypeIconId=0x7f020420/com.android.systemui:drawable/stat_sys_data_connected_h mQSDataTypeIconId=0x7f020168/com.android.systemui:drawable/ic_qs_signal_h mNoSimIconId=0x0/(null) mWifiIconId=0x7f020648/com.android.systemui:drawable/stat_sys_wifi_signal_4 mQSWifiIconId=0x7f02032a/com.android.systemui:drawable/qs_tile_wifi_signal_4 mWifiActivityIconId=0x7f0205f9/com.android.systemui:drawable/stat_sys_signal_in mBluetoothTetherIconId=0x7f020624/com.android.systemui:drawable/stat_sys_tether_bluetooth
+12-07 17:16:46.141: D/StatusBar.NetworkController(1389): refreshNwBoosterIndicator - setNWBoosterIndicators(false)
+12-07 17:16:46.141: D/StatusBar.NetworkController(1389): refreshNwBoosterIndicator - setNWBoosterIndicators(false)
+12-07 17:16:46.141: D/StatusBar.NetworkController(1389): refreshNwBoosterIndicator - setNWBoosterIndicators(false)
+12-07 17:16:46.141: D/StatusBar.NetworkController(1389): refreshNwBoosterIndicator - setNWBoosterIndicators(false)
+12-07 17:16:47.141: D/StatusBar.NetworkController(1389): refreshViews connected={ wifi } level=4 combinedSignalIconId=0x7f020648/com.android.systemui:drawable/stat_sys_wifi_signal_4 mobileLabel=Telenor wifiLabel="Maqbool Solutions" emergencyOnly=false combinedLabel="Maqbool Solutions" mAirplaneMode=false mDataActivity=0 mPhoneSignalIconId=0x7f0205c8/com.android.systemui:drawable/stat_sys_signal_4_auto_rotate mQSPhoneSignalIconId=0x7f02015e/com.android.systemui:drawable/ic_qs_signal_4 mDataDirectionIconId=0x0/(null) mDataSignalIconId=0x7f0205c8/com.android.systemui:drawable/stat_sys_signal_4_auto_rotate mDataTypeIconId=0x7f020420/com.android.systemui:drawable/stat_sys_data_connected_h mQSDataTypeIconId=0x7f020168/com.android.systemui:drawable/ic_qs_signal_h mNoSimIconId=0x0/(null) mWifiIconId=0x7f020648/com.android.systemui:drawable/stat_sys_wifi_signal_4 mQSWifiIconId=0x7f02032a/com.android.systemui:drawable/qs_tile_wifi_signal_4 mWifiActivityIconId=0x7f0205fb/com.android.systemui:drawable/stat_sys_signal_inout mBluetoothTetherIconId=0x7f020624/com.android.systemui:drawable/stat_sys_tether_bluetooth
+12-07 17:16:47.141: D/StatusBar.NetworkController(1389): refreshNwBoosterIndicator - setNWBoosterIndicators(false)
+12-07 17:16:47.141: D/StatusBar.NetworkController(1389): refreshNwBoosterIndicator - setNWBoosterIndicators(false)
+12-07 17:16:47.151: D/StatusBar.NetworkController(1389): refreshNwBoosterIndicator - setNWBoosterIndicators(false)
+12-07 17:16:47.151: D/StatusBar.NetworkController(1389): refreshNwBoosterIndicator - setNWBoosterIndicators(false)
+12-07 17:16:47.241: I/Finsky(28617): [11703] com.google.android.finsky.bo.an.run(6): Stats for Executor: Db-auto_update.db com.google.android.finsky.bo.ao@aedcca0[Running, pool size = 0, active threads = 0, queued tasks = 0, completed tasks = 0]
+12-07 17:16:47.251: I/Finsky(28617): [11703] com.google.android.finsky.bo.an.run(6): Stats for Executor: Db-user_languages_store com.google.android.finsky.bo.ao@f591059[Running, pool size = 0, active threads = 0, queued tasks = 0, completed tasks = 1]
+12-07 17:16:48.221: D/ConnectivityService(791): returning getNetworkInfo for network type 1 : [type: WIFI[] - WIFI, state: CONNECTED/CONNECTED, reason: (unspecified), extra: "Maqbool Solutions", roaming: false, failover: false, isAvailable: true]
+12-07 17:16:49.941: I/Finsky(28617): [11703] com.google.android.finsky.bo.an.run(6): Stats for Executor: Db-scheduled_acquisitions.db com.google.android.finsky.bo.ao@9bd441e[Running, pool size = 0, active threads = 0, queued tasks = 0, completed tasks = 0]
+12-07 17:16:50.171: D/StatusBar.NetworkController(1389): refreshViews connected={ wifi } level=4 combinedSignalIconId=0x7f020648/com.android.systemui:drawable/stat_sys_wifi_signal_4 mobileLabel=Telenor wifiLabel="Maqbool Solutions" emergencyOnly=false combinedLabel="Maqbool Solutions" mAirplaneMode=false mDataActivity=0 mPhoneSignalIconId=0x7f0205c8/com.android.systemui:drawable/stat_sys_signal_4_auto_rotate mQSPhoneSignalIconId=0x7f02015e/com.android.systemui:drawable/ic_qs_signal_4 mDataDirectionIconId=0x0/(null) mDataSignalIconId=0x7f0205c8/com.android.systemui:drawable/stat_sys_signal_4_auto_rotate mDataTypeIconId=0x7f020420/com.android.systemui:drawable/stat_sys_data_connected_h mQSDataTypeIconId=0x7f020168/com.android.systemui:drawable/ic_qs_signal_h mNoSimIconId=0x0/(null) mWifiIconId=0x7f020648/com.android.systemui:drawable/stat_sys_wifi_signal_4 mQSWifiIconId=0x7f02032a/com.android.systemui:drawable/qs_tile_wifi_signal_4 mWifiActivityIconId=0x7f0205fe/com.android.systemui:drawable/stat_sys_signal_no_inout mBluetoothTetherIconId=0x7f020624/com.android.systemui:drawable/stat_sys_tether_bluetooth
+12-07 17:16:50.171: D/StatusBar.NetworkController(1389): refreshNwBoosterIndicator - setNWBoosterIndicators(false)
+12-07 17:16:50.181: D/StatusBar.NetworkController(1389): refreshNwBoosterIndicator - setNWBoosterIndicators(false)
+12-07 17:16:50.181: D/StatusBar.NetworkController(1389): refreshNwBoosterIndicator - setNWBoosterIndicators(false)
+12-07 17:16:50.191: D/StatusBar.NetworkController(1389): refreshNwBoosterIndicator - setNWBoosterIndicators(false)
+12-07 17:16:51.191: D/StatusBar.NetworkController(1389): refreshViews connected={ wifi } level=4 combinedSignalIconId=0x7f020648/com.android.systemui:drawable/stat_sys_wifi_signal_4 mobileLabel=Telenor wifiLabel="Maqbool Solutions" emergencyOnly=false combinedLabel="Maqbool Solutions" mAirplaneMode=false mDataActivity=0 mPhoneSignalIconId=0x7f0205c8/com.android.systemui:drawable/stat_sys_signal_4_auto_rotate mQSPhoneSignalIconId=0x7f02015e/com.android.systemui:drawable/ic_qs_signal_4 mDataDirectionIconId=0x0/(null) mDataSignalIconId=0x7f0205c8/com.android.systemui:drawable/stat_sys_signal_4_auto_rotate mDataTypeIconId=0x7f020420/com.android.systemui:drawable/stat_sys_data_connected_h mQSDataTypeIconId=0x7f020168/com.android.systemui:drawable/ic_qs_signal_h mNoSimIconId=0x0/(null) mWifiIconId=0x7f020648/com.android.systemui:drawable/stat_sys_wifi_signal_4 mQSWifiIconId=0x7f02032a/com.android.systemui:drawable/qs_tile_wifi_signal_4 mWifiActivityIconId=0x7f020609/com.android.systemui:drawable/stat_sys_signal_out mBluetoothTetherIconId=0x7f020624/com.android.systemui:drawable/stat_sys_tether_bluetooth
+12-07 17:16:51.191: D/StatusBar.NetworkController(1389): refreshNwBoosterIndicator - setNWBoosterIndicators(false)
+12-07 17:16:51.191: D/StatusBar.NetworkController(1389): refreshNwBoosterIndicator - setNWBoosterIndicators(false)
+12-07 17:16:51.191: D/StatusBar.NetworkController(1389): refreshNwBoosterIndicator - setNWBoosterIndicators(false)
+12-07 17:16:51.201: D/StatusBar.NetworkController(1389): refreshNwBoosterIndicator - setNWBoosterIndicators(false)
+12-07 17:16:51.581: D/ContactsProvider_EventLog(22020): contents_sample_state: [ contacts(2305) data(20638) accounts({vnd.sec.contact.phone (1)=3980, com.whatsapp.w4b (39)=742, com.osp.app.signin (5)=424, com.facebook.messenger (37)=254, com.whatsapp (38)=741, com.google (2)=867}) accounts deleted({com.google (2)=2}) calls([logtype:100 cnt:41, logtype:300 cnt:142, logtype:500 cnt:2])  ]
+
+12-07 17:16:51.581: D/ContactsProvider_EventLog(22020): contents_sample_state: [ agr({[1 ,1 ,38 ,39 ,37]=7, [38 ,39 ,1]=5, [1 ,1 ,1 ,1 ,37]=8, [2 ,2 ,1 ,1 ,1 ,1 ,37 ,38 ,39]=1, [2 ,1 ,1 ,1 ,1 ,1 ,1 ,1 ,1 ,1]=1, [1]=940, [2 ,2 ,1 ,1 ,5 ,5 ,38 ,39 ,38 ,39]=1, [2 ,1 ,5]=82, [2 ,1 ,1 ,1 ,1]=95, [5 ,5 ,5 ,5 ,38 ,38 ,39 ,39]=1, [2 ,1 ,1 ,1]=1, [2 ,1 ,1 ,1 ,1 ,38 ,39]=36, [39 ,38 ,1]=8, [1 ,1 ,1 ,1 ,1 ,1 ,1 ,1 ,1 ,5]=1, [2 ,1 ,1 ,2 ,2 ,1 ,1 ,5 ,5]=4, [1 ,38 ,39]=181, [2 ,38 ,39]=1, [2 ,2 ,2 ,1 ,1 ,1]=1, [5 ,5 ,5 ,5 ,5 ,5 ,5 ,5 ,5 ,5]=1, [2 ,2 ,2 ,2 ,2 ,1 ,1 ,1 ,1 ,1]=1, [2 ,2 ,1 ,1 ,1 ,38 ,39 ,37]=1, [2 ,1 ,1 ,2 ,2 ,1 ,1 ,5 ,5 ,38]=2, [1 ,39 ,38]=111, [2 ,2 ,2 ,2 ,1 ,38 ,37]=1, [2 ,1 ,1 ,1 ,1 ,39 ,38]=5, [2 ,1 ,1 ,1 ,1 ,37]=61, [1 ,1 ,1 ,1]=18, [39 ,38]=2, [2 ,2 ,2 ,2 ,1 ,1 ,1 ,1 ,37]=1, [1 ,38]=1, [2 ,1 ,1 ,1 ,1 ,39 ,38 ,37]=5, [1 ,1 ,1 ,1 ,38 ,39 ,37]=2, [2 ,2 ,1 ,1 ,2 ,1 ,5 ,38 ,39]=1, [38 ,38 ,39 ,39]=1, [5 ,5 ,38 ,39]=3, [1 ,1 ,5 ,5 ,5 ,5 ,5 ,5]=1, [5 ,5]=1, [2 ,2 ,2 ,1 ,1 ,1 ,5 ,5 ,5 ,38]=14, [1 ,5 ,5 ,5 ,5 ,38 ,38 ,39 ,39]=1, [2 ,1 ,1 ,2 ,1 ,5]=12, [1 ,1 ,2 ,2 ,2 ,1 ,1 ,5 ,5 ,38]=1, [1 ,1 ,39 ,38]=1, [1 ,5 ,5 ,5 ,5]=2, [2 ,1 ,1 ,1 ,1 ,38 ,39 ,37]=89, [2 ,2 ,1 ,1 ,1 ,1 ,38 ,39]=5, [2 ,1 ,1 ,1 ,1 ,1 ,1]=1, [39]=12, [38 ,39 ,39]=5, [2 ,1 ,1]=3, [1 ,1]=196, [1 ,1 ,37]=54, [1 ,39]=2, [2 ,2 ,2 ,2 ,2 ,2 ,2 ,2 ,1 ,1]=1, [2 ,2 ,1 ,1 ,1 ,1 ,1 ,1 ,1 ,1]=1, [2 ,2 ,1 ,1 ,5 ,5 ,38 ,38 ,39 ,39]=8, [2 ,2 ,2 ,2 ,1 ,1 ,1 ,1]=3, [38 ,39]=11, [2 ,2 ,1 ,1 ,1 ,1 ,37]=4, [2 ,2 ,1 ,1 ,5 ,5 ,38 ,39]=28, [2 ,2 ,1 ,1 ,5 ,5]=23, [2 ,2 ,1 ,1 ,2 ,2 ,1 ,5 ,5 ,38]=1, [1 ,1 ,1 ,1 ,1 ,1 ,5 ,5 ,5 ,5]=1, [2 ,2 ,2 ,2 ,2 ,2 ,1 ,1 ,1 ,1]=1, [2 ,2 ,5 ,38 ,38 ,39 ,39 ,39]=1, [2 ,1 ,1 ,2 ,2 ,2 ,2 ,2 ,2 ,2]=1, [2 ,1 ,1 ,1 ,1 ,1 ,37]=2, [1 ,1 ,38 ,39]=111, [2 ,2 ,1 ,1 ,1 ,1 ,38 ,39 ,37]=12, [2 ,2 ,1 ,37]=1, [2 ,2 ,1 ,1 ,1 ,1 ,5 ,5 ,5 ,38]=1, [2 ,2 ,1 ,1 ,2 ,2 ,1 ,1 ,5 ,5]=1, [2 ,1 ,5 ,39 ,38]=2, [1 ,1 ,39 ,38 ,37]=1, [2 ,2 ,2 ,2 ,1 ,1 ,1 ,1 ,38 ,39]=1, [2 ,1 ,1 ,1 ,1 ,1 ,1 ,37]=1, [2 ,2 ,2 ,2 ,1 ,1 ,1 ,1 ,5 ,5]=3, [5]=7, [2 ,2 ,1 ,1 ,5 ,5 ,38 ,39 ,39 ,38]=1, [38]=2, [2 ,1 ,1 ,2 ,2 ,2 ,2 ,1 ,1 ,1]=3, [5 ,5 ,38 ,38 ,39 ,39]=2, [5 ,5 ,5 ,5 ,5 ,38 ,38 ,39 ,39]=1, [2 ,1 ,5 ,38 ,39 ,39]=1, [39 ,1 ,38]=1, [2 ,2 ,2 ,1 ,1 ,1 ,5 ,5 ,5]=9, [2 ,2 ,1 ,1 ,2 ,1 ,5]=3, [2 ,2 ,2 ,2 ,2 ,2 ,2 ,2 ,2 ,2]=1, [2 ,2 ,1 ,1 ,1 ,1]=13, [1 ,1 ,37 ,37]=1, [38 ,38 ,39 ,39 ,39]=2, [1 ,1 ,1 ,1 ,38 ,39]=3, [2 ,1 ,1 ,2 ,2 ,2 ,1 ,1 ,1 ,5]=3, [2 ,1 ,1 ,2 ,1 ,5 ,38 ,39]=2, [1 ,1 ,1 ,39 ,37]=1, [2 ,1 ,5 ,38 ,39]=38})  ]
+12-07 17:16:51.611: I/ActivityManager(791): Killing 31655:com.qualcomm.telephony/1000 (adj 8): SSR - service for lastStateTime 606s, lastActivityTime 606s
+12-07 17:16:51.631: I/ServiceManager(314): service 'AtCmdFwd' died
+12-07 17:16:51.641: I/Atfwd_Sendcmd(396): AtCmdFwd : binderDied
+12-07 17:16:51.641: D/ActivityManager(791): isAutoRunBlockedApp:: com.qualcomm.atfwd, Auto Run ON
+12-07 17:16:51.641: I/ActivityManager(791): isWidgetUsingPkg : com.qualcomm.atfwd no widget is using.
+12-07 17:16:51.641: W/ActivityManager(791): Scheduling restart of crashed service com.qualcomm.atfwd/.AtFwdService in 1000ms
+12-07 17:16:51.641: I/ServiceManager(396): Waiting for service AtCmdFwd...
+12-07 17:16:51.741: I/System.out(1777): (HTTPLog)-Static: isSBSettingEnabled false
+12-07 17:16:51.741: I/System.out(1777): (HTTPLog)-Static: isSBSettingEnabled false
+12-07 17:16:51.841: D/EnterpriseController(330): netId is 0
+12-07 17:16:51.841: D/Netd(330): getNetworkForDns: using netid 525 for uid 10031
+12-07 17:16:51.921: I/qtaguid(1777): Tagging socket 202 with tag 3000330000000000{805319424,0} uid 10232, pid: 1777, getuid(): 10031
+12-07 17:16:51.931: W/GCM(23623): GCM SDK is deprecated, com.google.android.googlequicksearchbox should update to use FCM
+12-07 17:16:52.091: I/WorkerManager(23623): New handler created for worker [gcm] (manager: 8fab490, handler: ce1c963)
+12-07 17:16:52.091: I/WorkerHandler(23623): New state for worker [gcm]: d (handler: ce1c963)
+12-07 17:16:52.101: W/SearchServiceCore(23623): Abort, client detached.
+12-07 17:16:52.201: D/StatusBar.NetworkController(1389): refreshViews connected={ wifi } level=4 combinedSignalIconId=0x7f020648/com.android.systemui:drawable/stat_sys_wifi_signal_4 mobileLabel=Telenor wifiLabel="Maqbool Solutions" emergencyOnly=false combinedLabel="Maqbool Solutions" mAirplaneMode=false mDataActivity=0 mPhoneSignalIconId=0x7f0205c8/com.android.systemui:drawable/stat_sys_signal_4_auto_rotate mQSPhoneSignalIconId=0x7f02015e/com.android.systemui:drawable/ic_qs_signal_4 mDataDirectionIconId=0x0/(null) mDataSignalIconId=0x7f0205c8/com.android.systemui:drawable/stat_sys_signal_4_auto_rotate mDataTypeIconId=0x7f020420/com.android.systemui:drawable/stat_sys_data_connected_h mQSDataTypeIconId=0x7f020168/com.android.systemui:drawable/ic_qs_signal_h mNoSimIconId=0x0/(null) mWifiIconId=0x7f020648/com.android.systemui:drawable/stat_sys_wifi_signal_4 mQSWifiIconId=0x7f02032a/com.android.systemui:drawable/qs_tile_wifi_signal_4 mWifiActivityIconId=0x7f0205fb/com.android.systemui:drawable/stat_sys_signal_inout mBluetoothTetherIconId=0x7f020624/com.android.systemui:drawable/stat_sys_tether_bluetooth
+12-07 17:16:52.201: D/StatusBar.NetworkController(1389): refreshNwBoosterIndicator - setNWBoosterIndicators(false)
+12-07 17:16:52.201: D/StatusBar.NetworkController(1389): refreshNwBoosterIndicator - setNWBoosterIndicators(false)
+12-07 17:16:52.201: D/StatusBar.NetworkController(1389): refreshNwBoosterIndicator - setNWBoosterIndicators(false)
+12-07 17:16:52.201: D/StatusBar.NetworkController(1389): refreshNwBoosterIndicator - setNWBoosterIndicators(false)
+12-07 17:16:52.341: W/System.err(23623): mkdir failed: EEXIST (File exists) : /data/user/0/com.google.android.googlequicksearchbox/files/dump
+12-07 17:16:52.651: I/ServiceManager(396): Waiting for service AtCmdFwd...
+12-07 17:16:52.651: E/Zygote(6758): v2
+12-07 17:16:52.651: I/libpersona(6758): KNOX_SDCARD checking this for 1000
+12-07 17:16:52.651: W/SELinux(6758): Function: selinux_compare_spd_ram, index[1], priority [2], priority version is VE=SEPF_SECMOBILE_6.0.1_0011
+12-07 17:16:52.651: I/libpersona(6758): KNOX_SDCARD not a persona
+12-07 17:16:52.651: E/Zygote(6758): accessInfo : 0
+12-07 17:16:52.651: I/ActivityManager(791): Start proc 6758:com.qualcomm.telephony/1000 for service com.qualcomm.atfwd/.AtFwdService
+12-07 17:16:52.691: D/TimaKeyStoreProvider(6758): TimaSignature is unavailable
+12-07 17:16:52.691: D/ActivityThread(6758): Added TimaKeyStore provider
+12-07 17:16:52.711: W/ResourcesManager(6758): getTopLevelResources: /system/app/atfwd/atfwd.apk / 1.0 running in com.qualcomm.atfwd rsrc of package null
+12-07 17:16:52.741: W/System(6758): ClassLoader referenced unknown path: /system/app/atfwd/lib/arm
+12-07 17:16:52.741: D/AtFwdService(6758): onCreate method
+12-07 17:16:52.741: I/AtFwdService(6758): Instantiate AtCmdFwd Service
+12-07 17:16:52.751: D/AtCkpdCmdHandler(6758): De-queing command
+12-07 17:16:52.881: I/OptInChecker(23623): Sidekick thinks 1 is Eligible = true
+12-07 17:16:52.881: I/OptInChecker(23623): Sidekick thinks 2 is Eligible = true
+12-07 17:16:52.881: I/OptInChecker(23623): Sidekick thinks 4 is Eligible = true
+12-07 17:16:52.881: I/OptInChecker(23623): Sidekick thinks 5 is Eligible = true
+12-07 17:16:52.881: I/OptInChecker(23623): Sidekick thinks 6 is Eligible = true
+12-07 17:16:52.881: I/OptInChecker(23623): Sidekick thinks 7 is Eligible = true
+12-07 17:16:52.881: I/OptInChecker(23623): Sidekick thinks 8 is Eligible = true
+12-07 17:16:52.881: I/OptInChecker(23623): Sidekick thinks 9 is Eligible = true
+12-07 17:16:52.881: I/OptInChecker(23623): Sidekick thinks 11 is Eligible = true
+12-07 17:16:52.881: I/OptInChecker(23623): Sidekick thinks 12 is Eligible = true
+12-07 17:16:52.881: I/OptInChecker(23623): UDC thinks - Setting = LOCATION_HISTORY_AND_REPORTING, Eligibility = ELIGIBLE
+12-07 17:16:52.881: I/OptInChecker(23623): Using UDC cache for Setting: LOCATION_HISTORY_AND_REPORTING
+12-07 17:16:52.881: I/OptInChecker(23623): UDC Setting = LOCATION_HISTORY_AND_REPORTING, optedIn = true
+12-07 17:16:52.911: E/NotificationStore(23623): Error reading notifications from disk
+12-07 17:16:53.021: W/GCoreFlp(1740): No location to return for getLastLocation()
+12-07 17:16:53.031: W/LocationOracle(23623): No location returned by GMS core getLastLocation()
+12-07 17:16:53.051: I/qtaguid(1777): Untagging socket 202
+12-07 17:16:53.131: W/FA-SVC(1777): Storing bundle outside of the max uploading time span. appId, now, timestamp: com.centsol.csongs, 1544185013142, 1536831804643
+12-07 17:16:53.141: I/System.out(1777): (HTTPLog)-Static: isSBSettingEnabled false
+12-07 17:16:53.141: I/System.out(1777): (HTTPLog)-Static: isSBSettingEnabled false
+12-07 17:16:53.141: I/qtaguid(1777): Tagging socket 202 with tag 3000330000000000{805319424,0} uid 10232, pid: 1777, getuid(): 10031
+12-07 17:16:53.191: W/ErrorReporter(23623): reportError [type: 1159, code: 917507]: null
+12-07 17:16:53.211: E/FirebaseInstanceId(23623): Failed to resolve target intent service, skipping classname enforcement
+12-07 17:16:53.211: W/ActivityManager(791): Unable to start service Intent { act=com.google.firebase.MESSAGING_EVENT pkg=com.google.android.googlequicksearchbox (has extras) } U=0: not found
+12-07 17:16:53.211: E/FirebaseInstanceId(23623): Error while delivering the message: ServiceIntent not found.
+12-07 17:16:53.221: D/StatusBar.NetworkController(1389): onSignalStrengthsChanged signalStrength=SignalStrength: 19 99 -120 -160 -120 -1 -1 99 2147483647 2147483647 2147483647 -1 2147483647 0x4 gsm|lte level=4
+12-07 17:16:53.221: D/StatusBar.NetworkController(1389): updateTelephonySignalStrength: hasService=true ss=SignalStrength: 19 99 -120 -160 -120 -1 -1 99 2147483647 2147483647 2147483647 -1 2147483647 0x4 gsm|lte
+12-07 17:16:53.221: D/StatusBar.NetworkController(1389): updateTelephonySignalStrength: iconLevel=4
+12-07 17:16:53.221: D/StatusBar.NetworkController(1389): updateTelephonySignalStrength, No signal level. mPhoneSignalIconId = com.android.systemui:drawable/stat_sys_signal_4_auto_rotate mDataSignalIconId = com.android.systemui:drawable/stat_sys_signal_4_auto_rotate mQSPhoneSignalIconId = com.android.systemui:drawable/ic_qs_signal_4 mContentDescriptionPhoneSignal = Phone signal full.
+12-07 17:16:53.251: D/BatteryService(791): !@BatteryListener : batteryPropertiesChanged!
+12-07 17:16:53.251: D/BatteryService(791): level:100, scale:100, status:5, health:2, present:true, voltage: 4311, temperature: 243, technology: Li-ion, AC powered:false, USB powered:true, POGO powered:false, Wireless powered:false, icon:17303564, invalid charger:0, maxChargingCurrent:0
+12-07 17:16:53.251: D/BatteryService(791): online:4, current avg:450, charge type:1, power sharing:false, high voltage charger:false, capacity:280000, batterySWSelfDischarging:false, current_now:450
+12-07 17:16:53.251: D/BatteryService(791): Sending ACTION_BATTERY_CHANGED.
+12-07 17:16:53.251: I/MotionRecognitionService(791): Plugged
+12-07 17:16:53.251: D/MotionRecognitionService(791):   cableConnection= 1
+12-07 17:16:53.251: D/MotionRecognitionService(791): setPowerConnected | current backoffstate  = 1024 , state =1024
+12-07 17:16:53.251: D/MotionRecognitionService(791): skip setTransmitPower. 
+12-07 17:16:53.261: D/KeyguardUpdateMonitor(1389): received broadcast android.intent.action.BATTERY_CHANGED
+12-07 17:16:53.261: I/PERF(1389): received broadcast android.intent.action.BATTERY_CHANGED
+12-07 17:16:53.261: D/KeyguardUpdateMonitor(1389): handleBatteryUpdate
+12-07 17:16:53.261: D/CommonServiceConfiguration(1859): getStringValueSetting
+12-07 17:16:53.261: D/BatteryMonitor(1859): new battery level: 100
+12-07 17:16:53.271: D/BatteryMeterView(1389): ACTION_BATTERY_CHANGED : level:100 status:5 health:2
+12-07 17:16:53.271: D/BatteryMeterView(1389): ACTION_BATTERY_CHANGED : level:100 status:5 health:2
+12-07 17:16:53.271: D/BatteryMeterView(1389): ACTION_BATTERY_CHANGED : level:100 status:5 health:2
+12-07 17:16:53.321: D/StatusBar.NetworkController(1389): refreshViews connected={ wifi } level=4 combinedSignalIconId=0x7f020648/com.android.systemui:drawable/stat_sys_wifi_signal_4 mobileLabel=Telenor wifiLabel="Maqbool Solutions" emergencyOnly=false combinedLabel="Maqbool Solutions" mAirplaneMode=false mDataActivity=0 mPhoneSignalIconId=0x7f0205c8/com.android.systemui:drawable/stat_sys_signal_4_auto_rotate mQSPhoneSignalIconId=0x7f02015e/com.android.systemui:drawable/ic_qs_signal_4 mDataDirectionIconId=0x0/(null) mDataSignalIconId=0x7f0205c8/com.android.systemui:drawable/stat_sys_signal_4_auto_rotate mDataTypeIconId=0x7f020420/com.android.systemui:drawable/stat_sys_data_connected_h mQSDataTypeIconId=0x7f020168/com.android.systemui:drawable/ic_qs_signal_h mNoSimIconId=0x0/(null) mWifiIconId=0x7f020648/com.android.systemui:drawable/stat_sys_wifi_signal_4 mQSWifiIconId=0x7f02032a/com.android.systemui:drawable/qs_tile_wifi_signal_4 mWifiActivityIconId=0x7f0205fb/com.android.systemui:drawable/stat_sys_signal_inout mBluetoothTetherIconId=0x7f020624/com.android.systemui:drawable/stat_sys_tether_bluetooth
+12-07 17:16:53.331: D/StatusBar.NetworkController(1389): refreshNwBoosterIndicator - setNWBoosterIndicators(false)
+12-07 17:16:53.331: D/StatusBar.NetworkController(1389): refreshNwBoosterIndicator - setNWBoosterIndicators(false)
+12-07 17:16:53.331: D/StatusBar.NetworkController(1389): refreshNwBoosterIndicator - setNWBoosterIndicators(false)
+12-07 17:16:53.331: D/StatusBar.NetworkController(1389): refreshNwBoosterIndicator - setNWBoosterIndicators(false)
+12-07 17:16:53.551: I/qtaguid(1777): Untagging socket 202
+12-07 17:16:53.621: I/System.out(1777): (HTTPLog)-Static: isSBSettingEnabled false
+12-07 17:16:53.621: I/System.out(1777): (HTTPLog)-Static: isSBSettingEnabled false
+12-07 17:16:53.621: I/qtaguid(1777): Tagging socket 202 with tag 3000330000000000{805319424,0} uid 10232, pid: 1777, getuid(): 10031
+12-07 17:16:53.641: E/NetworkScheduler.ATC(1740): Called cancelTask for already completed task com.google.android.gms/.measurement.PackageMeasurementTaskService{u=0 tag="Measurement.PackageMeasurementTaskService.UPLOAD_TASK_TAG" trigger=window{start=251s,end=504s,earliest=-174s,latest=78s} requirements=[NET_CONNECTED] attributes=[PERSISTED] scheduled=-425s last_run=-2s jid=N/A status=ACTIVE retries=0 client_lib=MANCHEGO_GCM-14799000} :RESCHEDULED
+12-07 17:16:54.031: I/qtaguid(1777): Untagging socket 202
+12-07 17:16:54.071: D/SSRM:n(791): SIOP:: AP = 280, PST = 263, CUR = 450, LCD = 53
+12-07 17:16:54.111: I/System.out(1777): (HTTPLog)-Static: isSBSettingEnabled false
+12-07 17:16:54.111: I/System.out(1777): (HTTPLog)-Static: isSBSettingEnabled false
+12-07 17:16:54.121: I/qtaguid(1777): Tagging socket 202 with tag 3000330000000000{805319424,0} uid 10254, pid: 1777, getuid(): 10031
+12-07 17:16:54.481: I/qtaguid(1777): Untagging socket 202
+12-07 17:16:54.531: I/System.out(1777): (HTTPLog)-Static: isSBSettingEnabled false
+12-07 17:16:54.531: I/System.out(1777): (HTTPLog)-Static: isSBSettingEnabled false
+12-07 17:16:54.531: I/qtaguid(1777): Tagging socket 202 with tag 3000330000000000{805319424,0} uid 10254, pid: 1777, getuid(): 10031
+12-07 17:16:54.961: I/qtaguid(1777): Untagging socket 202
+12-07 17:16:55.081: I/System.out(1777): (HTTPLog)-Static: isSBSettingEnabled false
+12-07 17:16:55.081: I/System.out(1777): (HTTPLog)-Static: isSBSettingEnabled false
+12-07 17:16:55.081: I/qtaguid(1777): Tagging socket 202 with tag 3000330000000000{805319424,0} uid 10202, pid: 1777, getuid(): 10031
+12-07 17:16:55.111: D/Sensorhubs(354): readContextData: 1, 1, 26, 1, 2, -94, -85, -116, 1, 2
+12-07 17:16:55.111: D/SensorHubManager(791): onGetSensorHubDataLocked: library(10) = 1, 1, 26, 1, 2, -94, -85, -116, 1, 2
+12-07 17:16:55.111: D/CAE(791): onGetSensorHubData(SensorHubParserProvider.java:92) - onGetSensorHubData Event [event buffer len :10], AP_WAKEUP
+12-07 17:16:55.111: I/CAE(791): parse(SensorHubParserProvider.java:188) - buffer size = 10
+12-07 17:16:55.111: I/CAE(791): parse(SensorHubParserProvider.java:199) - 1, 1, 26, 1, 2, -94, -85, -116, 1, 2,
+12-07 17:16:55.111: D/CAE(791): display(ContextProvider.java:375) - ================= ACTIVITY_TRACKER =================
+12-07 17:16:55.111: I/CAE(791): display(ContextProvider.java:391) - Accuracy=[2], OperationMode=[0], ActivityType=[1], TimeStamp=[1544185015125]
+12-07 17:16:55.111: D/SContextService(791): updateSContext() : event = Activity Tracker
+12-07 17:16:55.111: D/WifiService(791): mActivityTrackerListener: onSContextChanged(): 25
+12-07 17:16:55.111: D/WifiService(791): ACTIVITY_STATUS_STATIONARY 
+12-07 17:16:55.111: D/WifiService(791): setWifiScanWithSensor bMove = 0
+12-07 17:16:55.111: D/WifiStateMachine(791): setWifiScanMove bMove = 0
+12-07 17:16:55.111: I/WifiStateMachine(791): not vehicle, sendMessageDelayed CMD_SET_SCAN_MOVE with 0
+12-07 17:16:55.121: I/WifiStateMachine(791): DriverStartedState :: CMD_SET_SCAN_MOVE(0) 
+12-07 17:16:55.121: I/wpa_supplicant(19165): @@wpa_supplicant_set_scan_move : set [0]
+12-07 17:16:55.451: I/qtaguid(1777): Untagging socket 202
+12-07 17:16:55.521: I/Finsky(28617): [11703] com.google.android.finsky.bo.an.run(6): Stats for Executor: NotificationAssistDatabaseManager com.google.android.finsky.bo.ao@d8b54ff[Running, pool size = 0, active threads = 0, queued tasks = 0, completed tasks = 1]
+12-07 17:16:55.531: I/System.out(1777): (HTTPLog)-Static: isSBSettingEnabled false
+12-07 17:16:55.531: I/System.out(1777): (HTTPLog)-Static: isSBSettingEnabled false
+12-07 17:16:55.531: I/qtaguid(1777): Tagging socket 202 with tag 3000330000000000{805319424,0} uid 10202, pid: 1777, getuid(): 10031
+12-07 17:16:55.541: I/Finsky(28617): [11703] com.google.android.finsky.bo.an.run(6): Stats for Executor: InstallBackgroundThread com.google.android.finsky.bo.ao@47312cc[Running, pool size = 0, active threads = 0, queued tasks = 0, completed tasks = 0]
+12-07 17:16:55.951: I/qtaguid(1777): Untagging socket 202
+12-07 17:16:56.031: I/System.out(1777): (HTTPLog)-Static: isSBSettingEnabled false
+12-07 17:16:56.031: I/System.out(1777): (HTTPLog)-Static: isSBSettingEnabled false
+12-07 17:16:56.031: I/qtaguid(1777): Tagging socket 202 with tag 3000330000000000{805319424,0} uid 10202, pid: 1777, getuid(): 10031
+12-07 17:16:56.461: I/qtaguid(1777): Untagging socket 202
+12-07 17:16:56.521: I/System.out(1777): (HTTPLog)-Static: isSBSettingEnabled false
+12-07 17:16:56.521: I/System.out(1777): (HTTPLog)-Static: isSBSettingEnabled false
+12-07 17:16:56.521: I/qtaguid(1777): Tagging socket 202 with tag 3000330000000000{805319424,0} uid 10196, pid: 1777, getuid(): 10031
+12-07 17:16:56.901: I/qtaguid(1777): Untagging socket 202
+12-07 17:16:56.971: I/System.out(1777): (HTTPLog)-Static: isSBSettingEnabled false
+12-07 17:16:56.971: I/System.out(1777): (HTTPLog)-Static: isSBSettingEnabled false
+12-07 17:16:56.971: I/qtaguid(1777): Tagging socket 202 with tag 3000330000000000{805319424,0} uid 10196, pid: 1777, getuid(): 10031
+12-07 17:16:57.071: D/StatusBar.NetworkController(1389): onSignalStrengthsChanged signalStrength=SignalStrength: 19 99 -120 -160 -120 -1 -1 99 2147483647 2147483647 2147483647 -1 2147483647 0x4 gsm|lte level=4
+12-07 17:16:57.071: D/StatusBar.NetworkController(1389): updateTelephonySignalStrength: hasService=true ss=SignalStrength: 19 99 -120 -160 -120 -1 -1 99 2147483647 2147483647 2147483647 -1 2147483647 0x4 gsm|lte
+12-07 17:16:57.071: D/StatusBar.NetworkController(1389): updateTelephonySignalStrength: iconLevel=4
+12-07 17:16:57.071: D/StatusBar.NetworkController(1389): updateTelephonySignalStrength, No signal level. mPhoneSignalIconId = com.android.systemui:drawable/stat_sys_signal_4_auto_rotate mDataSignalIconId = com.android.systemui:drawable/stat_sys_signal_4_auto_rotate mQSPhoneSignalIconId = com.android.systemui:drawable/ic_qs_signal_4 mContentDescriptionPhoneSignal = Phone signal full.
+12-07 17:16:57.171: D/StatusBar.NetworkController(1389): refreshViews connected={ wifi } level=4 combinedSignalIconId=0x7f020648/com.android.systemui:drawable/stat_sys_wifi_signal_4 mobileLabel=Telenor wifiLabel="Maqbool Solutions" emergencyOnly=false combinedLabel="Maqbool Solutions" mAirplaneMode=false mDataActivity=0 mPhoneSignalIconId=0x7f0205c8/com.android.systemui:drawable/stat_sys_signal_4_auto_rotate mQSPhoneSignalIconId=0x7f02015e/com.android.systemui:drawable/ic_qs_signal_4 mDataDirectionIconId=0x0/(null) mDataSignalIconId=0x7f0205c8/com.android.systemui:drawable/stat_sys_signal_4_auto_rotate mDataTypeIconId=0x7f020420/com.android.systemui:drawable/stat_sys_data_connected_h mQSDataTypeIconId=0x7f020168/com.android.systemui:drawable/ic_qs_signal_h mNoSimIconId=0x0/(null) mWifiIconId=0x7f020648/com.android.systemui:drawable/stat_sys_wifi_signal_4 mQSWifiIconId=0x7f02032a/com.android.systemui:drawable/qs_tile_wifi_signal_4 mWifiActivityIconId=0x7f0205fb/com.android.systemui:drawable/stat_sys_signal_inout mBluetoothTetherIconId=0x7f020624/com.android.systemui:drawable/stat_sys_tether_bluetooth
+12-07 17:16:57.171: D/StatusBar.NetworkController(1389): refreshNwBoosterIndicator - setNWBoosterIndicators(false)
+12-07 17:16:57.171: D/StatusBar.NetworkController(1389): refreshNwBoosterIndicator - setNWBoosterIndicators(false)
+12-07 17:16:57.171: D/StatusBar.NetworkController(1389): refreshNwBoosterIndicator - setNWBoosterIndicators(false)
+12-07 17:16:57.171: D/StatusBar.NetworkController(1389): refreshNwBoosterIndicator - setNWBoosterIndicators(false)
+12-07 17:16:57.401: I/qtaguid(1777): Untagging socket 202
+12-07 17:16:57.521: I/System.out(1777): (HTTPLog)-Static: isSBSettingEnabled false
+12-07 17:16:57.521: I/System.out(1777): (HTTPLog)-Static: isSBSettingEnabled false
+12-07 17:16:57.521: I/qtaguid(1777): Tagging socket 202 with tag 3000330000000000{805319424,0} uid 10196, pid: 1777, getuid(): 10031
+12-07 17:16:57.941: I/qtaguid(1777): Untagging socket 202
+12-07 17:16:58.391: D/StatusBar.NetworkController(1389): onSignalStrengthsChanged signalStrength=SignalStrength: 19 99 -120 -160 -120 -1 -1 99 2147483647 2147483647 2147483647 -1 2147483647 0x4 gsm|lte level=4
+12-07 17:16:58.391: D/StatusBar.NetworkController(1389): updateTelephonySignalStrength: hasService=true ss=SignalStrength: 19 99 -120 -160 -120 -1 -1 99 2147483647 2147483647 2147483647 -1 2147483647 0x4 gsm|lte
+12-07 17:16:58.391: D/StatusBar.NetworkController(1389): updateTelephonySignalStrength: iconLevel=4
+12-07 17:16:58.391: D/StatusBar.NetworkController(1389): updateTelephonySignalStrength, No signal level. mPhoneSignalIconId = com.android.systemui:drawable/stat_sys_signal_4_auto_rotate mDataSignalIconId = com.android.systemui:drawable/stat_sys_signal_4_auto_rotate mQSPhoneSignalIconId = com.android.systemui:drawable/ic_qs_signal_4 mContentDescriptionPhoneSignal = Phone signal full.
+12-07 17:16:58.491: D/StatusBar.NetworkController(1389): refreshViews connected={ wifi } level=4 combinedSignalIconId=0x7f020648/com.android.systemui:drawable/stat_sys_wifi_signal_4 mobileLabel=Telenor wifiLabel="Maqbool Solutions" emergencyOnly=false combinedLabel="Maqbool Solutions" mAirplaneMode=false mDataActivity=0 mPhoneSignalIconId=0x7f0205c8/com.android.systemui:drawable/stat_sys_signal_4_auto_rotate mQSPhoneSignalIconId=0x7f02015e/com.android.systemui:drawable/ic_qs_signal_4 mDataDirectionIconId=0x0/(null) mDataSignalIconId=0x7f0205c8/com.android.systemui:drawable/stat_sys_signal_4_auto_rotate mDataTypeIconId=0x7f020420/com.android.systemui:drawable/stat_sys_data_connected_h mQSDataTypeIconId=0x7f020168/com.android.systemui:drawable/ic_qs_signal_h mNoSimIconId=0x0/(null) mWifiIconId=0x7f020648/com.android.systemui:drawable/stat_sys_wifi_signal_4 mQSWifiIconId=0x7f02032a/com.android.systemui:drawable/qs_tile_wifi_signal_4 mWifiActivityIconId=0x7f0205fb/com.android.systemui:drawable/stat_sys_signal_inout mBluetoothTetherIconId=0x7f020624/com.android.systemui:drawable/stat_sys_tether_bluetooth
+12-07 17:16:58.491: D/StatusBar.NetworkController(1389): refreshNwBoosterIndicator - setNWBoosterIndicators(false)
+12-07 17:16:58.491: D/StatusBar.NetworkController(1389): refreshNwBoosterIndicator - setNWBoosterIndicators(false)
+12-07 17:16:58.491: D/StatusBar.NetworkController(1389): refreshNwBoosterIndicator - setNWBoosterIndicators(false)
+12-07 17:16:58.491: D/StatusBar.NetworkController(1389): refreshNwBoosterIndicator - setNWBoosterIndicators(false)
+12-07 17:16:59.231: D/StatusBar.NetworkController(1389): refreshViews connected={ wifi } level=4 combinedSignalIconId=0x7f020648/com.android.systemui:drawable/stat_sys_wifi_signal_4 mobileLabel=Telenor wifiLabel="Maqbool Solutions" emergencyOnly=false combinedLabel="Maqbool Solutions" mAirplaneMode=false mDataActivity=0 mPhoneSignalIconId=0x7f0205c8/com.android.systemui:drawable/stat_sys_signal_4_auto_rotate mQSPhoneSignalIconId=0x7f02015e/com.android.systemui:drawable/ic_qs_signal_4 mDataDirectionIconId=0x0/(null) mDataSignalIconId=0x7f0205c8/com.android.systemui:drawable/stat_sys_signal_4_auto_rotate mDataTypeIconId=0x7f020420/com.android.systemui:drawable/stat_sys_data_connected_h mQSDataTypeIconId=0x7f020168/com.android.systemui:drawable/ic_qs_signal_h mNoSimIconId=0x0/(null) mWifiIconId=0x7f020648/com.android.systemui:drawable/stat_sys_wifi_signal_4 mQSWifiIconId=0x7f02032a/com.android.systemui:drawable/qs_tile_wifi_signal_4 mWifiActivityIconId=0x7f0205f9/com.android.systemui:drawable/stat_sys_signal_in mBluetoothTetherIconId=0x7f020624/com.android.systemui:drawable/stat_sys_tether_bluetooth
+12-07 17:16:59.231: D/StatusBar.NetworkController(1389): refreshNwBoosterIndicator - setNWBoosterIndicators(false)
+12-07 17:16:59.231: D/StatusBar.NetworkController(1389): refreshNwBoosterIndicator - setNWBoosterIndicators(false)
+12-07 17:16:59.231: D/StatusBar.NetworkController(1389): refreshNwBoosterIndicator - setNWBoosterIndicators(false)
+12-07 17:16:59.241: D/StatusBar.NetworkController(1389): refreshNwBoosterIndicator - setNWBoosterIndicators(false)
+12-07 17:17:00.011: D/KeyguardUpdateMonitor(1389): received broadcast android.intent.action.TIME_TICK
+12-07 17:17:00.011: I/PERF(1389): received broadcast android.intent.action.TIME_TICK
+12-07 17:17:00.011: D/KeyguardUpdateMonitor(1389): handleTimeUpdate
+12-07 17:17:00.021: D/SecKeyguardClockView(1389): onTimeChanged() : mShouldShowDualClock - false, isDualClockSet() -false
+12-07 17:17:00.021: D/DateView(1389): regionalDateFormat = h:mm a isRTLlanguage = false returnDateFormat = E, d MMMM
+12-07 17:17:00.031: D/DateView(1389): regionalDateFormat = h:mm a isRTLlanguage = false returnDateFormat = E, d MMMM
+12-07 17:17:00.031: D/DateView(1389): regionalDateFormat = h:mm a isRTLlanguage = false returnDateFormat = E, d MMMM
+12-07 17:17:00.031: D/DateView(1389): regionalDateFormat = h:mm a isRTLlanguage = false returnDateFormat = E, d MMMM
+12-07 17:17:00.031: D/DateView(1389): regionalDateFormat = h:mm a isRTLlanguage = false returnDateFormat = E, d MMMM
+12-07 17:17:00.031: D/DateView(1389): regionalDateFormat = h:mm a isRTLlanguage = false returnDateFormat = E, d MMMM
+12-07 17:17:00.031: D/SecKeyguardStatusUtils(1389): regionalDateFormat = h:mm a isRTLlanguage = false returnDateFormat = E, d MMMM
+12-07 17:17:00.081: D/SecKeyguardStatusUtils(1389): regionalDateFormat = h:mm a isRTLlanguage = false returnDateFormat = E, d MMMM
+12-07 17:17:00.121: D/accuweather(18452): [KK AccuPhone]>>> WCS:144 [0:0] action : androidintentactionTIME_TICK
+12-07 17:17:00.121: D/accuweather(18452): [KK AccuPhone]>>> UIM:40 [0:0] getInstance
+12-07 17:17:00.121: D/accuweather(18452): [KK AccuPhone]>>> UIM:85 [0:0] direct update clock
+12-07 17:17:01.241: D/StatusBar.NetworkController(1389): refreshViews connected={ wifi } level=4 combinedSignalIconId=0x7f020648/com.android.systemui:drawable/stat_sys_wifi_signal_4 mobileLabel=Telenor wifiLabel="Maqbool Solutions" emergencyOnly=false combinedLabel="Maqbool Solutions" mAirplaneMode=false mDataActivity=0 mPhoneSignalIconId=0x7f0205c8/com.android.systemui:drawable/stat_sys_signal_4_auto_rotate mQSPhoneSignalIconId=0x7f02015e/com.android.systemui:drawable/ic_qs_signal_4 mDataDirectionIconId=0x0/(null) mDataSignalIconId=0x7f0205c8/com.android.systemui:drawable/stat_sys_signal_4_auto_rotate mDataTypeIconId=0x7f020420/com.android.systemui:drawable/stat_sys_data_connected_h mQSDataTypeIconId=0x7f020168/com.android.systemui:drawable/ic_qs_signal_h mNoSimIconId=0x0/(null) mWifiIconId=0x7f020648/com.android.systemui:drawable/stat_sys_wifi_signal_4 mQSWifiIconId=0x7f02032a/com.android.systemui:drawable/qs_tile_wifi_signal_4 mWifiActivityIconId=0x7f0205fb/com.android.systemui:drawable/stat_sys_signal_inout mBluetoothTetherIconId=0x7f020624/com.android.systemui:drawable/stat_sys_tether_bluetooth
+12-07 17:17:01.241: D/StatusBar.NetworkController(1389): refreshNwBoosterIndicator - setNWBoosterIndicators(false)
+12-07 17:17:01.251: D/StatusBar.NetworkController(1389): refreshNwBoosterIndicator - setNWBoosterIndicators(false)
+12-07 17:17:01.261: D/StatusBar.NetworkController(1389): refreshNwBoosterIndicator - setNWBoosterIndicators(false)
+12-07 17:17:01.271: D/StatusBar.NetworkController(1389): refreshNwBoosterIndicator - setNWBoosterIndicators(false)
+12-07 17:17:02.241: D/StatusBar.NetworkController(1389): refreshViews connected={ wifi } level=4 combinedSignalIconId=0x7f020648/com.android.systemui:drawable/stat_sys_wifi_signal_4 mobileLabel=Telenor wifiLabel="Maqbool Solutions" emergencyOnly=false combinedLabel="Maqbool Solutions" mAirplaneMode=false mDataActivity=0 mPhoneSignalIconId=0x7f0205c8/com.android.systemui:drawable/stat_sys_signal_4_auto_rotate mQSPhoneSignalIconId=0x7f02015e/com.android.systemui:drawable/ic_qs_signal_4 mDataDirectionIconId=0x0/(null) mDataSignalIconId=0x7f0205c8/com.android.systemui:drawable/stat_sys_signal_4_auto_rotate mDataTypeIconId=0x7f020420/com.android.systemui:drawable/stat_sys_data_connected_h mQSDataTypeIconId=0x7f020168/com.android.systemui:drawable/ic_qs_signal_h mNoSimIconId=0x0/(null) mWifiIconId=0x7f020648/com.android.systemui:drawable/stat_sys_wifi_signal_4 mQSWifiIconId=0x7f02032a/com.android.systemui:drawable/qs_tile_wifi_signal_4 mWifiActivityIconId=0x7f0205f9/com.android.systemui:drawable/stat_sys_signal_in mBluetoothTetherIconId=0x7f020624/com.android.systemui:drawable/stat_sys_tether_bluetooth
+12-07 17:17:02.251: D/StatusBar.NetworkController(1389): refreshNwBoosterIndicator - setNWBoosterIndicators(false)
+12-07 17:17:02.251: D/StatusBar.NetworkController(1389): refreshNwBoosterIndicator - setNWBoosterIndicators(false)
+12-07 17:17:02.251: D/StatusBar.NetworkController(1389): refreshNwBoosterIndicator - setNWBoosterIndicators(false)
+12-07 17:17:02.251: D/StatusBar.NetworkController(1389): refreshNwBoosterIndicator - setNWBoosterIndicators(false)
+12-07 17:17:03.221: I/Finsky(28617): [11703] com.google.android.finsky.bo.an.run(6): Stats for Executor: BlockingExecutor com.google.android.finsky.bo.ao@8f0060[Running, pool size = 0, active threads = 0, queued tasks = 0, completed tasks = 12]
+12-07 17:17:03.231: I/Finsky(28617): [11703] com.google.android.finsky.bo.an.run(6): Stats for Executor: LightweightExecutor com.google.android.finsky.bo.ao@17cfdde[Running, pool size = 3, active threads = 0, queued tasks = 0, completed tasks = 55]
+12-07 17:17:03.241: I/Finsky(28617): [11703] com.google.android.finsky.bo.an.run(6): Stats for Executor: bgExecutor com.google.android.finsky.bo.ao@353c28c[Running, pool size = 4, active threads = 0, queued tasks = 0, completed tasks = 24]
+12-07 17:17:03.251: I/Finsky(28617): [11703] com.google.android.finsky.bo.an.run(6): Stats for Executor: SimChangeExecutor com.google.android.finsky.bo.ao@8d719ea[Running, pool size = 0, active threads = 0, queued tasks = 0, completed tasks = 0]
+12-07 17:17:03.251: I/Finsky(28617): [11703] com.google.android.finsky.bo.an.run(6): Stats for Executor: Db-xternal_referrer_status.db com.google.android.finsky.bo.ao@27784db[Running, pool size = 0, active threads = 0, queued tasks = 0, completed tasks = 0]
+12-07 17:17:03.251: I/Finsky(28617): [11703] com.google.android.finsky.bo.an.run(6): Stats for Executor: Db-split_install_service com.google.android.finsky.bo.ao@3c07b78[Running, pool size = 0, active threads = 0, queued tasks = 0, completed tasks = 7]
+12-07 17:17:03.251: I/Finsky(28617): [11703] com.google.android.finsky.bo.an.run(6): Stats for Executor: StorageAwareDownloadServiceManagerSpaceChecker com.google.android.finsky.bo.ao@5635251[Running, pool size = 0, active threads = 0, queued tasks = 0, completed tasks = 0]
+12-07 17:17:03.251: D/StatusBar.NetworkController(1389): refreshViews connected={ wifi } level=4 combinedSignalIconId=0x7f020648/com.android.systemui:drawable/stat_sys_wifi_signal_4 mobileLabel=Telenor wifiLabel="Maqbool Solutions" emergencyOnly=false combinedLabel="Maqbool Solutions" mAirplaneMode=false mDataActivity=0 mPhoneSignalIconId=0x7f0205c8/com.android.systemui:drawable/stat_sys_signal_4_auto_rotate mQSPhoneSignalIconId=0x7f02015e/com.android.systemui:drawable/ic_qs_signal_4 mDataDirectionIconId=0x0/(null) mDataSignalIconId=0x7f0205c8/com.android.systemui:drawable/stat_sys_signal_4_auto_rotate mDataTypeIconId=0x7f020420/com.android.systemui:drawable/stat_sys_data_connected_h mQSDataTypeIconId=0x7f020168/com.android.systemui:drawable/ic_qs_signal_h mNoSimIconId=0x0/(null) mWifiIconId=0x7f020648/com.android.systemui:drawable/stat_sys_wifi_signal_4 mQSWifiIconId=0x7f02032a/com.android.systemui:drawable/qs_tile_wifi_signal_4 mWifiActivityIconId=0x7f020609/com.android.systemui:drawable/stat_sys_signal_out mBluetoothTetherIconId=0x7f020624/com.android.systemui:drawable/stat_sys_tether_bluetooth
+12-07 17:17:03.251: D/StatusBar.NetworkController(1389): refreshNwBoosterIndicator - setNWBoosterIndicators(false)
+12-07 17:17:03.261: D/StatusBar.NetworkController(1389): refreshNwBoosterIndicator - setNWBoosterIndicators(false)
+12-07 17:17:03.261: I/Finsky(28617): [11703] com.google.android.finsky.bo.an.run(6): Stats for Executor: InstallBackgroundThread com.google.android.finsky.bo.ao@25f93b7[Running, pool size = 0, active threads = 0, queued tasks = 0, completed tasks = 0]
+12-07 17:17:03.261: I/Finsky(28617): [11703] com.google.android.finsky.bo.an.run(6): Stats for Executor: Db-install_service com.google.android.finsky.bo.ao@83dd724[Running, pool size = 0, active threads = 0, queued tasks = 0, completed tasks = 0]
+12-07 17:17:03.271: I/Finsky(28617): [11703] com.google.android.finsky.bo.an.run(6): Stats for Executor: InstallBackgroundThread com.google.android.finsky.bo.ao@3b9c28d[Running, pool size = 0, active threads = 0, queued tasks = 0, completed tasks = 0]
+12-07 17:17:03.271: D/StatusBar.NetworkController(1389): refreshNwBoosterIndicator - setNWBoosterIndicators(false)
+12-07 17:17:03.271: D/StatusBar.NetworkController(1389): refreshNwBoosterIndicator - setNWBoosterIndicators(false)
+12-07 17:17:03.321: D/BatteryService(791): !@BatteryListener : batteryPropertiesChanged!
+12-07 17:17:03.321: D/BatteryService(791): level:100, scale:100, status:5, health:2, present:true, voltage: 4383, temperature: 243, technology: Li-ion, AC powered:false, USB powered:true, POGO powered:false, Wireless powered:false, icon:17303564, invalid charger:0, maxChargingCurrent:0
+12-07 17:17:03.321: D/BatteryService(791): online:4, current avg:450, charge type:1, power sharing:false, high voltage charger:false, capacity:280000, batterySWSelfDischarging:false, current_now:450
+12-07 17:17:03.321: D/BatteryService(791): Sending ACTION_BATTERY_CHANGED.
+12-07 17:17:03.331: I/MotionRecognitionService(791): Plugged
+12-07 17:17:03.331: D/MotionRecognitionService(791):   cableConnection= 1
+12-07 17:17:03.331: D/MotionRecognitionService(791): setPowerConnected | current backoffstate  = 1024 , state =1024
+12-07 17:17:03.331: D/MotionRecognitionService(791): skip setTransmitPower. 
+12-07 17:17:03.331: D/KeyguardUpdateMonitor(1389): received broadcast android.intent.action.BATTERY_CHANGED
+12-07 17:17:03.331: I/PERF(1389): received broadcast android.intent.action.BATTERY_CHANGED
+12-07 17:17:03.331: D/KeyguardUpdateMonitor(1389): handleBatteryUpdate
+12-07 17:17:03.341: D/CommonServiceConfiguration(1859): getStringValueSetting
+12-07 17:17:03.341: D/BatteryMonitor(1859): new battery level: 100
+12-07 17:17:03.341: D/BatteryMeterView(1389): ACTION_BATTERY_CHANGED : level:100 status:5 health:2
+12-07 17:17:03.341: D/BatteryMeterView(1389): ACTION_BATTERY_CHANGED : level:100 status:5 health:2
+12-07 17:17:03.351: D/BatteryMeterView(1389): ACTION_BATTERY_CHANGED : level:100 status:5 health:2
+12-07 17:17:03.461: D/StatusBar.NetworkController(1389): onSignalStrengthsChanged signalStrength=SignalStrength: 19 99 -120 -160 -120 -1 -1 99 2147483647 2147483647 2147483647 -1 2147483647 0x4 gsm|lte level=4
+12-07 17:17:03.461: D/StatusBar.NetworkController(1389): updateTelephonySignalStrength: hasService=true ss=SignalStrength: 19 99 -120 -160 -120 -1 -1 99 2147483647 2147483647 2147483647 -1 2147483647 0x4 gsm|lte
+12-07 17:17:03.461: D/StatusBar.NetworkController(1389): updateTelephonySignalStrength: iconLevel=4
+12-07 17:17:03.461: D/StatusBar.NetworkController(1389): updateTelephonySignalStrength, No signal level. mPhoneSignalIconId = com.android.systemui:drawable/stat_sys_signal_4_auto_rotate mDataSignalIconId = com.android.systemui:drawable/stat_sys_signal_4_auto_rotate mQSPhoneSignalIconId = com.android.systemui:drawable/ic_qs_signal_4 mContentDescriptionPhoneSignal = Phone signal full.
+12-07 17:17:03.571: D/StatusBar.NetworkController(1389): refreshViews connected={ wifi } level=4 combinedSignalIconId=0x7f020648/com.android.systemui:drawable/stat_sys_wifi_signal_4 mobileLabel=Telenor wifiLabel="Maqbool Solutions" emergencyOnly=false combinedLabel="Maqbool Solutions" mAirplaneMode=false mDataActivity=0 mPhoneSignalIconId=0x7f0205c8/com.android.systemui:drawable/stat_sys_signal_4_auto_rotate mQSPhoneSignalIconId=0x7f02015e/com.android.systemui:drawable/ic_qs_signal_4 mDataDirectionIconId=0x0/(null) mDataSignalIconId=0x7f0205c8/com.android.systemui:drawable/stat_sys_signal_4_auto_rotate mDataTypeIconId=0x7f020420/com.android.systemui:drawable/stat_sys_data_connected_h mQSDataTypeIconId=0x7f020168/com.android.systemui:drawable/ic_qs_signal_h mNoSimIconId=0x0/(null) mWifiIconId=0x7f020648/com.android.systemui:drawable/stat_sys_wifi_signal_4 mQSWifiIconId=0x7f02032a/com.android.systemui:drawable/qs_tile_wifi_signal_4 mWifiActivityIconId=0x7f020609/com.android.systemui:drawable/stat_sys_signal_out mBluetoothTetherIconId=0x7f020624/com.android.systemui:drawable/stat_sys_tether_bluetooth
+12-07 17:17:03.571: D/StatusBar.NetworkController(1389): refreshNwBoosterIndicator - setNWBoosterIndicators(false)
+12-07 17:17:03.571: D/StatusBar.NetworkController(1389): refreshNwBoosterIndicator - setNWBoosterIndicators(false)
+12-07 17:17:03.571: D/StatusBar.NetworkController(1389): refreshNwBoosterIndicator - setNWBoosterIndicators(false)
+12-07 17:17:03.571: D/StatusBar.NetworkController(1389): refreshNwBoosterIndicator - setNWBoosterIndicators(false)
+12-07 17:17:04.141: D/SSRM:n(791): SIOP:: AP = 260, PST = 263, CUR = 450, LCD = 53
+12-07 17:17:04.261: D/StatusBar.NetworkController(1389): refreshViews connected={ wifi } level=4 combinedSignalIconId=0x7f020648/com.android.systemui:drawable/stat_sys_wifi_signal_4 mobileLabel=Telenor wifiLabel="Maqbool Solutions" emergencyOnly=false combinedLabel="Maqbool Solutions" mAirplaneMode=false mDataActivity=0 mPhoneSignalIconId=0x7f0205c8/com.android.systemui:drawable/stat_sys_signal_4_auto_rotate mQSPhoneSignalIconId=0x7f02015e/com.android.systemui:drawable/ic_qs_signal_4 mDataDirectionIconId=0x0/(null) mDataSignalIconId=0x7f0205c8/com.android.systemui:drawable/stat_sys_signal_4_auto_rotate mDataTypeIconId=0x7f020420/com.android.systemui:drawable/stat_sys_data_connected_h mQSDataTypeIconId=0x7f020168/com.android.systemui:drawable/ic_qs_signal_h mNoSimIconId=0x0/(null) mWifiIconId=0x7f020648/com.android.systemui:drawable/stat_sys_wifi_signal_4 mQSWifiIconId=0x7f02032a/com.android.systemui:drawable/qs_tile_wifi_signal_4 mWifiActivityIconId=0x7f0205fe/com.android.systemui:drawable/stat_sys_signal_no_inout mBluetoothTetherIconId=0x7f020624/com.android.systemui:drawable/stat_sys_tether_bluetooth
+12-07 17:17:04.261: D/StatusBar.NetworkController(1389): refreshNwBoosterIndicator - setNWBoosterIndicators(false)
+12-07 17:17:04.261: D/StatusBar.NetworkController(1389): refreshNwBoosterIndicator - setNWBoosterIndicators(false)
+12-07 17:17:04.271: D/StatusBar.NetworkController(1389): refreshNwBoosterIndicator - setNWBoosterIndicators(false)
+12-07 17:17:04.271: D/StatusBar.NetworkController(1389): refreshNwBoosterIndicator - setNWBoosterIndicators(false)
+12-07 17:17:05.271: D/StatusBar.NetworkController(1389): refreshViews connected={ wifi } level=4 combinedSignalIconId=0x7f020648/com.android.systemui:drawable/stat_sys_wifi_signal_4 mobileLabel=Telenor wifiLabel="Maqbool Solutions" emergencyOnly=false combinedLabel="Maqbool Solutions" mAirplaneMode=false mDataActivity=0 mPhoneSignalIconId=0x7f0205c8/com.android.systemui:drawable/stat_sys_signal_4_auto_rotate mQSPhoneSignalIconId=0x7f02015e/com.android.systemui:drawable/ic_qs_signal_4 mDataDirectionIconId=0x0/(null) mDataSignalIconId=0x7f0205c8/com.android.systemui:drawable/stat_sys_signal_4_auto_rotate mDataTypeIconId=0x7f020420/com.android.systemui:drawable/stat_sys_data_connected_h mQSDataTypeIconId=0x7f020168/com.android.systemui:drawable/ic_qs_signal_h mNoSimIconId=0x0/(null) mWifiIconId=0x7f020648/com.android.systemui:drawable/stat_sys_wifi_signal_4 mQSWifiIconId=0x7f02032a/com.android.systemui:drawable/qs_tile_wifi_signal_4 mWifiActivityIconId=0x7f0205fb/com.android.systemui:drawable/stat_sys_signal_inout mBluetoothTetherIconId=0x7f020624/com.android.systemui:drawable/stat_sys_tether_bluetooth
+12-07 17:17:05.271: D/StatusBar.NetworkController(1389): refreshNwBoosterIndicator - setNWBoosterIndicators(false)
+12-07 17:17:05.281: D/StatusBar.NetworkController(1389): refreshNwBoosterIndicator - setNWBoosterIndicators(false)
+12-07 17:17:05.281: D/StatusBar.NetworkController(1389): refreshNwBoosterIndicator - setNWBoosterIndicators(false)
+12-07 17:17:05.291: D/StatusBar.NetworkController(1389): refreshNwBoosterIndicator - setNWBoosterIndicators(false)
+12-07 17:17:06.291: D/StatusBar.NetworkController(1389): refreshViews connected={ wifi } level=4 combinedSignalIconId=0x7f020648/com.android.systemui:drawable/stat_sys_wifi_signal_4 mobileLabel=Telenor wifiLabel="Maqbool Solutions" emergencyOnly=false combinedLabel="Maqbool Solutions" mAirplaneMode=false mDataActivity=0 mPhoneSignalIconId=0x7f0205c8/com.android.systemui:drawable/stat_sys_signal_4_auto_rotate mQSPhoneSignalIconId=0x7f02015e/com.android.systemui:drawable/ic_qs_signal_4 mDataDirectionIconId=0x0/(null) mDataSignalIconId=0x7f0205c8/com.android.systemui:drawable/stat_sys_signal_4_auto_rotate mDataTypeIconId=0x7f020420/com.android.systemui:drawable/stat_sys_data_connected_h mQSDataTypeIconId=0x7f020168/com.android.systemui:drawable/ic_qs_signal_h mNoSimIconId=0x0/(null) mWifiIconId=0x7f020648/com.android.systemui:drawable/stat_sys_wifi_signal_4 mQSWifiIconId=0x7f02032a/com.android.systemui:drawable/qs_tile_wifi_signal_4 mWifiActivityIconId=0x7f0205fe/com.android.systemui:drawable/stat_sys_signal_no_inout mBluetoothTetherIconId=0x7f020624/com.android.systemui:drawable/stat_sys_tether_bluetooth
+12-07 17:17:06.291: D/StatusBar.NetworkController(1389): refreshNwBoosterIndicator - setNWBoosterIndicators(false)
+12-07 17:17:06.301: D/StatusBar.NetworkController(1389): refreshNwBoosterIndicator - setNWBoosterIndicators(false)
+12-07 17:17:06.311: D/StatusBar.NetworkController(1389): refreshNwBoosterIndicator - setNWBoosterIndicators(false)
+12-07 17:17:06.321: D/StatusBar.NetworkController(1389): refreshNwBoosterIndicator - setNWBoosterIndicators(false)
+12-07 17:17:11.331: D/StatusBar.NetworkController(1389): refreshViews connected={ wifi } level=4 combinedSignalIconId=0x7f020648/com.android.systemui:drawable/stat_sys_wifi_signal_4 mobileLabel=Telenor wifiLabel="Maqbool Solutions" emergencyOnly=false combinedLabel="Maqbool Solutions" mAirplaneMode=false mDataActivity=0 mPhoneSignalIconId=0x7f0205c8/com.android.systemui:drawable/stat_sys_signal_4_auto_rotate mQSPhoneSignalIconId=0x7f02015e/com.android.systemui:drawable/ic_qs_signal_4 mDataDirectionIconId=0x0/(null) mDataSignalIconId=0x7f0205c8/com.android.systemui:drawable/stat_sys_signal_4_auto_rotate mDataTypeIconId=0x7f020420/com.android.systemui:drawable/stat_sys_data_connected_h mQSDataTypeIconId=0x7f020168/com.android.systemui:drawable/ic_qs_signal_h mNoSimIconId=0x0/(null) mWifiIconId=0x7f020648/com.android.systemui:drawable/stat_sys_wifi_signal_4 mQSWifiIconId=0x7f02032a/com.android.systemui:drawable/qs_tile_wifi_signal_4 mWifiActivityIconId=0x7f020609/com.android.systemui:drawable/stat_sys_signal_out mBluetoothTetherIconId=0x7f020624/com.android.systemui:drawable/stat_sys_tether_bluetooth
+12-07 17:17:11.331: D/StatusBar.NetworkController(1389): refreshNwBoosterIndicator - setNWBoosterIndicators(false)
+12-07 17:17:11.341: D/StatusBar.NetworkController(1389): refreshNwBoosterIndicator - setNWBoosterIndicators(false)
+12-07 17:17:11.341: D/StatusBar.NetworkController(1389): refreshNwBoosterIndicator - setNWBoosterIndicators(false)
+12-07 17:17:11.341: D/StatusBar.NetworkController(1389): refreshNwBoosterIndicator - setNWBoosterIndicators(false)
+12-07 17:17:11.711: D/Sensorhubs(354): readContextData: 1, 1, 26, 1, 2, -94, -20, 106, 4, 0
+12-07 17:17:11.711: D/SensorHubManager(791): onGetSensorHubDataLocked: library(10) = 1, 1, 26, 1, 2, -94, -20, 106, 4, 0
+12-07 17:17:11.711: D/CAE(791): onGetSensorHubData(SensorHubParserProvider.java:92) - onGetSensorHubData Event [event buffer len :10], AP_WAKEUP
+12-07 17:17:11.711: I/CAE(791): parse(SensorHubParserProvider.java:188) - buffer size = 10
+12-07 17:17:11.721: I/CAE(791): parse(SensorHubParserProvider.java:199) - 1, 1, 26, 1, 2, -94, -20, 106, 4, 0,
+12-07 17:17:11.721: E/Watchdog(791): !@Sync 1784 [12-07 17:17:11.735]
+12-07 17:17:11.731: D/CAE(791): display(ContextProvider.java:375) - ================= ACTIVITY_TRACKER =================
+12-07 17:17:11.731: I/CAE(791): display(ContextProvider.java:391) - Accuracy=[0], OperationMode=[0], ActivityType=[4], TimeStamp=[1544185031739]
+12-07 17:17:11.741: D/SContextService(791): updateSContext() : event = Activity Tracker
+12-07 17:17:11.741: D/WifiService(791): mActivityTrackerListener: onSContextChanged(): 25
+12-07 17:17:11.741: D/WifiService(791): [ACTIVITY_STATUS_VEHICLE] LOW
+12-07 17:17:12.351: D/StatusBar.NetworkController(1389): refreshViews connected={ wifi } level=4 combinedSignalIconId=0x7f020648/com.android.systemui:drawable/stat_sys_wifi_signal_4 mobileLabel=Telenor wifiLabel="Maqbool Solutions" emergencyOnly=false combinedLabel="Maqbool Solutions" mAirplaneMode=false mDataActivity=0 mPhoneSignalIconId=0x7f0205c8/com.android.systemui:drawable/stat_sys_signal_4_auto_rotate mQSPhoneSignalIconId=0x7f02015e/com.android.systemui:drawable/ic_qs_signal_4 mDataDirectionIconId=0x0/(null) mDataSignalIconId=0x7f0205c8/com.android.systemui:drawable/stat_sys_signal_4_auto_rotate mDataTypeIconId=0x7f020420/com.android.systemui:drawable/stat_sys_data_connected_h mQSDataTypeIconId=0x7f020168/com.android.systemui:drawable/ic_qs_signal_h mNoSimIconId=0x0/(null) mWifiIconId=0x7f020648/com.android.systemui:drawable/stat_sys_wifi_signal_4 mQSWifiIconId=0x7f02032a/com.android.systemui:drawable/qs_tile_wifi_signal_4 mWifiActivityIconId=0x7f0205fe/com.android.systemui:drawable/stat_sys_signal_no_inout mBluetoothTetherIconId=0x7f020624/com.android.systemui:drawable/stat_sys_tether_bluetooth
+12-07 17:17:12.351: D/StatusBar.NetworkController(1389): refreshNwBoosterIndicator - setNWBoosterIndicators(false)
+12-07 17:17:12.351: D/StatusBar.NetworkController(1389): refreshNwBoosterIndicator - setNWBoosterIndicators(false)
+12-07 17:17:12.351: D/StatusBar.NetworkController(1389): refreshNwBoosterIndicator - setNWBoosterIndicators(false)
+12-07 17:17:12.351: D/StatusBar.NetworkController(1389): refreshNwBoosterIndicator - setNWBoosterIndicators(false)
+12-07 17:17:12.421: D/StatusBar.NetworkController(1389): onSignalStrengthsChanged signalStrength=SignalStrength: 20 99 -120 -160 -120 -1 -1 99 2147483647 2147483647 2147483647 -1 2147483647 0x4 gsm|lte level=4
+12-07 17:17:12.431: D/StatusBar.NetworkController(1389): updateTelephonySignalStrength: hasService=true ss=SignalStrength: 20 99 -120 -160 -120 -1 -1 99 2147483647 2147483647 2147483647 -1 2147483647 0x4 gsm|lte
+12-07 17:17:12.431: D/StatusBar.NetworkController(1389): updateTelephonySignalStrength: iconLevel=4
+12-07 17:17:12.431: D/StatusBar.NetworkController(1389): updateTelephonySignalStrength, No signal level. mPhoneSignalIconId = com.android.systemui:drawable/stat_sys_signal_4_auto_rotate mDataSignalIconId = com.android.systemui:drawable/stat_sys_signal_4_auto_rotate mQSPhoneSignalIconId = com.android.systemui:drawable/ic_qs_signal_4 mContentDescriptionPhoneSignal = Phone signal full.
+12-07 17:17:12.531: D/StatusBar.NetworkController(1389): refreshViews connected={ wifi } level=4 combinedSignalIconId=0x7f020648/com.android.systemui:drawable/stat_sys_wifi_signal_4 mobileLabel=Telenor wifiLabel="Maqbool Solutions" emergencyOnly=false combinedLabel="Maqbool Solutions" mAirplaneMode=false mDataActivity=0 mPhoneSignalIconId=0x7f0205c8/com.android.systemui:drawable/stat_sys_signal_4_auto_rotate mQSPhoneSignalIconId=0x7f02015e/com.android.systemui:drawable/ic_qs_signal_4 mDataDirectionIconId=0x0/(null) mDataSignalIconId=0x7f0205c8/com.android.systemui:drawable/stat_sys_signal_4_auto_rotate mDataTypeIconId=0x7f020420/com.android.systemui:drawable/stat_sys_data_connected_h mQSDataTypeIconId=0x7f020168/com.android.systemui:drawable/ic_qs_signal_h mNoSimIconId=0x0/(null) mWifiIconId=0x7f020648/com.android.systemui:drawable/stat_sys_wifi_signal_4 mQSWifiIconId=0x7f02032a/com.android.systemui:drawable/qs_tile_wifi_signal_4 mWifiActivityIconId=0x7f0205fe/com.android.systemui:drawable/stat_sys_signal_no_inout mBluetoothTetherIconId=0x7f020624/com.android.systemui:drawable/stat_sys_tether_bluetooth
+12-07 17:17:12.531: D/StatusBar.NetworkController(1389): refreshNwBoosterIndicator - setNWBoosterIndicators(false)
+12-07 17:17:12.531: D/StatusBar.NetworkController(1389): refreshNwBoosterIndicator - setNWBoosterIndicators(false)
+12-07 17:17:12.531: D/StatusBar.NetworkController(1389): refreshNwBoosterIndicator - setNWBoosterIndicators(false)
+12-07 17:17:12.531: D/StatusBar.NetworkController(1389): refreshNwBoosterIndicator - setNWBoosterIndicators(false)
+12-07 17:17:12.681: D/Sensorhubs(354): readContextData: 1, 1, 26, 1, 2, -94, -16, 60, 4, 1
+12-07 17:17:12.681: D/SensorHubManager(791): onGetSensorHubDataLocked: library(10) = 1, 1, 26, 1, 2, -94, -16, 60, 4, 1
+12-07 17:17:12.691: D/CAE(791): onGetSensorHubData(SensorHubParserProvider.java:92) - onGetSensorHubData Event [event buffer len :10], AP_WAKEUP
+12-07 17:17:12.691: I/CAE(791): parse(SensorHubParserProvider.java:188) - buffer size = 10
+12-07 17:17:12.691: I/CAE(791): parse(SensorHubParserProvider.java:199) - 1, 1, 26, 1, 2, -94, -16, 60, 4, 1,
+12-07 17:17:12.691: D/CAE(791): display(ContextProvider.java:375) - ================= ACTIVITY_TRACKER =================
+12-07 17:17:12.691: I/CAE(791): display(ContextProvider.java:391) - Accuracy=[1], OperationMode=[0], ActivityType=[4], TimeStamp=[1544185032704]
+12-07 17:17:12.691: D/SContextService(791): updateSContext() : event = Activity Tracker
+12-07 17:17:12.701: D/WifiService(791): mActivityTrackerListener: onSContextChanged(): 25
+12-07 17:17:12.701: D/WifiService(791): [ACTIVITY_STATUS_VEHICLE] MID or HIGH
+12-07 17:17:12.701: D/WifiService(791): startMs : 1544185032712
+12-07 17:17:12.701: D/WifiService(791): setWifiScanWithSensor bMove = 3
+12-07 17:17:12.701: D/WifiStateMachine(791): setWifiScanMove bMove = 3
+12-07 17:17:12.701: I/WifiStateMachine(791): sendMessageDelayed CMD_SET_SCAN_MOVE after 5 mins with 3
+12-07 17:17:13.391: D/BatteryService(791): !@BatteryListener : batteryPropertiesChanged!
+12-07 17:17:14.121: I/Finsky(28617): [11703] com.google.android.finsky.bo.an.run(6): Stats for Executor: Db-notification_cache com.google.android.finsky.bo.ao@56cfc42[Running, pool size = 0, active threads = 0, queued tasks = 0, completed tasks = 7]
+12-07 17:17:14.131: I/Finsky(28617): [11703] com.google.android.finsky.bo.an.run(6): Stats for Executor: VerifyAppsDataStore com.google.android.finsky.bo.ao@14fb453[Running, pool size = 0, active threads = 0, queued tasks = 0, completed tasks = 1983]
+12-07 17:17:14.131: I/Finsky(28617): [11703] com.google.android.finsky.bo.an.run(6): Stats for Executor: Db-verify_apps.db com.google.android.finsky.bo.ao@3134190[Running, pool size = 0, active threads = 0, queued tasks = 0, completed tasks = 2075]
+12-07 17:17:14.141: I/Finsky(28617): [11703] com.google.android.finsky.bo.an.run(6): Stats for Executor: Db-scheduler com.google.android.finsky.bo.ao@28cfa89[Running, pool size = 0, active threads = 0, queued tasks = 0, completed tasks = 81]
+12-07 17:17:14.141: I/Finsky(28617): [11703] com.google.android.finsky.bo.an.run(6): Stats for Executor: Db-scheduler_logging_store.db com.google.android.finsky.bo.ao@b1742af[Running, pool size = 0, active threads = 0, queued tasks = 0, completed tasks = 12]
+12-07 17:17:14.141: I/Finsky(28617): [11703] com.google.android.finsky.bo.an.run(6): Stats for Executor: InstallQueueDatabaseManager com.google.android.finsky.bo.ao@192e6bc[Running, pool size = 0, active threads = 0, queued tasks = 0, completed tasks = 79]
+12-07 17:17:14.191: D/SSRM:n(791): SIOP:: AP = 260, PST = 263, CUR = 450, LCD = 53
+12-07 17:17:15.371: D/StatusBar.NetworkController(1389): refreshViews connected={ wifi } level=4 combinedSignalIconId=0x7f020648/com.android.systemui:drawable/stat_sys_wifi_signal_4 mobileLabel=Telenor wifiLabel="Maqbool Solutions" emergencyOnly=false combinedLabel="Maqbool Solutions" mAirplaneMode=false mDataActivity=0 mPhoneSignalIconId=0x7f0205c8/com.android.systemui:drawable/stat_sys_signal_4_auto_rotate mQSPhoneSignalIconId=0x7f02015e/com.android.systemui:drawable/ic_qs_signal_4 mDataDirectionIconId=0x0/(null) mDataSignalIconId=0x7f0205c8/com.android.systemui:drawable/stat_sys_signal_4_auto_rotate mDataTypeIconId=0x7f020420/com.android.systemui:drawable/stat_sys_data_connected_h mQSDataTypeIconId=0x7f020168/com.android.systemui:drawable/ic_qs_signal_h mNoSimIconId=0x0/(null) mWifiIconId=0x7f020648/com.android.systemui:drawable/stat_sys_wifi_signal_4 mQSWifiIconId=0x7f02032a/com.android.systemui:drawable/qs_tile_wifi_signal_4 mWifiActivityIconId=0x7f0205f9/com.android.systemui:drawable/stat_sys_signal_in mBluetoothTetherIconId=0x7f020624/com.android.systemui:drawable/stat_sys_tether_bluetooth
+12-07 17:17:15.371: D/StatusBar.NetworkController(1389): refreshNwBoosterIndicator - setNWBoosterIndicators(false)
+12-07 17:17:15.381: D/StatusBar.NetworkController(1389): refreshNwBoosterIndicator - setNWBoosterIndicators(false)
+12-07 17:17:15.381: D/StatusBar.NetworkController(1389): refreshNwBoosterIndicator - setNWBoosterIndicators(false)
+12-07 17:17:15.391: D/StatusBar.NetworkController(1389): refreshNwBoosterIndicator - setNWBoosterIndicators(false)
+12-07 17:17:15.821: D/Sensorhubs(354): readContextData: 1, 1, 26, 1, 2, -94, -4, 121, 4, 0
+12-07 17:17:15.821: D/SensorHubManager(791): onGetSensorHubDataLocked: library(10) = 1, 1, 26, 1, 2, -94, -4, 121, 4, 0
+12-07 17:17:15.821: D/CAE(791): onGetSensorHubData(SensorHubParserProvider.java:92) - onGetSensorHubData Event [event buffer len :10], AP_WAKEUP
+12-07 17:17:15.821: I/CAE(791): parse(SensorHubParserProvider.java:188) - buffer size = 10
+12-07 17:17:15.831: I/CAE(791): parse(SensorHubParserProvider.java:199) - 1, 1, 26, 1, 2, -94, -4, 121, 4, 0,
+12-07 17:17:15.841: D/CAE(791): display(ContextProvider.java:375) - ================= ACTIVITY_TRACKER =================
+12-07 17:17:15.841: I/CAE(791): display(ContextProvider.java:391) - Accuracy=[0], OperationMode=[0], ActivityType=[4], TimeStamp=[1544185035843]
+12-07 17:17:15.841: D/SContextService(791): updateSContext() : event = Activity Tracker
+12-07 17:17:15.841: D/WifiService(791): mActivityTrackerListener: onSContextChanged(): 25
+12-07 17:17:15.841: D/WifiService(791): [ACTIVITY_STATUS_VEHICLE] LOW
+12-07 17:17:16.291: D/StatusBar.NetworkController(1389): onSignalStrengthsChanged signalStrength=SignalStrength: 20 99 -120 -160 -120 -1 -1 99 2147483647 2147483647 2147483647 -1 2147483647 0x4 gsm|lte level=4
+12-07 17:17:16.291: D/StatusBar.NetworkController(1389): updateTelephonySignalStrength: hasService=true ss=SignalStrength: 20 99 -120 -160 -120 -1 -1 99 2147483647 2147483647 2147483647 -1 2147483647 0x4 gsm|lte
+12-07 17:17:16.291: D/StatusBar.NetworkController(1389): updateTelephonySignalStrength: iconLevel=4
+12-07 17:17:16.291: D/StatusBar.NetworkController(1389): updateTelephonySignalStrength, No signal level. mPhoneSignalIconId = com.android.systemui:drawable/stat_sys_signal_4_auto_rotate mDataSignalIconId = com.android.systemui:drawable/stat_sys_signal_4_auto_rotate mQSPhoneSignalIconId = com.android.systemui:drawable/ic_qs_signal_4 mContentDescriptionPhoneSignal = Phone signal full.
+12-07 17:17:16.391: D/StatusBar.NetworkController(1389): refreshViews connected={ wifi } level=4 combinedSignalIconId=0x7f020648/com.android.systemui:drawable/stat_sys_wifi_signal_4 mobileLabel=Telenor wifiLabel="Maqbool Solutions" emergencyOnly=false combinedLabel="Maqbool Solutions" mAirplaneMode=false mDataActivity=0 mPhoneSignalIconId=0x7f0205c8/com.android.systemui:drawable/stat_sys_signal_4_auto_rotate mQSPhoneSignalIconId=0x7f02015e/com.android.systemui:drawable/ic_qs_signal_4 mDataDirectionIconId=0x0/(null) mDataSignalIconId=0x7f0205c8/com.android.systemui:drawable/stat_sys_signal_4_auto_rotate mDataTypeIconId=0x7f020420/com.android.systemui:drawable/stat_sys_data_connected_h mQSDataTypeIconId=0x7f020168/com.android.systemui:drawable/ic_qs_signal_h mNoSimIconId=0x0/(null) mWifiIconId=0x7f020648/com.android.systemui:drawable/stat_sys_wifi_signal_4 mQSWifiIconId=0x7f02032a/com.android.systemui:drawable/qs_tile_wifi_signal_4 mWifiActivityIconId=0x7f0205f9/com.android.systemui:drawable/stat_sys_signal_in mBluetoothTetherIconId=0x7f020624/com.android.systemui:drawable/stat_sys_tether_bluetooth
+12-07 17:17:16.391: D/StatusBar.NetworkController(1389): refreshNwBoosterIndicator - setNWBoosterIndicators(false)
+12-07 17:17:16.391: D/StatusBar.NetworkController(1389): refreshNwBoosterIndicator - setNWBoosterIndicators(false)
+12-07 17:17:16.391: D/StatusBar.NetworkController(1389): refreshNwBoosterIndicator - setNWBoosterIndicators(false)
+12-07 17:17:16.391: D/StatusBar.NetworkController(1389): refreshNwBoosterIndicator - setNWBoosterIndicators(false)
+12-07 17:17:17.001: D/Sensorhubs(354): readContextData: 1, 1, 26, 1, 2, -93, 1, 19, 4, 1
+12-07 17:17:17.001: D/SensorHubManager(791): onGetSensorHubDataLocked: library(10) = 1, 1, 26, 1, 2, -93, 1, 19, 4, 1
+12-07 17:17:17.001: D/CAE(791): onGetSensorHubData(SensorHubParserProvider.java:92) - onGetSensorHubData Event [event buffer len :10], AP_WAKEUP
+12-07 17:17:17.001: I/CAE(791): parse(SensorHubParserProvider.java:188) - buffer size = 10
+12-07 17:17:17.001: I/CAE(791): parse(SensorHubParserProvider.java:199) - 1, 1, 26, 1, 2, -93, 1, 19, 4, 1,
+12-07 17:17:17.011: D/CAE(791): display(ContextProvider.java:375) - ================= ACTIVITY_TRACKER =================
+12-07 17:17:17.011: I/CAE(791): display(ContextProvider.java:391) - Accuracy=[1], OperationMode=[0], ActivityType=[4], TimeStamp=[1544185037019]
+12-07 17:17:17.011: D/SContextService(791): updateSContext() : event = Activity Tracker
+12-07 17:17:17.011: D/WifiService(791): mActivityTrackerListener: onSContextChanged(): 25
+12-07 17:17:17.011: D/WifiService(791): [ACTIVITY_STATUS_VEHICLE] MID or HIGH
+12-07 17:17:17.011: D/WifiService(791): startMs : 1544185037027
+12-07 17:17:17.381: D/StatusBar.NetworkController(1389): refreshViews connected={ wifi } level=4 combinedSignalIconId=0x7f020648/com.android.systemui:drawable/stat_sys_wifi_signal_4 mobileLabel=Telenor wifiLabel="Maqbool Solutions" emergencyOnly=false combinedLabel="Maqbool Solutions" mAirplaneMode=false mDataActivity=0 mPhoneSignalIconId=0x7f0205c8/com.android.systemui:drawable/stat_sys_signal_4_auto_rotate mQSPhoneSignalIconId=0x7f02015e/com.android.systemui:drawable/ic_qs_signal_4 mDataDirectionIconId=0x0/(null) mDataSignalIconId=0x7f0205c8/com.android.systemui:drawable/stat_sys_signal_4_auto_rotate mDataTypeIconId=0x7f020420/com.android.systemui:drawable/stat_sys_data_connected_h mQSDataTypeIconId=0x7f020168/com.android.systemui:drawable/ic_qs_signal_h mNoSimIconId=0x0/(null) mWifiIconId=0x7f020648/com.android.systemui:drawable/stat_sys_wifi_signal_4 mQSWifiIconId=0x7f02032a/com.android.systemui:drawable/qs_tile_wifi_signal_4 mWifiActivityIconId=0x7f0205fe/com.android.systemui:drawable/stat_sys_signal_no_inout mBluetoothTetherIconId=0x7f020624/com.android.systemui:drawable/stat_sys_tether_bluetooth
+12-07 17:17:17.381: D/StatusBar.NetworkController(1389): refreshNwBoosterIndicator - setNWBoosterIndicators(false)
+12-07 17:17:17.381: D/StatusBar.NetworkController(1389): refreshNwBoosterIndicator - setNWBoosterIndicators(false)
+12-07 17:17:17.381: D/StatusBar.NetworkController(1389): refreshNwBoosterIndicator - setNWBoosterIndicators(false)
+12-07 17:17:17.381: D/StatusBar.NetworkController(1389): refreshNwBoosterIndicator - setNWBoosterIndicators(false)
+12-07 17:17:18.401: D/StatusBar.NetworkController(1389): refreshViews connected={ wifi } level=4 combinedSignalIconId=0x7f020648/com.android.systemui:drawable/stat_sys_wifi_signal_4 mobileLabel=Telenor wifiLabel="Maqbool Solutions" emergencyOnly=false combinedLabel="Maqbool Solutions" mAirplaneMode=false mDataActivity=0 mPhoneSignalIconId=0x7f0205c8/com.android.systemui:drawable/stat_sys_signal_4_auto_rotate mQSPhoneSignalIconId=0x7f02015e/com.android.systemui:drawable/ic_qs_signal_4 mDataDirectionIconId=0x0/(null) mDataSignalIconId=0x7f0205c8/com.android.systemui:drawable/stat_sys_signal_4_auto_rotate mDataTypeIconId=0x7f020420/com.android.systemui:drawable/stat_sys_data_connected_h mQSDataTypeIconId=0x7f020168/com.android.systemui:drawable/ic_qs_signal_h mNoSimIconId=0x0/(null) mWifiIconId=0x7f020648/com.android.systemui:drawable/stat_sys_wifi_signal_4 mQSWifiIconId=0x7f02032a/com.android.systemui:drawable/qs_tile_wifi_signal_4 mWifiActivityIconId=0x7f0205f9/com.android.systemui:drawable/stat_sys_signal_in mBluetoothTetherIconId=0x7f020624/com.android.systemui:drawable/stat_sys_tether_bluetooth
+12-07 17:17:18.401: D/StatusBar.NetworkController(1389): refreshNwBoosterIndicator - setNWBoosterIndicators(false)
+12-07 17:17:18.421: D/StatusBar.NetworkController(1389): refreshNwBoosterIndicator - setNWBoosterIndicators(false)
+12-07 17:17:18.421: D/StatusBar.NetworkController(1389): refreshNwBoosterIndicator - setNWBoosterIndicators(false)
+12-07 17:17:18.431: D/StatusBar.NetworkController(1389): refreshNwBoosterIndicator - setNWBoosterIndicators(false)
+12-07 17:17:19.421: D/StatusBar.NetworkController(1389): refreshViews connected={ wifi } level=4 combinedSignalIconId=0x7f020648/com.android.systemui:drawable/stat_sys_wifi_signal_4 mobileLabel=Telenor wifiLabel="Maqbool Solutions" emergencyOnly=false combinedLabel="Maqbool Solutions" mAirplaneMode=false mDataActivity=0 mPhoneSignalIconId=0x7f0205c8/com.android.systemui:drawable/stat_sys_signal_4_auto_rotate mQSPhoneSignalIconId=0x7f02015e/com.android.systemui:drawable/ic_qs_signal_4 mDataDirectionIconId=0x0/(null) mDataSignalIconId=0x7f0205c8/com.android.systemui:drawable/stat_sys_signal_4_auto_rotate mDataTypeIconId=0x7f020420/com.android.systemui:drawable/stat_sys_data_connected_h mQSDataTypeIconId=0x7f020168/com.android.systemui:drawable/ic_qs_signal_h mNoSimIconId=0x0/(null) mWifiIconId=0x7f020648/com.android.systemui:drawable/stat_sys_wifi_signal_4 mQSWifiIconId=0x7f02032a/com.android.systemui:drawable/qs_tile_wifi_signal_4 mWifiActivityIconId=0x7f0205fe/com.android.systemui:drawable/stat_sys_signal_no_inout mBluetoothTetherIconId=0x7f020624/com.android.systemui:drawable/stat_sys_tether_bluetooth
+12-07 17:17:19.421: D/StatusBar.NetworkController(1389): refreshNwBoosterIndicator - setNWBoosterIndicators(false)
+12-07 17:17:19.431: D/StatusBar.NetworkController(1389): refreshNwBoosterIndicator - setNWBoosterIndicators(false)
+12-07 17:17:19.441: D/StatusBar.NetworkController(1389): refreshNwBoosterIndicator - setNWBoosterIndicators(false)
+12-07 17:17:19.451: D/StatusBar.NetworkController(1389): refreshNwBoosterIndicator - setNWBoosterIndicators(false)
+12-07 17:17:20.391: D/Sensorhubs(354): readContextData: 1, 1, 26, 1, 2, -93, 14, 83, 4, 2
+12-07 17:17:20.391: D/SensorHubManager(791): onGetSensorHubDataLocked: library(10) = 1, 1, 26, 1, 2, -93, 14, 83, 4, 2
+12-07 17:17:20.391: D/CAE(791): onGetSensorHubData(SensorHubParserProvider.java:92) - onGetSensorHubData Event [event buffer len :10], AP_WAKEUP
+12-07 17:17:20.401: I/CAE(791): parse(SensorHubParserProvider.java:188) - buffer size = 10
+12-07 17:17:20.401: I/CAE(791): parse(SensorHubParserProvider.java:199) - 1, 1, 26, 1, 2, -93, 14, 83, 4, 2,
+12-07 17:17:20.401: D/CAE(791): display(ContextProvider.java:375) - ================= ACTIVITY_TRACKER =================
+12-07 17:17:20.411: I/CAE(791): display(ContextProvider.java:391) - Accuracy=[2], OperationMode=[0], ActivityType=[4], TimeStamp=[1544185040417]
+12-07 17:17:20.411: D/SContextService(791): updateSContext() : event = Activity Tracker
+12-07 17:17:20.411: D/WifiService(791): mActivityTrackerListener: onSContextChanged(): 25
+12-07 17:17:20.411: D/WifiService(791): [ACTIVITY_STATUS_VEHICLE] MID or HIGH
+12-07 17:17:20.411: D/WifiService(791): startMs : 1544185040429
+12-07 17:17:22.431: D/StatusBar.NetworkController(1389): refreshViews connected={ wifi } level=4 combinedSignalIconId=0x7f020648/com.android.systemui:drawable/stat_sys_wifi_signal_4 mobileLabel=Telenor wifiLabel="Maqbool Solutions" emergencyOnly=false combinedLabel="Maqbool Solutions" mAirplaneMode=false mDataActivity=0 mPhoneSignalIconId=0x7f0205c8/com.android.systemui:drawable/stat_sys_signal_4_auto_rotate mQSPhoneSignalIconId=0x7f02015e/com.android.systemui:drawable/ic_qs_signal_4 mDataDirectionIconId=0x0/(null) mDataSignalIconId=0x7f0205c8/com.android.systemui:drawable/stat_sys_signal_4_auto_rotate mDataTypeIconId=0x7f020420/com.android.systemui:drawable/stat_sys_data_connected_h mQSDataTypeIconId=0x7f020168/com.android.systemui:drawable/ic_qs_signal_h mNoSimIconId=0x0/(null) mWifiIconId=0x7f020648/com.android.systemui:drawable/stat_sys_wifi_signal_4 mQSWifiIconId=0x7f02032a/com.android.systemui:drawable/qs_tile_wifi_signal_4 mWifiActivityIconId=0x7f0205f9/com.android.systemui:drawable/stat_sys_signal_in mBluetoothTetherIconId=0x7f020624/com.android.systemui:drawable/stat_sys_tether_bluetooth
+12-07 17:17:22.431: D/StatusBar.NetworkController(1389): refreshNwBoosterIndicator - setNWBoosterIndicators(false)
+12-07 17:17:22.441: D/StatusBar.NetworkController(1389): refreshNwBoosterIndicator - setNWBoosterIndicators(false)
+12-07 17:17:22.441: D/StatusBar.NetworkController(1389): refreshNwBoosterIndicator - setNWBoosterIndicators(false)
+12-07 17:17:22.451: D/StatusBar.NetworkController(1389): refreshNwBoosterIndicator - setNWBoosterIndicators(false)
+12-07 17:17:23.471: D/BatteryService(791): !@BatteryListener : batteryPropertiesChanged!
+12-07 17:17:23.471: D/BatteryService(791): level:100, scale:100, status:5, health:2, present:true, voltage: 4382, temperature: 243, technology: Li-ion, AC powered:false, USB powered:true, POGO powered:false, Wireless powered:false, icon:17303564, invalid charger:0, maxChargingCurrent:0
+12-07 17:17:23.471: D/BatteryService(791): online:4, current avg:450, charge type:1, power sharing:false, high voltage charger:false, capacity:280000, batterySWSelfDischarging:false, current_now:450
+12-07 17:17:23.471: D/BatteryService(791): Sending ACTION_BATTERY_CHANGED.
+12-07 17:17:23.471: I/MotionRecognitionService(791): Plugged
+12-07 17:17:23.471: D/MotionRecognitionService(791):   cableConnection= 1
+12-07 17:17:23.471: D/MotionRecognitionService(791): setPowerConnected | current backoffstate  = 1024 , state =1024
+12-07 17:17:23.471: D/MotionRecognitionService(791): skip setTransmitPower. 
+12-07 17:17:23.481: D/KeyguardUpdateMonitor(1389): received broadcast android.intent.action.BATTERY_CHANGED
+12-07 17:17:23.481: I/PERF(1389): received broadcast android.intent.action.BATTERY_CHANGED
+12-07 17:17:23.481: D/KeyguardUpdateMonitor(1389): handleBatteryUpdate
+12-07 17:17:23.491: D/CommonServiceConfiguration(1859): getStringValueSetting
+12-07 17:17:23.491: D/BatteryMeterView(1389): ACTION_BATTERY_CHANGED : level:100 status:5 health:2
+12-07 17:17:23.491: D/BatteryMeterView(1389): ACTION_BATTERY_CHANGED : level:100 status:5 health:2
+12-07 17:17:23.501: D/BatteryMeterView(1389): ACTION_BATTERY_CHANGED : level:100 status:5 health:2
+12-07 17:17:23.501: D/BatteryMonitor(1859): new battery level: 100
+12-07 17:17:24.181: D/Sensorhubs(354): readContextData: 1, 1, 26, 1, 2, -93, 29, 36, 4, 1
+12-07 17:17:24.181: D/SensorHubManager(791): onGetSensorHubDataLocked: library(10) = 1, 1, 26, 1, 2, -93, 29, 36, 4, 1
+12-07 17:17:24.181: D/CAE(791): onGetSensorHubData(SensorHubParserProvider.java:92) - onGetSensorHubData Event [event buffer len :10], AP_WAKEUP
+12-07 17:17:24.181: I/CAE(791): parse(SensorHubParserProvider.java:188) - buffer size = 10
+12-07 17:17:24.181: I/CAE(791): parse(SensorHubParserProvider.java:199) - 1, 1, 26, 1, 2, -93, 29, 36, 4, 1,
+12-07 17:17:24.181: D/CAE(791): display(ContextProvider.java:375) - ================= ACTIVITY_TRACKER =================
+12-07 17:17:24.181: I/CAE(791): display(ContextProvider.java:391) - Accuracy=[1], OperationMode=[0], ActivityType=[4], TimeStamp=[1544185044195]
+12-07 17:17:24.181: D/SContextService(791): updateSContext() : event = Activity Tracker
+12-07 17:17:24.181: D/WifiService(791): mActivityTrackerListener: onSContextChanged(): 25
+12-07 17:17:24.181: D/WifiService(791): [ACTIVITY_STATUS_VEHICLE] MID or HIGH
+12-07 17:17:24.181: D/WifiService(791): startMs : 1544185044198
+12-07 17:17:24.231: D/SSRM:n(791): SIOP:: AP = 260, PST = 263, CUR = 450, LCD = 53
+12-07 17:17:24.451: D/StatusBar.NetworkController(1389): refreshViews connected={ wifi } level=4 combinedSignalIconId=0x7f020648/com.android.systemui:drawable/stat_sys_wifi_signal_4 mobileLabel=Telenor wifiLabel="Maqbool Solutions" emergencyOnly=false combinedLabel="Maqbool Solutions" mAirplaneMode=false mDataActivity=0 mPhoneSignalIconId=0x7f0205c8/com.android.systemui:drawable/stat_sys_signal_4_auto_rotate mQSPhoneSignalIconId=0x7f02015e/com.android.systemui:drawable/ic_qs_signal_4 mDataDirectionIconId=0x0/(null) mDataSignalIconId=0x7f0205c8/com.android.systemui:drawable/stat_sys_signal_4_auto_rotate mDataTypeIconId=0x7f020420/com.android.systemui:drawable/stat_sys_data_connected_h mQSDataTypeIconId=0x7f020168/com.android.systemui:drawable/ic_qs_signal_h mNoSimIconId=0x0/(null) mWifiIconId=0x7f020648/com.android.systemui:drawable/stat_sys_wifi_signal_4 mQSWifiIconId=0x7f02032a/com.android.systemui:drawable/qs_tile_wifi_signal_4 mWifiActivityIconId=0x7f0205fe/com.android.systemui:drawable/stat_sys_signal_no_inout mBluetoothTetherIconId=0x7f020624/com.android.systemui:drawable/stat_sys_tether_bluetooth
+12-07 17:17:24.451: D/StatusBar.NetworkController(1389): refreshNwBoosterIndicator - setNWBoosterIndicators(false)
+12-07 17:17:24.471: D/StatusBar.NetworkController(1389): refreshNwBoosterIndicator - setNWBoosterIndicators(false)
+12-07 17:17:24.471: D/StatusBar.NetworkController(1389): refreshNwBoosterIndicator - setNWBoosterIndicators(false)
+12-07 17:17:24.481: D/StatusBar.NetworkController(1389): refreshNwBoosterIndicator - setNWBoosterIndicators(false)
+12-07 17:17:25.711: D/Sensorhubs(354): readContextData: 1, 1, 26, 1, 2, -93, 35, 37, 4, 0
+12-07 17:17:25.721: D/SensorHubManager(791): onGetSensorHubDataLocked: library(10) = 1, 1, 26, 1, 2, -93, 35, 37, 4, 0
+12-07 17:17:25.721: D/CAE(791): onGetSensorHubData(SensorHubParserProvider.java:92) - onGetSensorHubData Event [event buffer len :10], AP_WAKEUP
+12-07 17:17:25.721: I/CAE(791): parse(SensorHubParserProvider.java:188) - buffer size = 10
+12-07 17:17:25.721: I/CAE(791): parse(SensorHubParserProvider.java:199) - 1, 1, 26, 1, 2, -93, 35, 37, 4, 0,
+12-07 17:17:25.731: D/CAE(791): display(ContextProvider.java:375) - ================= ACTIVITY_TRACKER =================
+12-07 17:17:25.731: I/CAE(791): display(ContextProvider.java:391) - Accuracy=[0], OperationMode=[0], ActivityType=[4], TimeStamp=[1544185045739]
+12-07 17:17:25.731: D/SContextService(791): updateSContext() : event = Activity Tracker
+12-07 17:17:25.731: D/WifiService(791): mActivityTrackerListener: onSContextChanged(): 25
+12-07 17:17:25.731: D/WifiService(791): [ACTIVITY_STATUS_VEHICLE] LOW
+12-07 17:17:26.871: D/InputReader(791): Input event(9): value=1 when=53599165521000
+12-07 17:17:26.871: I/InputReader(791): Touch event's action is 0x0 (deviceType=0) [pCnt=1, s=0.2436 ] when=53599165601000
+12-07 17:17:26.871: D/InputReader(791): lastThreadEndTime = 53584021294540, currentThreadStartTime = 53584021304488, diff = 0
+12-07 17:17:26.871: I/InputDispatcher(791): Delivering touch to (1389): action: 0x4, toolType: 1
+12-07 17:17:26.871: I/InputDispatcher(791): Delivering touch to (2486): action: 0x4, toolType: 1
+12-07 17:17:26.871: I/InputDispatcher(791): Delivering touch to (6615): action: 0x0, toolType: 1
+12-07 17:17:26.881: D/ViewRootImpl(6615): ViewPostImeInputStage processPointer 0
+12-07 17:17:26.881: E/FXEntity(6615): call native MultitouchEvent, density = 3.0, touchXs0 = 589
+12-07 17:17:26.911: E/FXEntity(6615): call native MultitouchEvent, density = 3.0, touchXs0 = 589
+12-07 17:17:26.971: E/FXEntity(6615): call native MultitouchEvent, density = 3.0, touchXs0 = 591
+12-07 17:17:26.981: E/FXEntity(6615): call native MultitouchEvent, density = 3.0, touchXs0 = 592
+12-07 17:17:27.001: E/FXEntity(6615): call native MultitouchEvent, density = 3.0, touchXs0 = 593
+12-07 17:17:27.051: E/FXEntity(6615): call native MultitouchEvent, density = 3.0, touchXs0 = 594
+12-07 17:17:27.071: E/FXEntity(6615): call native MultitouchEvent, density = 3.0, touchXs0 = 596
+12-07 17:17:27.081: D/InputReader(791): Input event(9): value=0 when=53599373305000
+12-07 17:17:27.081: I/InputReader(791): Touch event's action is 0x1 (deviceType=0) [pCnt=1, s=] when=53599373307000
+12-07 17:17:27.081: I/InputDispatcher(791): Delivering touch to (6615): action: 0x1, toolType: 1
+12-07 17:17:27.081: E/FXEntity(6615): call native MultitouchEvent, density = 3.0, touchXs0 = 596
+12-07 17:17:27.081: D/ViewRootImpl(6615): ViewPostImeInputStage processPointer 1
+12-07 17:17:27.081: E/FXEntity(6615): call native MultitouchEvent, density = 3.0, touchXs0 = 596
+12-07 17:17:29.091: D/StatusBar.NetworkController(1389): onSignalStrengthsChanged signalStrength=SignalStrength: 21 99 -120 -160 -120 -1 -1 99 2147483647 2147483647 2147483647 -1 2147483647 0x4 gsm|lte level=4
+12-07 17:17:29.091: D/StatusBar.NetworkController(1389): updateTelephonySignalStrength: hasService=true ss=SignalStrength: 21 99 -120 -160 -120 -1 -1 99 2147483647 2147483647 2147483647 -1 2147483647 0x4 gsm|lte
+12-07 17:17:29.091: D/StatusBar.NetworkController(1389): updateTelephonySignalStrength: iconLevel=4
+12-07 17:17:29.091: D/StatusBar.NetworkController(1389): updateTelephonySignalStrength, No signal level. mPhoneSignalIconId = com.android.systemui:drawable/stat_sys_signal_4_auto_rotate mDataSignalIconId = com.android.systemui:drawable/stat_sys_signal_4_auto_rotate mQSPhoneSignalIconId = com.android.systemui:drawable/ic_qs_signal_4 mContentDescriptionPhoneSignal = Phone signal full.
+12-07 17:17:29.191: D/StatusBar.NetworkController(1389): refreshViews connected={ wifi } level=4 combinedSignalIconId=0x7f020648/com.android.systemui:drawable/stat_sys_wifi_signal_4 mobileLabel=Telenor wifiLabel="Maqbool Solutions" emergencyOnly=false combinedLabel="Maqbool Solutions" mAirplaneMode=false mDataActivity=0 mPhoneSignalIconId=0x7f0205c8/com.android.systemui:drawable/stat_sys_signal_4_auto_rotate mQSPhoneSignalIconId=0x7f02015e/com.android.systemui:drawable/ic_qs_signal_4 mDataDirectionIconId=0x0/(null) mDataSignalIconId=0x7f0205c8/com.android.systemui:drawable/stat_sys_signal_4_auto_rotate mDataTypeIconId=0x7f020420/com.android.systemui:drawable/stat_sys_data_connected_h mQSDataTypeIconId=0x7f020168/com.android.systemui:drawable/ic_qs_signal_h mNoSimIconId=0x0/(null) mWifiIconId=0x7f020648/com.android.systemui:drawable/stat_sys_wifi_signal_4 mQSWifiIconId=0x7f02032a/com.android.systemui:drawable/qs_tile_wifi_signal_4 mWifiActivityIconId=0x7f0205fe/com.android.systemui:drawable/stat_sys_signal_no_inout mBluetoothTetherIconId=0x7f020624/com.android.systemui:drawable/stat_sys_tether_bluetooth
+12-07 17:17:29.191: D/StatusBar.NetworkController(1389): refreshNwBoosterIndicator - setNWBoosterIndicators(false)
+12-07 17:17:29.191: D/StatusBar.NetworkController(1389): refreshNwBoosterIndicator - setNWBoosterIndicators(false)
+12-07 17:17:29.201: D/StatusBar.NetworkController(1389): refreshNwBoosterIndicator - setNWBoosterIndicators(false)
+12-07 17:17:29.201: D/StatusBar.NetworkController(1389): refreshNwBoosterIndicator - setNWBoosterIndicators(false)
+12-07 17:17:30.481: D/StatusBar.NetworkController(1389): refreshViews connected={ wifi } level=4 combinedSignalIconId=0x7f020648/com.android.systemui:drawable/stat_sys_wifi_signal_4 mobileLabel=Telenor wifiLabel="Maqbool Solutions" emergencyOnly=false combinedLabel="Maqbool Solutions" mAirplaneMode=false mDataActivity=0 mPhoneSignalIconId=0x7f0205c8/com.android.systemui:drawable/stat_sys_signal_4_auto_rotate mQSPhoneSignalIconId=0x7f02015e/com.android.systemui:drawable/ic_qs_signal_4 mDataDirectionIconId=0x0/(null) mDataSignalIconId=0x7f0205c8/com.android.systemui:drawable/stat_sys_signal_4_auto_rotate mDataTypeIconId=0x7f020420/com.android.systemui:drawable/stat_sys_data_connected_h mQSDataTypeIconId=0x7f020168/com.android.systemui:drawable/ic_qs_signal_h mNoSimIconId=0x0/(null) mWifiIconId=0x7f020648/com.android.systemui:drawable/stat_sys_wifi_signal_4 mQSWifiIconId=0x7f02032a/com.android.systemui:drawable/qs_tile_wifi_signal_4 mWifiActivityIconId=0x7f0205f9/com.android.systemui:drawable/stat_sys_signal_in mBluetoothTetherIconId=0x7f020624/com.android.systemui:drawable/stat_sys_tether_bluetooth
+12-07 17:17:30.481: D/StatusBar.NetworkController(1389): refreshNwBoosterIndicator - setNWBoosterIndicators(false)
+12-07 17:17:30.491: D/StatusBar.NetworkController(1389): refreshNwBoosterIndicator - setNWBoosterIndicators(false)
+12-07 17:17:30.501: D/StatusBar.NetworkController(1389): refreshNwBoosterIndicator - setNWBoosterIndicators(false)
+12-07 17:17:30.501: D/StatusBar.NetworkController(1389): refreshNwBoosterIndicator - setNWBoosterIndicators(false)
+12-07 17:17:31.331: I/System.out(6615): Waiting for connections…
+12-07 17:17:31.361: I/GLASS(6615): Call InternalSurfaceView_onMultiTouchEventNative
+12-07 17:17:31.361: I/GLASS(6615): Glass will pass multitouchevent to monocle with count = 1
+12-07 17:17:31.361: I/GLASS(6615): Call InternalSurfaceView_onMultiTouchEventNative
+12-07 17:17:31.361: I/GLASS(6615): Glass will pass multitouchevent to monocle with count = 1
+12-07 17:17:31.361: I/GLASS(6615): Call InternalSurfaceView_onMultiTouchEventNative
+12-07 17:17:31.361: I/GLASS(6615): Glass will pass multitouchevent to monocle with count = 1
+12-07 17:17:31.361: I/GLASS(6615): Call InternalSurfaceView_onMultiTouchEventNative
+12-07 17:17:31.361: I/GLASS(6615): Glass will pass multitouchevent to monocle with count = 1
+12-07 17:17:31.361: I/GLASS(6615): Call InternalSurfaceView_onMultiTouchEventNative
+12-07 17:17:31.361: I/GLASS(6615): Glass will pass multitouchevent to monocle with count = 1
+12-07 17:17:31.361: I/GLASS(6615): Call InternalSurfaceView_onMultiTouchEventNative
+12-07 17:17:31.361: I/GLASS(6615): Glass will pass multitouchevent to monocle with count = 1
+12-07 17:17:31.361: I/GLASS(6615): Call InternalSurfaceView_onMultiTouchEventNative
+12-07 17:17:31.361: I/GLASS(6615): Glass will pass multitouchevent to monocle with count = 1
+12-07 17:17:31.361: I/GLASS(6615): Call InternalSurfaceView_onMultiTouchEventNative
+12-07 17:17:31.361: I/GLASS(6615): Glass will pass multitouchevent to monocle with count = 1
+12-07 17:17:31.361: I/GLASS(6615): Call InternalSurfaceView_onMultiTouchEventNative
+12-07 17:17:31.361: I/GLASS(6615): Glass will pass multitouchevent to monocle with count = 1
+12-07 17:17:31.361: I/System.out(6615): don't add points, primary = -1
+12-07 17:17:31.381: D/SamsungIME(31687): onStartInputView: No inputType, No imeOption, isInputViewShown = true, isExtractViewShown = false, isShowInputRequested = true, isConfigChanged = false
+12-07 17:17:31.411: D/CustomFrequencyManagerService(791): acquireDVFSLockLocked : type : DVFS_MIN_LIMIT  frequency : 1958400  uid : 1000  pid : 791  pkgName : com.sec.android.inputmethod@9
+12-07 17:17:31.411: D/CustomFrequencyManagerService(791): [ 12-07 17:17:31.411  6615: 6640 W/         ]
+12-07 17:17:31.411: D/CustomFrequencyManagerService(791): Unable to open '/system/framework/com.qti.location.sdk.jar': No such file or directory
+12-07 17:17:31.411: W/art(6615): Failed to open zip archive '/system/framework/com.qti.location.sdk.jar': I/O Error
+12-07 17:17:31.411: D/SamsungIME(31687): onStartInputView requsted restarting value = false
+12-07 17:17:31.411: D/SamsungIME(31687): onStartInputView After call super -  restarting value = false
+12-07 17:17:31.411: D/SamsungIME(31687): mIsEnableOCR = false
+12-07 17:17:31.411: D/SamsungIME(31687): getValidMMCodes - failed to get the packageInfo of OCR or registered OCR Receiver
+12-07 17:17:31.421: D/SamsungIME(31687): checking talkback status : false
+12-07 17:17:31.421: D/SamsungIME(31687): disable handwriting input icon : handwriting is not available in current language
+12-07 17:17:31.421: D/SamsungIME(31687): [startInputView] info.inputType = 0 info.imeOptions = 0
+12-07 17:17:31.421: W/SamsungIME(31687): Waring! Browser or Webview may have the input type as TYPE_NULL. Do we need to null pkgName?
+12-07 17:17:31.421: W/SamsungIME(31687): [ 12-07 17:17:31.451  6615: 6640 W/         ]
+12-07 17:17:31.421: W/SamsungIME(31687): Unable to open '/system/framework/com.qti.location.sdk.jar': No such file or directory
+12-07 17:17:31.451: W/art(6615): Failed to open zip archive '/system/framework/com.qti.location.sdk.jar': I/O Error
+12-07 17:17:31.451: W/art(6615): [ 12-07 17:17:31.451  6615: 6637 W/         ]
+12-07 17:17:31.451: W/art(6615): Unable to open '/system/framework/com.qti.location.sdk.jar': No such file or directory
+12-07 17:17:31.451: W/art(6615): Failed to open zip archive '/system/framework/com.qti.location.sdk.jar': I/O Error
+12-07 17:17:31.451: I/System.out(6615): ES2ResourceFactory: Prism - createStockShader: AlphaTexture_LinearGradient.frag
+12-07 17:17:31.461: W/ContextImpl(31687): Calling a method in the system process without a qualified user: android.app.ContextImpl.sendBroadcast:830 android.content.ContextWrapper.sendBroadcast:410 com.diotek.ime.framework.common.InputManagerImpl.sendInputLanguageByThread:9420 com.diotek.ime.framework.common.InputManagerImpl.access$7100:219 com.diotek.ime.framework.common.InputManagerImpl$34.run:9393 
+12-07 17:17:31.461: E/SamsungIME(31687): lang.getLanguageCode():en, lang.getCountryCode():GB
+12-07 17:17:31.461: W/SamsungIME(31687): makeSelectedLanguageList:en_GB;
+12-07 17:17:31.461: D/SettingsProvider(791): isChangeAllowed() SettingsProvider : name = sip_input_language
+12-07 17:17:31.461: D/SettingsProvider(791): isChangeAllowed() SettingsProvider : name = handwriting_language_list
+12-07 17:17:31.471: D/SamsungIME(31687): IME_NULL
+12-07 17:17:31.471: I/SamsungIME(31687): Update SetupWizard State usc : 1 pss : false
+12-07 17:17:31.471: D/SamsungIME(31687): [AbstractKeyboardView] onDetachedFromWindow.
+12-07 17:17:31.481: D/StatusBar.NetworkController(1389): refreshViews connected={ wifi } level=4 combinedSignalIconId=0x7f020648/com.android.systemui:drawable/stat_sys_wifi_signal_4 mobileLabel=Telenor wifiLabel="Maqbool Solutions" emergencyOnly=false combinedLabel="Maqbool Solutions" mAirplaneMode=false mDataActivity=0 mPhoneSignalIconId=0x7f0205c8/com.android.systemui:drawable/stat_sys_signal_4_auto_rotate mQSPhoneSignalIconId=0x7f02015e/com.android.systemui:drawable/ic_qs_signal_4 mDataDirectionIconId=0x0/(null) mDataSignalIconId=0x7f0205c8/com.android.systemui:drawable/stat_sys_signal_4_auto_rotate mDataTypeIconId=0x7f020420/com.android.systemui:drawable/stat_sys_data_connected_h mQSDataTypeIconId=0x7f020168/com.android.systemui:drawable/ic_qs_signal_h mNoSimIconId=0x0/(null) mWifiIconId=0x7f020648/com.android.systemui:drawable/stat_sys_wifi_signal_4 mQSWifiIconId=0x7f02032a/com.android.systemui:drawable/qs_tile_wifi_signal_4 mWifiActivityIconId=0x7f0205fb/com.android.systemui:drawable/stat_sys_signal_inout mBluetoothTetherIconId=0x7f020624/com.android.systemui:drawable/stat_sys_tether_bluetooth
+12-07 17:17:31.481: D/StatusBar.NetworkController(1389): refreshNwBoosterIndicator - setNWBoosterIndicators(false)
+12-07 17:17:31.481: D/SamsungIME(31687): Magnification Enabled = false
+12-07 17:17:31.481: I/SamsungIME(31687): [IMI] startInputView - caller pid : 6615, caller uid : 10265
+12-07 17:17:31.481: D/StatusBar.NetworkController(1389): refreshNwBoosterIndicator - setNWBoosterIndicators(false)
+12-07 17:17:31.481: W/ContextImpl(31687): Calling a method in the system process without a qualified user: android.app.ContextImpl.sendBroadcast:830 android.content.ContextWrapper.sendBroadcast:410 com.diotek.ime.framework.common.InputManagerImpl.sendBroadcaseSIPShownByThread:9238 com.diotek.ime.framework.common.InputManagerImpl.access$7000:219 com.diotek.ime.framework.common.InputManagerImpl$33.run:9229 
+12-07 17:17:31.481: D/ApplicationPolicy(791): isStatusBarNotificationAllowedAsUser: packageName = android,userId = -1
+12-07 17:17:31.481: D/StatusBar.NetworkController(1389): refreshNwBoosterIndicator - setNWBoosterIndicators(false)
+12-07 17:17:31.481: W/ResourcesManager(791): getTopLevelResources: /system/framework/framework-res.apk / 1.0 running in null rsrc of package null
+12-07 17:17:31.491: D/StatusBar.NetworkController(1389): refreshNwBoosterIndicator - setNWBoosterIndicators(false)
+12-07 17:17:31.491: D/MARsPolicyManager(791): NotificationListenerService OngoingNotificationPosted : android
+12-07 17:17:31.491: D/SamsungIME(31687): onWindowShown
+12-07 17:17:31.491: I/System.out(6615): Loading Prism common native library ...
+12-07 17:17:31.491: I/System.out(6615): [ 12-07 17:17:31.501  6615: 6637 W/         ]
+12-07 17:17:31.491: I/System.out(6615): Unable to open '/system/framework/com.qti.location.sdk.jar': No such file or directory
+12-07 17:17:31.501: W/art(6615): Failed to open zip archive '/system/framework/com.qti.location.sdk.jar': I/O Error
+12-07 17:17:31.501: W/linker(6615): /data/app/com.maqboolsolutions.mysql_ssh_android-1/lib/arm/libprism_common.so: is missing DT_SONAME will use basename as a replacement: "libprism_common.so"
+12-07 17:17:31.511: I/System.out(6615): 	succeeded.
+12-07 17:17:31.531: W/ContextImpl(31687): Calling a method in the system process without a qualified user: android.app.ContextImpl.sendBroadcast:830 android.content.ContextWrapper.sendBroadcast:410 android.inputmethodservice.InputMethodService.sendInputViewShownState:443 android.inputmethodservice.InputMethodService.showWindow:2092 android.inputmethodservice.InputMethodService$InputMethodImpl.showSoftInput:651 
+12-07 17:17:31.531: D/InputMethodManagerService(791): [HARDWARE_KEYBOARD] (refreshImeWindowVis) mImeWindowVis= 3 inputVisible = truehaveHardKeyboard = false hardKeyShown = false
+12-07 17:17:31.531: D/ApplicationPolicy(791): isStatusBarNotificationAllowedAsUser: packageName = android,userId = -1
+12-07 17:17:31.541: D/MARsPolicyManager(791): NotificationListenerService OngoingNotificationPosted : android
+12-07 17:17:31.551: I/SurfaceFlinger(315): id=859 createSurf (1080x1137),1 flag=4, JnputMethod
+12-07 17:17:31.551: D/libEGL(315): eglInitialize EGLDisplay = 0xbed7b364
+12-07 17:17:31.571: D/SamsungIME(31687): IME_NULL
+12-07 17:17:31.571: I/SamsungIME(31687): Update SetupWizard State usc : 1 pss : false
+12-07 17:17:31.571: D/SamsungIME(31687): IME_NULL
+12-07 17:17:31.571: I/SamsungIME(31687): Update SetupWizard State usc : 1 pss : false
+12-07 17:17:31.571: D/SamsungIME(31687): [AbstractKeyboardView] onDetachedFromWindow.
+12-07 17:17:31.571: D/SamsungIME(31687): Magnification Enabled = false
+12-07 17:17:31.571: D/SamsungIME(31687): Dismiss ExpandCandiate
+12-07 17:17:31.571: W/ContextImpl(31687): Calling a method in the system process without a qualified user: android.app.ContextImpl.sendBroadcast:830 android.content.ContextWrapper.sendBroadcast:410 com.diotek.ime.framework.common.InputManagerImpl.sendInputLanguageByThread:9420 com.diotek.ime.framework.common.InputManagerImpl.access$7100:219 com.diotek.ime.framework.common.InputManagerImpl$34.run:9393 
+12-07 17:17:31.571: E/SamsungIME(31687): lang.getLanguageCode():en, lang.getCountryCode():GB
+12-07 17:17:31.571: W/SamsungIME(31687): makeSelectedLanguageList:en_GB;
+12-07 17:17:31.571: D/SettingsProvider(791): isChangeAllowed() SettingsProvider : name = sip_input_language
+12-07 17:17:31.571: D/SettingsProvider(791): isChangeAllowed() SettingsProvider : name = handwriting_language_list
+12-07 17:17:31.581: D/KnoxNotification(1389): ----- inflateViews : modified publicViewLocal -----
+12-07 17:17:31.581: I/SamsungIME(31687): getNextShiftState() cursorCapsMode : 0
+12-07 17:17:31.581: W/ContextImpl(31687): Calling a method in the system process without a qualified user: android.app.ContextImpl.sendBroadcast:830 android.content.ContextWrapper.sendBroadcast:410 com.diotek.ime.framework.common.InputManagerImpl.sendInputLanguageByThread:9420 com.diotek.ime.framework.common.InputManagerImpl.access$7100:219 com.diotek.ime.framework.common.InputManagerImpl$34.run:9393 
+12-07 17:17:31.581: D/SamsungIME(31687): Dismiss ExpandCandiate
+12-07 17:17:31.581: E/SamsungIME(31687): lang.getLanguageCode():en, lang.getCountryCode():GB
+12-07 17:17:31.581: W/SamsungIME(31687): makeSelectedLanguageList:en_GB;
+12-07 17:17:31.591: D/SettingsProvider(791): isChangeAllowed() SettingsProvider : name = sip_input_language
+12-07 17:17:31.591: W/System.err(31687): mkdir failed: EEXIST (File exists) : /data/user/0/com.sec.android.inputmethod/app_SwiftKey/user
+12-07 17:17:31.591: D/SettingsProvider(791): isChangeAllowed() SettingsProvider : name = handwriting_language_list
+12-07 17:17:31.591: D/KnoxNotification(1389): ----- inflateViews : modified KnoxViewLocal -----
+12-07 17:17:31.601: I/SamsungIME(31687): getNextShiftState() cursorCapsMode : 0
+12-07 17:17:31.601: D/SamsungIME(31687): Dismiss ExpandCandiate
+12-07 17:17:31.601: D/SamsungIME(31687): startInputViewContinue : true true
+12-07 17:17:31.601: D/SamsungIME(31687): conditions for show dialog : true true true false
+12-07 17:17:31.601: D/SamsungIME(31687): showDlgMsgBox : true true true
+12-07 17:17:31.601: D/SamsungIME(31687): showDlgMsgBox inner condition : true true
+12-07 17:17:31.601: D/PanelView(1389): kidsfalse mQsExpansionEnabled:true
+12-07 17:17:31.611: I/SamsungIME(31687): drawAllKey
+12-07 17:17:31.611: D/PanelView(1389): kidsfalse mQsExpansionEnabled:true
+12-07 17:17:31.611: D/BatteryMeterView(1389): onDraw batteryColor : -1107296257
+12-07 17:17:31.621: D/StatusBar(1389): ----- contentsUnchanged : true, bigContentsUnchanged - true, headsUpContentsUnchanged - true , publicUnchanged true
+12-07 17:17:31.631: D/PanelView(1389): kidsfalse mQsExpansionEnabled:true
+12-07 17:17:31.631: D/PanelView(1389): kidsfalse mQsExpansionEnabled:true
+12-07 17:17:31.641: D/SamsungIME(31687): mIsEnableOCR = false
+12-07 17:17:31.641: D/SamsungIME(31687): getValidMMCodes - failed to get the packageInfo of OCR or registered OCR Receiver
+12-07 17:17:31.641: D/SamsungIME(31687): checking talkback status : false
+12-07 17:17:31.641: D/SamsungIME(31687): mIsEnableOCR = false
+12-07 17:17:31.641: D/SamsungIME(31687): getValidMMCodes - failed to get the packageInfo of OCR or registered OCR Receiver
+12-07 17:17:31.641: D/SamsungIME(31687): checking talkback status : false
+12-07 17:17:31.641: D/SamsungIME(31687): mIsEnableOCR = false
+12-07 17:17:31.641: D/SamsungIME(31687): getValidMMCodes - failed to get the packageInfo of OCR or registered OCR Receiver
+12-07 17:17:31.641: D/SamsungIME(31687): checking talkback status : false
+12-07 17:17:31.671: D/SamsungIME(31687): Dismiss ExpandCandiate
+12-07 17:17:31.671: W/System.err(31687): mkdir failed: EEXIST (File exists) : /data/user/0/com.sec.android.inputmethod/app_SwiftKey/user
+12-07 17:17:31.681: D/ViewRootImpl(6615): MSG_RESIZED: ci=Rect(0, 72 - 0, 0) vi=Rect(0, 72 - 0, 759) or=1
+12-07 17:17:31.681: I/SamsungIME(31687): getCurrentKeyboard
+12-07 17:17:31.681: I/SamsungIME(31687): getTextKeyboard
+12-07 17:17:31.691: D/libEGL(315): eglInitialize EGLDisplay = 0xbed7b364
+12-07 17:17:31.691: D/SamsungIME(31687): [SwiftkeyWrapper] currentLangauge : 1701726018
+12-07 17:17:31.691: I/SamsungIME(31687): drawAllKey
+12-07 17:17:31.721: D/SamsungIME(31687): mIsEnableOCR = false
+12-07 17:17:31.721: D/SamsungIME(31687): getValidMMCodes - failed to get the packageInfo of OCR or registered OCR Receiver
+12-07 17:17:31.721: D/SamsungIME(31687): checking talkback status : false
+12-07 17:17:31.721: D/SamsungIME(31687): mIsEnableOCR = false
+12-07 17:17:31.721: D/SamsungIME(31687): getValidMMCodes - failed to get the packageInfo of OCR or registered OCR Receiver
+12-07 17:17:31.721: D/SamsungIME(31687): checking talkback status : false
+12-07 17:17:31.721: D/SamsungIME(31687): mIsEnableOCR = false
+12-07 17:17:31.721: D/SamsungIME(31687): getValidMMCodes - failed to get the packageInfo of OCR or registered OCR Receiver
+12-07 17:17:31.721: D/SamsungIME(31687): checking talkback status : false
+12-07 17:17:31.741: D/libEGL(315): eglInitialize EGLDisplay = 0xbed7b364
+12-07 17:17:31.921: D/CustomFrequencyManagerService(791): releaseDVFSLockLocked : Getting Lock type frm List : DVFS_MIN_LIMIT  frequency : 1958400  uid : 1000  pid : 791  tag : com.sec.android.inputmethod@9
+12-07 17:17:31.931: D/libEGL(315): eglInitialize EGLDisplay = 0xbed7b364
+12-07 17:17:32.101: I/SamsungIME(31687): Update SetupWizard State usc : 1 pss : false
+12-07 17:17:32.111: D/SamsungIME(31687): SwiftKey guide popup condition 1 : true true
+12-07 17:17:32.111: E/SamsungIME(31687): SwiftKey guide popup condition 2 : true false truefalse true true true true true true true
+12-07 17:17:32.481: D/StatusBar.NetworkController(1389): refreshViews connected={ wifi } level=4 combinedSignalIconId=0x7f020648/com.android.systemui:drawable/stat_sys_wifi_signal_4 mobileLabel=Telenor wifiLabel="Maqbool Solutions" emergencyOnly=false combinedLabel="Maqbool Solutions" mAirplaneMode=false mDataActivity=0 mPhoneSignalIconId=0x7f0205c8/com.android.systemui:drawable/stat_sys_signal_4_auto_rotate mQSPhoneSignalIconId=0x7f02015e/com.android.systemui:drawable/ic_qs_signal_4 mDataDirectionIconId=0x0/(null) mDataSignalIconId=0x7f0205c8/com.android.systemui:drawable/stat_sys_signal_4_auto_rotate mDataTypeIconId=0x7f020420/com.android.systemui:drawable/stat_sys_data_connected_h mQSDataTypeIconId=0x7f020168/com.android.systemui:drawable/ic_qs_signal_h mNoSimIconId=0x0/(null) mWifiIconId=0x7f020648/com.android.systemui:drawable/stat_sys_wifi_signal_4 mQSWifiIconId=0x7f02032a/com.android.systemui:drawable/qs_tile_wifi_signal_4 mWifiActivityIconId=0x7f0205fe/com.android.systemui:drawable/stat_sys_signal_no_inout mBluetoothTetherIconId=0x7f020624/com.android.systemui:drawable/stat_sys_tether_bluetooth
+12-07 17:17:32.491: D/StatusBar.NetworkController(1389): refreshNwBoosterIndicator - setNWBoosterIndicators(false)
+12-07 17:17:32.491: D/StatusBar.NetworkController(1389): refreshNwBoosterIndicator - setNWBoosterIndicators(false)
+12-07 17:17:32.491: D/StatusBar.NetworkController(1389): refreshNwBoosterIndicator - setNWBoosterIndicators(false)
+12-07 17:17:32.501: D/StatusBar.NetworkController(1389): refreshNwBoosterIndicator - setNWBoosterIndicators(false)
+12-07 17:17:33.501: D/StatusBar.NetworkController(1389): refreshViews connected={ wifi } level=4 combinedSignalIconId=0x7f020648/com.android.systemui:drawable/stat_sys_wifi_signal_4 mobileLabel=Telenor wifiLabel="Maqbool Solutions" emergencyOnly=false combinedLabel="Maqbool Solutions" mAirplaneMode=false mDataActivity=0 mPhoneSignalIconId=0x7f0205c8/com.android.systemui:drawable/stat_sys_signal_4_auto_rotate mQSPhoneSignalIconId=0x7f02015e/com.android.systemui:drawable/ic_qs_signal_4 mDataDirectionIconId=0x0/(null) mDataSignalIconId=0x7f0205c8/com.android.systemui:drawable/stat_sys_signal_4_auto_rotate mDataTypeIconId=0x7f020420/com.android.systemui:drawable/stat_sys_data_connected_h mQSDataTypeIconId=0x7f020168/com.android.systemui:drawable/ic_qs_signal_h mNoSimIconId=0x0/(null) mWifiIconId=0x7f020648/com.android.systemui:drawable/stat_sys_wifi_signal_4 mQSWifiIconId=0x7f02032a/com.android.systemui:drawable/qs_tile_wifi_signal_4 mWifiActivityIconId=0x7f0205fb/com.android.systemui:drawable/stat_sys_signal_inout mBluetoothTetherIconId=0x7f020624/com.android.systemui:drawable/stat_sys_tether_bluetooth
+12-07 17:17:33.501: D/StatusBar.NetworkController(1389): refreshNwBoosterIndicator - setNWBoosterIndicators(false)
+12-07 17:17:33.501: D/StatusBar.NetworkController(1389): refreshNwBoosterIndicator - setNWBoosterIndicators(false)
+12-07 17:17:33.511: D/StatusBar.NetworkController(1389): refreshNwBoosterIndicator - setNWBoosterIndicators(false)
+12-07 17:17:33.511: D/StatusBar.NetworkController(1389): refreshNwBoosterIndicator - setNWBoosterIndicators(false)
+12-07 17:17:33.531: D/BatteryService(791): !@BatteryListener : batteryPropertiesChanged!
+12-07 17:17:33.531: D/BatteryService(791): level:100, scale:100, status:5, health:2, present:true, voltage: 4383, temperature: 244, technology: Li-ion, AC powered:false, USB powered:true, POGO powered:false, Wireless powered:false, icon:17303564, invalid charger:0, maxChargingCurrent:0
+12-07 17:17:33.531: D/BatteryService(791): online:4, current avg:450, charge type:1, power sharing:false, high voltage charger:false, capacity:280000, batterySWSelfDischarging:false, current_now:450
+12-07 17:17:33.531: D/BatteryService(791): Sending ACTION_BATTERY_CHANGED.
+12-07 17:17:33.541: I/MotionRecognitionService(791): Plugged
+12-07 17:17:33.541: D/MotionRecognitionService(791):   cableConnection= 1
+12-07 17:17:33.541: D/MotionRecognitionService(791): setPowerConnected | current backoffstate  = 1024 , state =1024
+12-07 17:17:33.541: D/MotionRecognitionService(791): skip setTransmitPower. 
+12-07 17:17:33.551: D/KeyguardUpdateMonitor(1389): received broadcast android.intent.action.BATTERY_CHANGED
+12-07 17:17:33.551: I/PERF(1389): received broadcast android.intent.action.BATTERY_CHANGED
+12-07 17:17:33.551: D/KeyguardUpdateMonitor(1389): handleBatteryUpdate
+12-07 17:17:33.551: D/BatteryMeterView(1389): ACTION_BATTERY_CHANGED : level:100 status:5 health:2
+12-07 17:17:33.561: D/BatteryMeterView(1389): ACTION_BATTERY_CHANGED : level:100 status:5 health:2
+12-07 17:17:33.561: D/CommonServiceConfiguration(1859): getStringValueSetting
+12-07 17:17:33.561: D/BatteryMeterView(1389): ACTION_BATTERY_CHANGED : level:100 status:5 health:2
+12-07 17:17:33.561: D/BatteryMonitor(1859): new battery level: 100
+12-07 17:17:33.871: D/InputReader(791): Input event(8): value=1 when=53606164935000
+12-07 17:17:33.881: D/lights(791): button : 1 +
+12-07 17:17:33.881: I/InputDispatcher(791): Delivering key to (6615): action: 0x0 (0)
+12-07 17:17:33.891: D/ViewRootImpl(6615): The input has been finished in ImeInputStage.
+12-07 17:17:33.921: D/lights(791): button : 1 -
+12-07 17:17:33.991: D/InputReader(791): Input event(8): value=0 when=53606285867000
+12-07 17:17:33.991: I/InputDispatcher(791): Delivering key to (6615): action: 0x1 (0)
+12-07 17:17:34.001: D/ViewRootImpl(6615): The input has been finished in ImeInputStage.
+12-07 17:17:34.001: D/LightsService(791): [api] [SvcLED] turnOff:: id = 6 (uid: 1000 pid: 791) 
+12-07 17:17:34.011: D/LightsService(791): [SvcLED] setSvcLedStateLocked:: SvcLEDState : 0x0 -> 0x0 | SvcLED(id=6) set Off
+12-07 17:17:34.011: D/EdgeLight(791): Turning on edge light for notification (NotificationRecord(0x09549bee: pkg=com.centsol.csongs user=UserHandle{0} id=353032209 tag=null score=-10 key=0|com.centsol.csongs|353032209|null|10232: Notification(pri=-1 contentView=null vibrate=default sound=default tick defaults=0x7 flags=0x11 color=0xff00ff00 vis=PUBLIC secFlags=0x0 secPriority=0))) with color=ffffffff
+12-07 17:17:34.011: D/LightsService(791): [SvcLED] handleForcedSvcLEDTask()
+12-07 17:17:34.011: D/LightsService(791): [SvcLED]  setSvcLedLightLocked :: Current SvcLED(id=5) maintains its priority right
+12-07 17:17:34.011: D/MARsPolicyManager(791): NotificationListenerService OngoingNotificationRemoved : android
+12-07 17:17:34.011: D/SamsungIME(31687): onWindowHidden
+12-07 17:17:34.021: W/ContextImpl(31687): Calling a method in the system process without a qualified user: android.app.ContextImpl.sendBroadcast:830 android.content.ContextWrapper.sendBroadcast:410 android.inputmethodservice.InputMethodService.sendInputViewShownState:443 android.inputmethodservice.InputMethodService.hideWindow:2310 android.inputmethodservice.InputMethodService.doHideWindow:2288 
+12-07 17:17:34.021: D/InputMethodManagerService(791): [HARDWARE_KEYBOARD] (refreshImeWindowVis) mImeWindowVis= 0 inputVisible = falsehaveHardKeyboard = false hardKeyShown = false
+12-07 17:17:34.031: D/libEGL(315): eglTerminate EGLDisplay = 0xb47ef64c
+12-07 17:17:34.031: D/libEGL(315): eglTerminate EGLDisplay = 0xb47ef64c
+12-07 17:17:34.031: D/PanelView(1389): kidsfalse mQsExpansionEnabled:true
+12-07 17:17:34.031: D/ViewRootImpl(6615): MSG_RESIZED: ci=Rect(0, 72 - 0, 0) vi=Rect(0, 72 - 0, 0) or=1
+12-07 17:17:34.041: D/PanelView(1389): kidsfalse mQsExpansionEnabled:true
+12-07 17:17:34.041: D/BatteryMeterView(1389): onDraw batteryColor : -1107296257
+12-07 17:17:34.191: D/StatusBar.NetworkController(1389): onSignalStrengthsChanged signalStrength=SignalStrength: 21 99 -120 -160 -120 -1 -1 99 2147483647 2147483647 2147483647 -1 2147483647 0x4 gsm|lte level=4
+12-07 17:17:34.191: D/StatusBar.NetworkController(1389): updateTelephonySignalStrength: hasService=true ss=SignalStrength: 21 99 -120 -160 -120 -1 -1 99 2147483647 2147483647 2147483647 -1 2147483647 0x4 gsm|lte
+12-07 17:17:34.191: D/StatusBar.NetworkController(1389): updateTelephonySignalStrength: iconLevel=4
+12-07 17:17:34.191: D/StatusBar.NetworkController(1389): updateTelephonySignalStrength, No signal level. mPhoneSignalIconId = com.android.systemui:drawable/stat_sys_signal_4_auto_rotate mDataSignalIconId = com.android.systemui:drawable/stat_sys_signal_4_auto_rotate mQSPhoneSignalIconId = com.android.systemui:drawable/ic_qs_signal_4 mContentDescriptionPhoneSignal = Phone signal full.
+12-07 17:17:34.271: I/SurfaceFlinger(315): id=859 Removed JnputMethod (7/10)
+12-07 17:17:34.271: I/SurfaceFlinger(315): id=859 Removed JnputMethod (-2/10)
+12-07 17:17:34.271: D/SSRM:n(791): SIOP:: AP = 260, PST = 263, CUR = 450, LCD = 53
+12-07 17:17:34.281: D/libEGL(315): eglTerminate EGLDisplay = 0xbed7b3a4
+12-07 17:17:34.291: D/StatusBar.NetworkController(1389): refreshViews connected={ wifi } level=4 combinedSignalIconId=0x7f020648/com.android.systemui:drawable/stat_sys_wifi_signal_4 mobileLabel=Telenor wifiLabel="Maqbool Solutions" emergencyOnly=false combinedLabel="Maqbool Solutions" mAirplaneMode=false mDataActivity=0 mPhoneSignalIconId=0x7f0205c8/com.android.systemui:drawable/stat_sys_signal_4_auto_rotate mQSPhoneSignalIconId=0x7f02015e/com.android.systemui:drawable/ic_qs_signal_4 mDataDirectionIconId=0x0/(null) mDataSignalIconId=0x7f0205c8/com.android.systemui:drawable/stat_sys_signal_4_auto_rotate mDataTypeIconId=0x7f020420/com.android.systemui:drawable/stat_sys_data_connected_h mQSDataTypeIconId=0x7f020168/com.android.systemui:drawable/ic_qs_signal_h mNoSimIconId=0x0/(null) mWifiIconId=0x7f020648/com.android.systemui:drawable/stat_sys_wifi_signal_4 mQSWifiIconId=0x7f02032a/com.android.systemui:drawable/qs_tile_wifi_signal_4 mWifiActivityIconId=0x7f0205fb/com.android.systemui:drawable/stat_sys_signal_inout mBluetoothTetherIconId=0x7f020624/com.android.systemui:drawable/stat_sys_tether_bluetooth
+12-07 17:17:34.291: D/StatusBar.NetworkController(1389): refreshNwBoosterIndicator - setNWBoosterIndicators(false)
+12-07 17:17:34.291: D/StatusBar.NetworkController(1389): refreshNwBoosterIndicator - setNWBoosterIndicators(false)
+12-07 17:17:34.291: D/StatusBar.NetworkController(1389): refreshNwBoosterIndicator - setNWBoosterIndicators(false)
+12-07 17:17:34.291: D/StatusBar.NetworkController(1389): refreshNwBoosterIndicator - setNWBoosterIndicators(false)
+12-07 17:17:34.511: D/StatusBar.NetworkController(1389): refreshViews connected={ wifi } level=4 combinedSignalIconId=0x7f020648/com.android.systemui:drawable/stat_sys_wifi_signal_4 mobileLabel=Telenor wifiLabel="Maqbool Solutions" emergencyOnly=false combinedLabel="Maqbool Solutions" mAirplaneMode=false mDataActivity=0 mPhoneSignalIconId=0x7f0205c8/com.android.systemui:drawable/stat_sys_signal_4_auto_rotate mQSPhoneSignalIconId=0x7f02015e/com.android.systemui:drawable/ic_qs_signal_4 mDataDirectionIconId=0x0/(null) mDataSignalIconId=0x7f0205c8/com.android.systemui:drawable/stat_sys_signal_4_auto_rotate mDataTypeIconId=0x7f020420/com.android.systemui:drawable/stat_sys_data_connected_h mQSDataTypeIconId=0x7f020168/com.android.systemui:drawable/ic_qs_signal_h mNoSimIconId=0x0/(null) mWifiIconId=0x7f020648/com.android.systemui:drawable/stat_sys_wifi_signal_4 mQSWifiIconId=0x7f02032a/com.android.systemui:drawable/qs_tile_wifi_signal_4 mWifiActivityIconId=0x7f0205fe/com.android.systemui:drawable/stat_sys_signal_no_inout mBluetoothTetherIconId=0x7f020624/com.android.systemui:drawable/stat_sys_tether_bluetooth
+12-07 17:17:34.511: D/StatusBar.NetworkController(1389): refreshNwBoosterIndicator - setNWBoosterIndicators(false)
+12-07 17:17:34.521: D/StatusBar.NetworkController(1389): refreshNwBoosterIndicator - setNWBoosterIndicators(false)
+12-07 17:17:34.521: D/StatusBar.NetworkController(1389): refreshNwBoosterIndicator - setNWBoosterIndicators(false)
+12-07 17:17:34.531: D/StatusBar.NetworkController(1389): refreshNwBoosterIndicator - setNWBoosterIndicators(false)
+12-07 17:17:35.381: D/lights(791): button : 0 +
+12-07 17:17:35.421: D/lights(791): button : 0 -
+12-07 17:17:35.771: D/InputReader(791): Input event(9): value=1 when=53608060937000
+12-07 17:17:35.771: I/InputReader(791): Touch event's action is 0x0 (deviceType=0) [pCnt=1, s=0.2437 ] when=53608061050000
+12-07 17:17:35.771: I/InputDispatcher(791): Delivering touch to (1389): action: 0x4, toolType: 1
+12-07 17:17:35.771: I/InputDispatcher(791): Delivering touch to (2486): action: 0x4, toolType: 1
+12-07 17:17:35.771: D/ViewRootImpl(6615): ViewPostImeInputStage processPointer 0
+12-07 17:17:35.771: I/InputDispatcher(791): Delivering touch to (6615): action: 0x0, toolType: 1
+12-07 17:17:35.771: D/InputReader(791): lastThreadEndTime = 53606289034740, currentThreadStartTime = 53606289043750, diff = 0
+12-07 17:17:35.771: D/PowerManagerService(791): [api] userActivityFromNative : 50 (event: 2 flags: 0) eventTime = 53608061
+12-07 17:17:35.771: E/FXEntity(6615): call native MultitouchEvent, density = 3.0, touchXs0 = 590
+12-07 17:17:35.771: I/GLASS(6615): Call InternalSurfaceView_onMultiTouchEventNative
+12-07 17:17:35.771: I/GLASS(6615): Glass will pass multitouchevent to monocle with count = 1
+12-07 17:17:35.791: E/FXEntity(6615): call native MultitouchEvent, density = 3.0, touchXs0 = 590
+12-07 17:17:35.791: I/GLASS(6615): Call InternalSurfaceView_onMultiTouchEventNative
+12-07 17:17:35.791: I/GLASS(6615): Glass will pass multitouchevent to monocle with count = 1
+12-07 17:17:35.841: E/FXEntity(6615): call native MultitouchEvent, density = 3.0, touchXs0 = 590
+12-07 17:17:35.841: I/GLASS(6615): Call InternalSurfaceView_onMultiTouchEventNative
+12-07 17:17:35.841: I/GLASS(6615): Glass will pass multitouchevent to monocle with count = 1
+12-07 17:17:35.871: E/FXEntity(6615): call native MultitouchEvent, density = 3.0, touchXs0 = 590
+12-07 17:17:35.871: I/GLASS(6615): Call InternalSurfaceView_onMultiTouchEventNative
+12-07 17:17:35.871: I/GLASS(6615): Glass will pass multitouchevent to monocle with count = 1
+12-07 17:17:35.871: E/FXEntity(6615): call native MultitouchEvent, density = 3.0, touchXs0 = 590
+12-07 17:17:35.881: I/GLASS(6615): Call InternalSurfaceView_onMultiTouchEventNative
+12-07 17:17:35.881: I/GLASS(6615): Glass will pass multitouchevent to monocle with count = 1
+12-07 17:17:35.891: D/InputReader(791): Input event(9): value=0 when=53608180644000
+12-07 17:17:35.891: I/InputReader(791): Touch event's action is 0x1 (deviceType=0) [pCnt=1, s=] when=53608180645000
+12-07 17:17:35.891: I/InputDispatcher(791): Delivering touch to (6615): action: 0x1, toolType: 1
+12-07 17:17:35.891: E/FXEntity(6615): call native MultitouchEvent, density = 3.0, touchXs0 = 590
+12-07 17:17:35.891: I/GLASS(6615): Call InternalSurfaceView_onMultiTouchEventNative
+12-07 17:17:35.891: I/GLASS(6615): Glass will pass multitouchevent to monocle with count = 1
+12-07 17:17:35.891: D/ViewRootImpl(6615): ViewPostImeInputStage processPointer 1
+12-07 17:17:35.891: E/FXEntity(6615): call native MultitouchEvent, density = 3.0, touchXs0 = 590
+12-07 17:17:35.891: I/GLASS(6615): Call InternalSurfaceView_onMultiTouchEventNative
+12-07 17:17:35.891: I/GLASS(6615): Glass will pass multitouchevent to monocle with count = 1
+12-07 17:17:35.891: I/System.out(6615): don't add points, primary = -1
+12-07 17:17:35.891: I/System.out(6615): [ 12-07 17:17:35.891  6615: 7595 W/         ]
+12-07 17:17:35.891: I/System.out(6615): Zip: Invalid filename 
+12-07 17:17:35.891: I/System.out(6615): [ 12-07 17:17:35.901  6615: 7595 W/         ]
+12-07 17:17:35.891: I/System.out(6615): Zip: Invalid filename 
+12-07 17:17:35.891: I/System.out(6615): [ 12-07 17:17:35.901  6615: 7595 W/         ]
+12-07 17:17:35.891: I/System.out(6615): Zip: Invalid filename 
+12-07 17:17:35.891: I/System.out(6615): [ 12-07 17:17:35.901  6615: 7595 W/         ]
+12-07 17:17:35.891: I/System.out(6615): Zip: Invalid filename 
+12-07 17:17:35.891: I/System.out(6615): [ 12-07 17:17:35.901  6615: 7595 W/         ]
+12-07 17:17:35.891: I/System.out(6615): Zip: Invalid filename 
+12-07 17:17:35.891: I/System.out(6615): [ 12-07 17:17:35.901  6615: 7595 W/         ]
+12-07 17:17:35.891: I/System.out(6615): Zip: Invalid filename 
+12-07 17:17:35.891: I/System.out(6615): [ 12-07 17:17:35.901  6615: 7595 W/         ]
+12-07 17:17:35.891: I/System.out(6615): Zip: Invalid filename 
+12-07 17:17:35.891: I/System.out(6615): [ 12-07 17:17:35.901  6615: 7595 W/         ]
+12-07 17:17:35.891: I/System.out(6615): Zip: Invalid filename 
+12-07 17:17:35.891: I/System.out(6615): [ 12-07 17:17:35.901  6615: 7595 W/         ]
+12-07 17:17:35.891: I/System.out(6615): Zip: Invalid filename 
+12-07 17:17:35.891: I/System.out(6615): [ 12-07 17:17:35.901  6615: 7595 W/         ]
+12-07 17:17:35.891: I/System.out(6615): Zip: Invalid filename 
+12-07 17:17:35.891: I/System.out(6615): [ 12-07 17:17:35.901  6615: 7595 W/         ]
+12-07 17:17:35.891: I/System.out(6615): Zip: Invalid filename 
+12-07 17:17:35.891: I/System.out(6615): [ 12-07 17:17:35.901  6615: 7595 W/         ]
+12-07 17:17:35.891: I/System.out(6615): Zip: Invalid filename 
+12-07 17:17:35.891: I/System.out(6615): [ 12-07 17:17:35.901  6615: 7595 W/         ]
+12-07 17:17:35.891: I/System.out(6615): Zip: Invalid filename 
+12-07 17:17:35.891: I/System.out(6615): [ 12-07 17:17:35.901  6615: 7595 W/         ]
+12-07 17:17:35.891: I/System.out(6615): Zip: Invalid filename 
+12-07 17:17:35.891: I/System.out(6615): [ 12-07 17:17:35.901  6615: 7595 W/         ]
+12-07 17:17:35.891: I/System.out(6615): Zip: Invalid filename 
+12-07 17:17:35.891: I/System.out(6615): [ 12-07 17:17:35.901  6615: 7595 W/         ]
+12-07 17:17:35.891: I/System.out(6615): Zip: Invalid filename 
+12-07 17:17:35.891: I/System.out(6615): [ 12-07 17:17:35.901  6615: 7595 W/         ]
+12-07 17:17:35.891: I/System.out(6615): Zip: Invalid filename 
+12-07 17:17:35.891: I/System.out(6615): [ 12-07 17:17:35.901  6615: 7595 W/         ]
+12-07 17:17:35.891: I/System.out(6615): Zip: Invalid filename 
+12-07 17:17:35.891: I/System.out(6615): [ 12-07 17:17:35.901  6615: 7595 W/         ]
+12-07 17:17:35.891: I/System.out(6615): Zip: Invalid filename 
+12-07 17:17:35.891: I/System.out(6615): [ 12-07 17:17:35.901  6615: 7595 W/         ]
+12-07 17:17:35.891: I/System.out(6615): Zip: Invalid filename 
+12-07 17:17:35.891: I/System.out(6615): [ 12-07 17:17:35.901  6615: 7595 W/         ]
+12-07 17:17:35.891: I/System.out(6615): Zip: Invalid filename 
+12-07 17:17:35.891: I/System.out(6615): [ 12-07 17:17:35.901  6615: 7595 W/         ]
+12-07 17:17:35.891: I/System.out(6615): Zip: Invalid filename 
+12-07 17:17:35.891: I/System.out(6615): [ 12-07 17:17:35.911  6615: 7595 W/         ]
+12-07 17:17:35.891: I/System.out(6615): Zip: Invalid filename 
+12-07 17:17:35.891: I/System.out(6615): [ 12-07 17:17:35.911  6615: 7595 W/         ]
+12-07 17:17:35.891: I/System.out(6615): Zip: Invalid filename 
+12-07 17:17:35.891: I/System.out(6615): [ 12-07 17:17:35.911  6615: 7595 W/         ]
+12-07 17:17:35.891: I/System.out(6615): Zip: Invalid filename 
+12-07 17:17:35.891: I/System.out(6615): [ 12-07 17:17:35.911  6615: 7595 W/         ]
+12-07 17:17:35.891: I/System.out(6615): Zip: Invalid filename 
+12-07 17:17:35.891: I/System.out(6615): [ 12-07 17:17:35.911  6615: 7595 W/         ]
+12-07 17:17:35.891: I/System.out(6615): Zip: Invalid filename 
+12-07 17:17:35.891: I/System.out(6615): [ 12-07 17:17:35.911  6615: 7595 W/         ]
+12-07 17:17:35.891: I/System.out(6615): Zip: Invalid filename 
+12-07 17:17:35.891: I/System.out(6615): [ 12-07 17:17:35.911  6615: 7595 W/         ]
+12-07 17:17:35.891: I/System.out(6615): Zip: Invalid filename 
+12-07 17:17:35.891: I/System.out(6615): [ 12-07 17:17:35.911  6615: 7595 W/         ]
+12-07 17:17:35.891: I/System.out(6615): Zip: Invalid filename 
+12-07 17:17:35.891: I/System.out(6615): [ 12-07 17:17:35.911  6615: 7595 W/         ]
+12-07 17:17:35.891: I/System.out(6615): Unable to open '/system/framework/com.qti.location.sdk.jar': No such file or directory
+12-07 17:17:35.911: W/art(6615): Failed to open zip archive '/system/framework/com.qti.location.sdk.jar': I/O Error
+12-07 17:17:35.921: E/AndroidRuntime(6615): FATAL EXCEPTION: JavaFX Application Thread
+12-07 17:17:35.921: E/AndroidRuntime(6615): Process: com.maqboolsolutions.mysql_ssh_android, PID: 6615
+12-07 17:17:35.921: E/AndroidRuntime(6615): java.lang.RuntimeException: java.lang.reflect.InvocationTargetException
+12-07 17:17:35.921: E/AndroidRuntime(6615): 	at javafx.fxml.FXMLLoader$MethodHandler.invoke(FXMLLoader.java:1774)
+12-07 17:17:35.921: E/AndroidRuntime(6615): 	at javafx.fxml.FXMLLoader$ControllerMethodEventHandler.handle(FXMLLoader.java:1657)
+12-07 17:17:35.921: E/AndroidRuntime(6615): 	at com.sun.javafx.event.CompositeEventHandler.dispatchBubblingEvent(CompositeEventHandler.java:86)
+12-07 17:17:35.921: E/AndroidRuntime(6615): 	at com.sun.javafx.event.EventHandlerManager.dispatchBubblingEvent(EventHandlerManager.java:238)
+12-07 17:17:35.921: E/AndroidRuntime(6615): 	at com.sun.javafx.event.EventHandlerManager.dispatchBubblingEvent(EventHandlerManager.java:191)
+12-07 17:17:35.921: E/AndroidRuntime(6615): 	at com.sun.javafx.event.CompositeEventDispatcher.dispatchBubblingEvent(CompositeEventDispatcher.java:59)
+12-07 17:17:35.921: E/AndroidRuntime(6615): 	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:58)
+12-07 17:17:35.921: E/AndroidRuntime(6615): 	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114)
+12-07 17:17:35.921: E/AndroidRuntime(6615): 	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56)
+12-07 17:17:35.921: E/AndroidRuntime(6615): 	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114)
+12-07 17:17:35.921: E/AndroidRuntime(6615): 	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56)
+12-07 17:17:35.921: E/AndroidRuntime(6615): 	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114)
+12-07 17:17:35.921: E/AndroidRuntime(6615): 	at com.sun.javafx.event.EventUtil.fireEventImpl(EventUtil.java:74)
+12-07 17:17:35.921: E/AndroidRuntime(6615): 	at com.sun.javafx.event.EventUtil.fireEvent(EventUtil.java:49)
+12-07 17:17:35.921: E/AndroidRuntime(6615): 	at javafx.event.Event.fireEvent(Event.java:198)
+12-07 17:17:35.921: E/AndroidRuntime(6615): 	at javafx.scene.Node.fireEvent(Node.java:8411)
+12-07 17:17:35.921: E/AndroidRuntime(6615): 	at javafx.scene.control.Button.fire(Button.java:185)
+12-07 17:17:35.921: E/AndroidRuntime(6615): 	at com.sun.javafx.scene.control.behavior.ButtonBehavior.mouseReleased(ButtonBehavior.java:182)
+12-07 17:17:35.921: E/AndroidRuntime(6615): 	at com.sun.javafx.scene.control.skin.BehaviorSkinBase$1.handle(BehaviorSkinBase.java:96)
+12-07 17:17:35.921: E/AndroidRuntime(6615): 	at com.sun.javafx.scene.control.skin.BehaviorSkinBase$1.handle(BehaviorSkinBase.java:89)
+12-07 17:17:35.921: E/AndroidRuntime(6615): 	at com.sun.javafx.event.CompositeEventHandler$NormalEventHandlerRecord.handleBubblingEvent(CompositeEventHandler.java:218)
+12-07 17:17:35.921: E/AndroidRuntime(6615): 	at com.sun.javafx.event.CompositeEventHandler.dispatchBubblingEvent(CompositeEventHandler.java:80)
+12-07 17:17:35.921: E/AndroidRuntime(6615): 	at com.sun.javafx.event.EventHandlerManager.dispatchBubblingEvent(EventHandlerManager.java:238)
+12-07 17:17:35.921: E/AndroidRuntime(6615): 	at com.sun.javafx.event.EventHandlerManager.dispatchBubblingEvent(EventHandlerManager.java:191)
+12-07 17:17:35.921: E/AndroidRuntime(6615): 	at com.sun.javafx.event.CompositeEventDispatcher.dispatchBubblingEvent(CompositeEventDispatcher.java:59)
+12-07 17:17:35.921: E/AndroidRuntime(6615): 	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:58)
+12-07 17:17:35.921: E/AndroidRuntime(6615): 	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114)
+12-07 17:17:35.921: E/AndroidRuntime(6615): 	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56)
+12-07 17:17:35.921: E/AndroidRuntime(6615): 	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114)
+12-07 17:17:35.921: E/AndroidRuntime(6615): 	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56)
+12-07 17:17:35.921: E/AndroidRuntime(6615): 	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114)
+12-07 17:17:35.921: E/AndroidRuntime(6615): 	at com.sun.javafx.event.EventUtil.fireEventImpl(EventUtil.java:74)
+12-07 17:17:35.921: E/AndroidRuntime(6615): 	at com.sun.javafx.event.EventUtil.fireEvent(EventUtil.java:54)
+12-07 17:17:35.921: E/AndroidRuntime(6615): 	at javafx.event.Event.fireEvent(Event.java:198)
+12-07 17:17:35.921: E/AndroidRuntime(6615): 	at javafx.scene.Scene$MouseHandler.process(Scene.java:3761)
+12-07 17:17:35.921: E/AndroidRuntime(6615): 	at javafx.scene.Scene$MouseHandler.access$1500(Scene.java:3489)
+12-07 17:17:35.921: E/AndroidRuntime(6615): 	at javafx.scene.Scene.impl_processMouseEvent(Scene.java:1762)
+12-07 17:17:35.921: E/AndroidRuntime(6615): 	at javafx.scene.Scene$ScenePeerListener.mouseEvent(Scene.java:2498)
+12-07 17:17:35.921: E/AndroidRuntime(6615): 	at com.sun.javafx.tk.quantum.GlassViewEventHandler$MouseEventNotification.run(GlassViewEventHandler.java:352)
+12-07 17:17:35.921: E/AndroidRuntime(6615): 	at com.sun.javafx.tk.quantum.GlassViewEventHandler$MouseEventNotification.run(GlassViewEventHandler.java:275)
+12-07 17:17:35.921: E/AndroidRuntime(6615): 	at java.security.AccessController.doPrivileged(AccessController.java:52)
+12-07 17:17:35.921: E/AndroidRuntime(6615): 	at com.sun.javafx.tk.quantum.GlassViewEventHandler.lambda$handleMouseEvent$335(GlassViewEventHandler.java:388)
+12-07 17:17:35.921: E/AndroidRuntime(6615): 	at com.sun.javafx.tk.quantum.GlassViewEventHandler.access$lambda$1(GlassViewEventHandler.java)
+12-07 17:17:35.921: E/AndroidRuntime(6615): 	at com.sun.javafx.tk.quantum.GlassViewEventHandler$$Lambda$4.get(Unknown Source)
+12-07 17:17:35.921: E/AndroidRuntime(6615): 	at com.sun.javafx.tk.quantum.QuantumToolkit.runWithoutRenderLock(QuantumToolkit.java:391)
+12-07 17:17:35.921: E/AndroidRuntime(6615): 	at com.sun.javafx.tk
+12-07 17:17:35.921: W/ActivityManager(791):   Force finishing activity com.maqboolsolutions.mysql_ssh_android/javafxports.android.FXActivity
+12-07 17:17:35.921: D/FocusedStackFrame(791): Set to : 0
+12-07 17:17:35.931: W/DropBoxManagerService(791): Dropping: data_app_crash (10 > 0 bytes)
+12-07 17:17:35.931: D/InputDispatcher(791): Focused application set to: xxxx
+12-07 17:17:35.931: D/InputDispatcher(791): Focus left window: 6615
+12-07 17:17:35.931: D/PointerIcon(791): setMouseIconStyle1 pointerType: 1001 iconType:101 flag:0 pid:791 uid:1000
+12-07 17:17:35.931: D/PointerIcon(791): setMouseCustomIcon IconType is same.101
+12-07 17:17:35.931: D/PointerIcon(791): setHoveringSpenIconStyle1 pointerType: 10001 iconType:1 flag:0 pid:791 uid:1000
+12-07 17:17:35.931: D/PointerIcon(791): setHoveringSpenCustomIcon IconType is same.1
+12-07 17:17:35.981: E/android.os.Debug(791): ro.product_ship = true
+12-07 17:17:35.981: E/android.os.Debug(791): ro.debug_level = 0x4f4c
+12-07 17:17:35.981: E/android.os.Debug(791): sys.mobilecare.preload = false
+12-07 17:17:36.001: D/ViewRootImpl(791): #1 mView = com.android.internal.policy.PhoneWindow$DecorView{f2658c1 V.E...... R.....I. 0,0-0,0}
+12-07 17:17:36.001: D/ISSUE_DEBUG(791): InputChannelName : 81c97a7 Application Error: com.maqboolsolutions.mysql_ssh_android
+12-07 17:17:36.011: D/InputDispatcher(791): Focus entered window: 791
+12-07 17:17:36.011: D/PointerIcon(791): setMouseIconStyle1 pointerType: 1001 iconType:101 flag:0 pid:791 uid:1000
+12-07 17:17:36.011: D/PointerIcon(791): setMouseCustomIcon IconType is same.101
+12-07 17:17:36.011: D/PointerIcon(791): setHoveringSpenIconStyle1 pointerType: 10001 iconType:1 flag:0 pid:791 uid:1000
+12-07 17:17:36.011: D/PointerIcon(791): setHoveringSpenCustomIcon IconType is same.1
+12-07 17:17:36.011: D/CustomFrequencyManagerService(791): acquireDVFSLockLocked : type : DVFS_MIN_LIMIT  frequency : 1958400  uid : 1000  pid : 791  pkgName : ACTIVITY_RESUME_BOOSTER@10
+12-07 17:17:36.011: D/ActivityManager(791): mDVFSHelper.acquire()
+12-07 17:17:36.021: I/SurfaceFlinger(315): id=860 createSurf (145x145),1 flag=4, nysql_ssh_a
+12-07 17:17:36.021: I/ActivityManager(791): Killing 31815:com.samsung.android.fmm/1000 (adj 8): SSR - service for lastStateTime 630s, lastActivityTime 630s
+12-07 17:17:36.021: I/ActivityManager(791): Killing 31769:com.sec.android.pagebuddynotisvc/u0a35 (adj 8): SSR - service for lastStateTime 634s, lastActivityTime 634s
+12-07 17:17:36.031: D/libEGL(791): eglInitialize EGLDisplay = 0x936867c4
+12-07 17:17:36.031: I/OpenGLRenderer(791): Initialized EGL, version 1.4
+12-07 17:17:36.041: D/Launcher(30518): onRestart, Launcher: 254780842
+12-07 17:17:36.061: D/ActivityManager(791): isAutoRunBlockedApp:: com.samsung.android.fmm, Auto Run ON
+12-07 17:17:36.061: I/ActivityManager(791): isWidgetUsingPkg : com.samsung.android.fmm no widget is using.
+12-07 17:17:36.061: W/ActivityManager(791): Scheduling restart of crashed service com.samsung.android.fmm/com.fmm.dm.XDMService in 1000ms
+12-07 17:17:36.061: D/StatusBarManagerService(791): manageDisableList userId=0 what=0x0 pkg=Window{81c97a7 u0 d0 Application Error: com.maqboolsolutions.mysql_ssh_android}
+12-07 17:17:36.061: D/PhoneStatusBar(1389): setSystemUiVisibility vis=8000 mask=ffffffff oldVal=8600 newVal=8000 diff=600
+12-07 17:17:36.061: D/Launcher(30518): onStart, Launcher: 254780842
+12-07 17:17:36.061: D/Launcher.HomeView(30518): onStart
+12-07 17:17:36.061: I/VerificationLog(30518): onResume
+12-07 17:17:36.061: D/Launcher(30518): onResume, Launcher: 254780842
+12-07 17:17:36.061: D/SettingsProvider(791): isChangeAllowed() SettingsProvider : name = kids_home_mode
+12-07 17:17:36.061: D/SettingsProvider(791): edmUri: content://com.sec.knox.provider/RestrictionPolicy3
+12-07 17:17:36.061: D/SecContentProvider(791): query(), uri = 17 selection = isSettingsChangesAllowed
+12-07 17:17:36.061: D/SettingsProvider(791): projectionArgs: isSettingsChangesAllowed
+12-07 17:17:36.061: D/SettingsProvider(791): selectionArgs: false
+12-07 17:17:36.061: D/SettingsProvider(791): selectionArgs: 10021
+12-07 17:17:36.061: D/SettingsProvider(791): ret = -1
+12-07 17:17:36.061: D/Launcher.HomeView(30518): onResume
+12-07 17:17:36.071: D/Launcher(30518): Launcher::setSystemUiTransparency(): getSystemUiVisibility() after setting  = 0
+12-07 17:17:36.071: D/ActivityManager(791): isAutoRunBlockedApp:: com.sec.android.pagebuddynotisvc, Auto Run ON
+12-07 17:17:36.071: I/ActivityManager(791): isWidgetUsingPkg : com.sec.android.pagebuddynotisvc no widget is using.
+12-07 17:17:36.071: W/ActivityManager(791): Scheduling restart of crashed service com.sec.android.pagebuddynotisvc/.PageBuddyNotiSvc in 10985ms
+12-07 17:17:36.081: W/DisplayListCanvas(791): DisplayListCanvas is started on unbinded RenderNode (without mOwningView)
+12-07 17:17:36.081: D/MenuAppsGridFragment(30518): onResume
+12-07 17:17:36.081: D/SurfaceWidgetConnection(30518): .SurfaceWidgetWeather#1 Checking SurfaceTexture if it needs to be updated
+12-07 17:17:36.081: D/SurfaceWidgetConnection(30518): .SurfaceWidgetWeather#1 SurfaceTexture was set
+12-07 17:17:36.081: D/SurfaceWidgetClient$ISurfaceWidgetStub(18452): [237392/23] Surface widget visibility changed visibility = true on instance = 1
+12-07 17:17:36.091: D/ActivityManager(791): post active user change for 0 fullscreen true isFloatingActivity() false isHomeActivity() true
+12-07 17:17:36.091: I/WallpaperManagerService(791): switchPersonaWallpaper is called for personaId-0
+12-07 17:17:36.091: D/KnoxTimeoutHandler(791): post home show event for user 0
+12-07 17:17:36.091: D/WallpaperManagerService(791):  force update = false; persona id = 0; current user =0; current persona = 0
+12-07 17:17:36.091: D/KnoxTimeoutHandler(791): handleHomeShow for 0 and current 0
+12-07 17:17:36.091: D/KnoxTimeoutHandler(791): postActiveUserChange [MsgParam] userId: 0 fullscreen is true showWhenlocked is false
+12-07 17:17:36.091: D/KnoxTimeoutHandler(791): handleActiveUserChange [MsgParam] userId: 0 fullscreen is true showWhenlocked is false
+12-07 17:17:36.091: I/KnoxTimeoutHandler(791): Shared devices show user statefalse
+12-07 17:17:36.101: I/SurfaceFlinger(315): id=861 createSurf (1080x1920),1 flag=4, Mauncher
+12-07 17:17:36.111: W/ContextImpl(869): Calling a method in the system process without a qualified user: android.app.ContextImpl.startService:1305 android.content.ContextWrapper.startService:606 android.content.ContextWrapper.startService:606 com.samsung.android.sm.common.SmartManagerReceiver.b:259 com.samsung.android.sm.common.SmartManagerReceiver.onReceive:107 
+12-07 17:17:36.121: D/libEGL(315): eglInitialize EGLDisplay = 0xbed7b364
+12-07 17:17:36.131: D/ConnectivityService(791): returning getNetworkInfo for network type 1 : [type: WIFI[] - WIFI, state: CONNECTED/CONNECTED, reason: (unspecified), extra: "Maqbool Solutions", roaming: false, failover: false, isAvailable: true]
+12-07 17:17:36.141: D/ViewRootImpl(791): MSG_RESIZED_REPORT: ci=Rect(0, 0 - 0, 0) vi=Rect(0, 0 - 0, 0) or=1
+12-07 17:17:36.171: D/libEGL(315): eglInitialize EGLDisplay = 0xbed7b364
+12-07 17:17:36.191: D/SurfaceWidgetView(30518): getHardwareLayer being called directly
+12-07 17:17:36.191: D/SurfaceWidgetView(30518): HardwareLayer is valid: true
+12-07 17:17:36.271: I/Timeline(30518): Timeline: Activity_idle id: android.os.BinderProxy@b1742af time:53608563
+12-07 17:17:36.271: D/WallpaperService(1624): updateSurface
+12-07 17:17:36.271: D/libEGL(315): eglInitialize EGLDisplay = 0xbed7b364
+12-07 17:17:36.291: D/StatusBarManagerService(791): manageDisableList userId=0 what=0x0 pkg=Window{81c97a7 u0 d0 Application Error: com.maqboolsolutions.mysql_ssh_android}
+12-07 17:17:36.291: D/PhoneStatusBar(1389): setSystemUiVisibility vis=40008000 mask=ffffffff oldVal=8000 newVal=40008000 diff=40000000
+12-07 17:17:36.301: I/GLASS(6615): Native code is notified that surface has changed (repaintall)!
+12-07 17:17:36.301: I/art(791): Background partial concurrent mark sweep GC freed 87671(5MB) AllocSpace objects, 39(908KB) LOS objects, 20% free, 61MB/77MB, paused 12.882ms total 344.165ms
+12-07 17:17:36.301: D/libEGL(315): eglTerminate EGLDisplay = 0xb673f64c
+12-07 17:17:36.311: D/BatteryMeterView(1389): onDraw batteryColor : -1107296257
+12-07 17:17:36.311: D/KnoxTimeoutHandler(791): notifyActivityDrawn [MsgParam] userId: 0 fullscreen is true showWhenlocked is false
+12-07 17:17:36.311: I/ActivityManager(791): Displayed com.sec.android.app.launcher/com.android.launcher2.Launcher: +302ms
+12-07 17:17:36.321: D/KnoxTimeoutHandler(791): activityDrawn [MsgParam] userId: 0 fullscreen is true showWhenlocked is false
+12-07 17:17:36.331: I/KnoxTimeoutHandler(791): SD activityfalse
+12-07 17:17:36.361: W/BroadcastQueue(791): Permission Denial: broadcasting Intent { act=com.sec.android.intent.action.HOME_RESUME flg=0x10 } from com.sec.android.app.launcher (pid=30518, uid=10021) is not exported from uid 1000 due to receiver com.android.settings/.accessibilitywidget.AccessibilityEasyWidgetProviderAssistiveLight
+12-07 17:17:36.391: D/Mms/UIEventReceiver(1462): ui event
+12-07 17:17:36.511: D/CustomFrequencyManagerService(791): releaseDVFSLockLocked : Getting Lock type frm List : DVFS_MIN_LIMIT  frequency : 1958400  uid : 1000  pid : 791  tag : ACTIVITY_RESUME_BOOSTER@10
+12-07 17:17:36.511: D/ActivityManager(791): mDVFSHelper.release()
+12-07 17:17:36.511: D/CustomFrequencyManagerService(791): acquireDVFSLockLocked : type : DVFS_MIN_LIMIT  frequency : 1958400  uid : 1000  pid : 791  pkgName : ACTIVITY_RESUME_BOOSTER@16
+12-07 17:17:36.671: I/SurfaceFlinger(315): id=857 Removed GXActivity (7/11)
+12-07 17:17:36.671: I/SurfaceFlinger(315): id=857 Removed GXActivity (-2/11)
+12-07 17:17:36.671: I/SurfaceFlinger(315): id=858 Removed TurfaceView (6/10)
+12-07 17:17:36.671: I/SurfaceFlinger(315): id=858 Removed TurfaceView (-2/10)
+12-07 17:17:36.671: D/libEGL(315): eglTerminate EGLDisplay = 0xbed7b3a4
+12-07 17:17:36.671: D/libEGL(315): eglTerminate EGLDisplay = 0xbed7b38c
+12-07 17:17:36.671: D/libEGL(315): eglTerminate EGLDisplay = 0xbed7b38c
+12-07 17:17:36.671: D/libEGL(315): eglTerminate EGLDisplay = 0xbed7b38c
+12-07 17:17:36.711: I/Timeline(791): Timeline: Activity_windows_visible id: ActivityRecord{ac558db u0 com.sec.android.app.launcher/com.android.launcher2.Launcher t493} time:53609001
+12-07 17:17:36.711: I/Process(6615): Sending signal. PID: 6615 SIG: 9
+12-07 17:17:36.711: D/NetworkPolicy(791): isUidForegroundLocked: 10265, mScreenOn: true, uidstate: 16, mProxSensorScreenOff: false
+12-07 17:17:36.721: D/KnoxTimeoutHandler(791): notifyActivityDrawn [MsgParam] userId: 0 fullscreen is true showWhenlocked is false
+12-07 17:17:36.721: D/KnoxTimeoutHandler(791): activityDrawn [MsgParam] userId: 0 fullscreen is true showWhenlocked is false
+12-07 17:17:36.721: I/KnoxTimeoutHandler(791): SD activityfalse
+12-07 17:17:36.741: D/libEGL(315): eglInitialize EGLDisplay = 0xbed7b364
+12-07 17:17:36.751: I/WindowState(791): WIN DEATH: Window{75907d0 u0 d0 com.maqboolsolutions.mysql_ssh_android/javafxports.android.FXActivity}
+12-07 17:17:36.751: W/WindowManager(791): Force-removing child win Window{7b36ace u0 d0 SurfaceView} from container Window{75907d0 u0 d0 com.maqboolsolutions.mysql_ssh_android/javafxports.android.FXActivity}
+12-07 17:17:36.751: D/GraphicsStats(791): Buffer count: 8
+12-07 17:17:36.751: I/ActivityManager(791): Process com.maqboolsolutions.mysql_ssh_android (pid 6615)(adj 9) has died(145,295)
+12-07 17:17:36.751: D/ActivityManager(791): isAutoRunBlockedApp:: com.maqboolsolutions.mysql_ssh_android, Auto Run ON
+12-07 17:17:36.771: D/libEGL(315): eglTerminate EGLDisplay = 0xb46f064c
+12-07 17:17:36.771: D/ViewRootImpl(791): #3 mView = null
+12-07 17:17:36.771: W/WindowManager(791): Failed looking up window
+12-07 17:17:36.771: W/WindowManager(791): java.lang.IllegalArgumentException: Requested window android.os.BinderProxy@c29e3c9 does not exist
+12-07 17:17:36.771: W/WindowManager(791): 	at com.android.server.wm.WindowManagerService.windowForClientLocked(WindowManagerService.java:14806)
+12-07 17:17:36.771: W/WindowManager(791): 	at com.android.server.wm.WindowManagerService.windowForClientLocked(WindowManagerService.java:14797)
+12-07 17:17:36.771: W/WindowManager(791): 	at com.android.server.wm.WindowState$DeathRecipient.binderDied(WindowState.java:1764)
+12-07 17:17:36.771: W/WindowManager(791): 	at android.os.BinderProxy.sendDeathNotice(Binder.java:558)
+12-07 17:17:36.781: I/WindowState(791): WIN DEATH: null
+12-07 17:17:36.781: D/InputDispatcher(791): Focus left window: 791
+12-07 17:17:36.781: D/InputDispatcher(791): Focus entered window: 30518
+12-07 17:17:36.781: D/PointerIcon(791): setMouseIconStyle1 pointerType: 1001 iconType:101 flag:0 pid:791 uid:1000
+12-07 17:17:36.791: D/PointerIcon(791): setMouseCustomIcon IconType is same.101
+12-07 17:17:36.791: D/PointerIcon(791): setHoveringSpenIconStyle1 pointerType: 10001 iconType:1 flag:0 pid:791 uid:1000
+12-07 17:17:36.791: D/PointerIcon(791): setHoveringSpenCustomIcon IconType is same.1
+12-07 17:17:36.791: D/Launcher(30518): Launcher::setSystemUiTransparency(): getSystemUiVisibility() after setting  = 0
+12-07 17:17:36.791: W/ContextImpl(791): Calling a method in the system process without a qualified user: android.app.ContextImpl.sendBroadcast:830 com.android.server.am.ActivityManagerService.updateOomAdjLocked:26709 com.android.server.am.ActivityManagerService.appDiedLocked:7560 com.android.server.am.ActivityManagerService$AppDeathRecipient.binderDied:1919 android.os.BinderProxy.sendDeathNotice:558 
+12-07 17:17:36.791: D/libEGL(791): eglTerminate EGLDisplay = 0x93686834
+12-07 17:17:36.791: D/InputMethodManagerService(791): windowGainedFocus mCurrentFocusedUserId - 0 and mSecureKeypadEnabled-false
+12-07 17:17:36.801: W/InputMethodManagerService(791): Got RemoteException sending setActive(false) notification to pid 6615 uid 10265
+12-07 17:17:36.801: D/SamsungIME(31687): onStartInput: No inputType, No imeOption, isInputViewShown = false, isExtractViewShown = false, isShowInputRequested = false, isConfigChanged = false
+12-07 17:17:36.811: D/CustomFrequencyManagerService(791): releaseDVFSLockLocked : Getting Lock type frm List : DVFS_MIN_LIMIT  frequency : 1958400  uid : 1000  pid : 791  tag : ACTIVITY_RESUME_BOOSTER@16
+12-07 17:17:36.821: D/libEGL(315): eglInitialize EGLDisplay = 0xbed7b364
+12-07 17:17:36.851: D/StatusBarManagerService(791): manageDisableList userId=0 what=0x0 pkg=Window{681baef u0 d0 com.sec.android.app.launcher/com.android.launcher2.Launcher}
+12-07 17:17:36.851: E/ViewRootImpl(791): sendUserActionEvent() mView == null
+12-07 17:17:36.851: D/PhoneStatusBar(1389): setSystemUiVisibility vis=40008500 mask=ffffffff oldVal=40008000 newVal=40008500 diff=500
+12-07 17:17:36.981: I/SurfaceFlinger(315): id=860 Removed nysql_ssh_a (8/9)
+12-07 17:17:36.981: I/SurfaceFlinger(315): id=860 Removed nysql_ssh_a (-2/9)
+12-07 17:17:36.981: W/AppOps(791): Finishing op nesting under-run: uid 1000 pkg android code 24 time=0 duration=0 nesting=0
+12-07 17:17:36.991: D/libEGL(315): eglTerminate EGLDisplay = 0xbed7b3a4
+12-07 17:17:37.051: D/Recents(1469): onTaskStackChanged
+12-07 17:17:37.071: E/Zygote(7616): v2
+12-07 17:17:37.071: I/libpersona(7616): KNOX_SDCARD checking this for 1000
+12-07 17:17:37.071: I/libpersona(7616): KNOX_SDCARD not a persona
+12-07 17:17:37.071: W/SELinux(7616): Function: selinux_compare_spd_ram, index[1], priority [2], priority version is VE=SEPF_SECMOBILE_6.0.1_0011
+12-07 17:17:37.071: E/Zygote(7616): accessInfo : 0
+12-07 17:17:37.081: I/ActivityManager(791): Start proc 7616:com.samsung.android.fmm/1000 for service com.samsung.android.fmm/com.fmm.dm.XDMService
+12-07 17:17:37.101: D/TimaKeyStoreProvider(7616): TimaSignature is unavailable
+12-07 17:17:37.101: D/ActivityThread(7616): Added TimaKeyStore provider
+12-07 17:17:37.111: W/ResourcesManager(7616): getTopLevelResources: /system/priv-app/Fmm/Fmm.apk / 1.0 running in com.samsung.android.fmm rsrc of package null
+12-07 17:17:37.131: W/System(7616): ClassLoader referenced unknown path: /system/priv-app/Fmm/lib/arm
+12-07 17:17:37.151: I/PCWCLIENTTRACE_LOG(7616): DEFAULT_LOGON : true
+12-07 17:17:37.151: I/PCWCLIENTTRACE_LOG(7616): DEFAULT_LOGLEVEL : 3
+12-07 17:17:37.151: I/PCWCLIENTTRACE_DMDBOpenHelper(7616): new DMDBOpenHelper instance
+12-07 17:17:37.171: I/DBG_FMMDM(7616): [6.0.40][Line:415][xdmGetCheckWifiOnlyModel] isWifiOnly : false
+12-07 17:17:37.191: I/DBG_FMMDM(7616): [6.0.40][Line:19][xdmInitialize] AgVOOqV7UpXFblBk29Ld3aZrOQhtHCYbjdszx6nYrjFYzeVOvvlPUzE67GnQVups
+12-07 17:17:37.191: I/DBG_FMMDM(7616): [6.0.40][Line:20][xdmInitialize] X2Nl5mgTWVn0/a90MNBgtYshxOiQq2MqI4oMf2Nwz6I=
+12-07 17:17:37.191: I/DBG_FMMDM(7616): [6.0.40][Line:21][xdmInitialize] zTcDA3/GVkLIEeYt+WZZLh972XEQWQiEoVrHqmntLxn8k+jtVzR+Ois4l//xOIhG
+12-07 17:17:37.191: D/PCWCLIENTTRACE_DMContentProvider(7616): [URIMatcher] - result : 2
+12-07 17:17:37.201: I/DBG_FMMDM(7616): [6.0.40][Line:32][onCreate] Device ID exist!!
+12-07 17:17:37.201: I/DBG_FMMDM(7616): [6.0.40][Line:33][onCreate] FMMApplication Start !
+12-07 17:17:37.201: W/ContextImpl(7616): Calling a method in the system process without a qualified user: android.app.ContextImpl.startService:1305 android.content.ContextWrapper.startService:606 com.fmm.dm.XDMApplication.onCreate:35 com.sec.pcw.device.FmmApplication.onCreate:15 android.app.Instrumentation.callApplicationOnCreate:1036 
+12-07 17:17:37.201: D/PCWCLIENTTRACE_DMContentProvider(7616): [URIMatcher] - result : 2
+12-07 17:17:37.201: I/DBG_FMMDM(7616): [6.0.40][Line:621][xdmWakeLockAcquire] 
+12-07 17:17:37.201: I/DBG_FMMDM(7616): [6.0.40][Line:626][xdmWakeLockAcquire] m_WakeLock is acquire!!
+12-07 17:17:37.201: I/DBG_FMMDM(7616): [6.0.40][Line:160][xdmAgentTaskHandler] XEVENT_OS_INITIALIZED
+12-07 17:17:37.211: I/DBG_FMMDM(7616): [6.0.40][Line:157][xdmAgentSetSyncMode] nSync = 0
+12-07 17:17:37.211: I/DBG_FMMDM(7616): [6.0.40][Line:647][xdmWakeLockRelease] 
+12-07 17:17:37.211: I/DBG_FMMDM(7616): [6.0.40][Line:652][xdmWakeLockRelease] m_WakeLock is release!!
+12-07 17:17:37.211: D/ConnectivityService(791): returning getNetworkInfo for network type 1 : [type: WIFI[] - WIFI, state: CONNECTED/CONNECTED, reason: (unspecified), extra: "Maqbool Solutions", roaming: false, failover: false, isAvailable: true]
+12-07 17:17:37.211: I/DBG_FMMDM(7616): [6.0.40][Line:526][xdmProtoIsWIFIConnected] WiFi Connected
+12-07 17:17:37.211: D/ConnectivityService(791): returning getNetworkInfo for network type 1 : [type: WIFI[] - WIFI, state: CONNECTED/CONNECTED, reason: (unspecified), extra: "Maqbool Solutions", roaming: false, failover: false, isAvailable: true]
+12-07 17:17:37.211: I/DBG_FMMDM(7616): [6.0.40][Line:526][xdmProtoIsWIFIConnected] WiFi Connected
+12-07 17:17:37.211: D/PCWCLIENTTRACE_DMContentProvider(7616): [URIMatcher] - result : 2
+12-07 17:17:37.211: I/DBG_FMMDM(7616): [6.0.40][Line:1989][xdbDMffs_Init] xdbDMffs_Init
+12-07 17:17:37.281: I/DBG_FMMDM(7616): [6.0.40][Line:170][xdmAgentTaskHandler] XEVENT_PHONEBOOK_INITIALIZED
+12-07 17:17:37.281: I/DBG_FMMDM(7616): [6.0.40][Line:181][xdmAgentTaskHandler] XEVENT_DM_INIT
+12-07 17:17:37.281: D/ConnectivityService(791): returning getNetworkInfo for network type 1 : [type: WIFI[] - WIFI, state: CONNECTED/CONNECTED, reason: (unspecified), extra: "Maqbool Solutions", roaming: false, failover: false, isAvailable: true]
+12-07 17:17:37.281: I/DBG_FMMDM(7616): [6.0.40][Line:526][xdmProtoIsWIFIConnected] WiFi Connected
+12-07 17:17:37.281: D/PCWCLIENTTRACE_DMContentProvider(7616): [URIMatcher] - result : 1
+12-07 17:17:37.291: I/DBG_FMMDM(7616): [6.0.40][Line:3459][xdbChangeLawmoServerInfo] Not Changed Lawmo ServerInfo
+12-07 17:17:37.311: I/DBG_FMMDM(7616): [6.0.40][Line:214][xdbLawmoGetDbLawmoOperation] xdbLawmoDbGetDbLawmoOperation: 3
+12-07 17:17:37.331: I/DBG_FMMDM(7616): [6.0.40][Line:183][xdbLawmoSetLawmoOperation] nOperation = 3
+12-07 17:17:37.331: I/DBG_FMMDM(7616): [6.0.40][Line:299][xdbAmtGetDBOperation] xdbMobileTrackingDbGetOperation 0
+12-07 17:17:37.341: I/DBG_FMMDM(7616): [6.0.40][Line:268][xdbAmtSetOperation] nOperation = 0
+12-07 17:17:37.341: I/DBG_FMMDM(7616): [6.0.40][Line:3415][xdbGetDmAgentType] AgentType=0
+12-07 17:17:37.341: I/DBG_FMMDM(7616): [6.0.40][Line:142][xdmInitAdpEXTInit] DmAgentType [0]
+12-07 17:17:37.351: I/DBG_FMMDM(7616): [6.0.40][Line:162][xdmGetTargetSIMState] xdmGetTargetSIMState Target L
+12-07 17:17:37.351: I/DBG_FMMDM(7616): [6.0.40][Line:172][xdmGetTargetSIMState] xdmGetTargetSIMState = READY
+12-07 17:17:37.351: I/DBG_FMMDM(7616): [6.0.40][Line:87][xdmInitAdpGetSIMLockState] u8xFx8VsusrftXvr1pvOTQ==
+12-07 17:17:37.351: I/DBG_FMMDM(7616): [6.0.40][Line:106][xdmInitAdpGetSIMLockState] bret : true
+12-07 17:17:37.351: I/DBG_FMMDM(7616): [6.0.40][Line:3415][xdbGetDmAgentType] AgentType=0
+12-07 17:17:37.391: I/DBG_FMMDM(7616): [6.0.40][Line:417][xdbLawmoGetSimChangeAlert] SIM Change Alert = false
+12-07 17:17:37.391: I/DBG_FMMDM(7616): [6.0.40][Line:187][xuiSimChangeAlertReport] Previous state is false
+12-07 17:17:37.391: I/DBG_FMMDM(7616): [6.0.40][Line:590][xdmGetAccountRegistration] Samsung Account Exist !!!
+12-07 17:17:37.421: I/DBG_FMMDM(7616): [6.0.40][Line:299][xdbAmtGetDBOperation] xdbMobileTrackingDbGetOperation 0
+12-07 17:17:37.421: I/DBG_FMMDM(7616): [6.0.40][Line:193][xdbLawmoGetLawmoOperation] xdbLawmoDbGetLawmoOperation: 3
+12-07 17:17:37.421: I/DBG_FMMDM(7616): [6.0.40][Line:211][xdmAgentTaskHandler] XEVENT_DM_INIT : Initialized
+12-07 17:17:37.421: I/DBG_FMMDM(7616): [6.0.40][Line:168][xdmUIEvent] XUI_DM_IDLE_STATE :true
+12-07 17:17:37.421: I/DBG_FMMDM(7616): [6.0.40][Line:652][xdmAgentCheckResumeNoti] 
+12-07 17:17:37.421: D/ConnectivityService(791): returning getNetworkInfo for network type 1 : [type: WIFI[] - WIFI, state: CONNECTED/CONNECTED, reason: (unspecified), extra: "Maqbool Solutions", roaming: false, failover: false, isAvailable: true]
+12-07 17:17:37.421: I/DBG_FMMDM(7616): [6.0.40][Line:526][xdmProtoIsWIFIConnected] WiFi Connected
+12-07 17:17:37.421: I/DBG_FMMDM(7616): [6.0.40][Line:542][xnotiPushAdpExcuteResumeNoti] 
+12-07 17:17:37.431: I/DBG_FMMDM(7616): [6.0.40][Line:552][xnotiPushAdpExcuteResumeNoti] nSessionSaveState:0
+12-07 17:17:37.431: I/DBG_FMMDM(7616): [6.0.40][Line:553][xnotiPushAdpExcuteResumeNoti] nNotiUiEvent:0
+12-07 17:17:37.431: I/DBG_FMMDM(7616): [6.0.40][Line:554][xnotiPushAdpExcuteResumeNoti] nNotiRetryCount:0
+12-07 17:17:37.431: I/DBG_FMMDM(7616): [6.0.40][Line:730][xnotiRemainAlertOperation] xnotiRemainAlertOperation
+12-07 17:17:37.431: I/DBG_FMMDM(7616): [6.0.40][Line:37][xdbAlertExistInfo] false
+12-07 17:17:37.431: I/DBG_FMMDM(7616): [6.0.40][Line:777][xnotiRemainAlertOperation] Next Alert Operation Empty
+12-07 17:17:37.431: I/DBG_FMMDM(7616): [6.0.40][Line:630][xnotiPushAdpExcuteResumeNoti] Current NOTI NOT SAVED State. EXIT. EXIT.
+12-07 17:17:37.441: I/DBG_FMMDM(7616): [6.0.40][Line:385][xnotiPushAdpClearSessionStatus] 
+12-07 17:17:37.441: I/DBG_FMMDM(7616): [6.0.40][Line:3225][xdbGetSessionSaveStatus] nSessionSaveState [0], nNotiUiEvent [0]
+12-07 17:17:37.451: I/DBG_FMMDM(7616): [6.0.40][Line:3273][xdbSetBackUpServerUrl] 
+12-07 17:17:37.481: I/DBG_FMMDM(7616): [6.0.40][Line:46][xuiAdpGetAlertType] AlertType : 0
+12-07 17:17:37.481: I/DBG_FMMDM(7616): [6.0.40][Line:730][xnotiRemainAlertOperation] xnotiRemainAlertOperation
+12-07 17:17:37.491: I/DBG_FMMDM(7616): [6.0.40][Line:37][xdbAlertExistInfo] false
+12-07 17:17:37.491: I/DBG_FMMDM(7616): [6.0.40][Line:777][xnotiRemainAlertOperation] Next Alert Operation Empty
+12-07 17:17:37.501: I/DBG_FMMDM(7616): [6.0.40][Line:42][xdbNotiExistInfo] false
+12-07 17:17:37.501: I/DBG_FMMDM(7616): [6.0.40][Line:521][xnotiPushAdpHandleNotiQueue] Next DB Noti Empty
+12-07 17:17:37.501: I/DBG_FMMDM(7616): [6.0.40][Line:3225][xdbGetSessionSaveStatus] nSessionSaveState [0], nNotiUiEvent [0]
+12-07 17:17:37.511: I/DBG_FMMDM(7616): [6.0.40][Line:730][xnotiRemainAlertOperation] xnotiRemainAlertOperation
+12-07 17:17:37.511: I/DBG_FMMDM(7616): [6.0.40][Line:37][xdbAlertExistInfo] false
+12-07 17:17:37.511: I/DBG_FMMDM(7616): [6.0.40][Line:777][xnotiRemainAlertOperation] Next Alert Operation Empty
+12-07 17:17:37.511: I/DBG_FMMDM(7616): [6.0.40][Line:89][xuiAdpSetUiMode] nDmUiMode : 0
+12-07 17:17:37.511: D/StatusBar.NetworkController(1389): refreshViews connected={ wifi } level=4 combinedSignalIconId=0x7f020648/com.android.systemui:drawable/stat_sys_wifi_signal_4 mobileLabel=Telenor wifiLabel="Maqbool Solutions" emergencyOnly=false combinedLabel="Maqbool Solutions" mAirplaneMode=false mDataActivity=0 mPhoneSignalIconId=0x7f0205c8/com.android.systemui:drawable/stat_sys_signal_4_auto_rotate mQSPhoneSignalIconId=0x7f02015e/com.android.systemui:drawable/ic_qs_signal_4 mDataDirectionIconId=0x0/(null) mDataSignalIconId=0x7f0205c8/com.android.systemui:drawable/stat_sys_signal_4_auto_rotate mDataTypeIconId=0x7f020420/com.android.systemui:drawable/stat_sys_data_connected_h mQSDataTypeIconId=0x7f020168/com.android.systemui:drawable/ic_qs_signal_h mNoSimIconId=0x0/(null) mWifiIconId=0x7f020648/com.android.systemui:drawable/stat_sys_wifi_signal_4 mQSWifiIconId=0x7f02032a/com.android.systemui:drawable/qs_tile_wifi_signal_4 mWifiActivityIconId=0x7f020609/com.android.systemui:drawable/stat_sys_signal_out mBluetoothTetherIconId=0x7f020624/com.android.systemui:drawable/stat_sys_tether_bluetooth
+12-07 17:17:37.521: D/StatusBar.NetworkController(1389): refreshNwBoosterIndicator - setNWBoosterIndicators(false)
+12-07 17:17:37.521: D/StatusBar.NetworkController(1389): refreshNwBoosterIndicator - setNWBoosterIndicators(false)
+12-07 17:17:37.521: D/StatusBar.NetworkController(1389): refreshNwBoosterIndicator - setNWBoosterIndicators(false)
+12-07 17:17:37.521: D/StatusBar.NetworkController(1389): refreshNwBoosterIndicator - setNWBoosterIndicators(false)
+12-07 17:17:38.531: D/StatusBar.NetworkController(1389): refreshViews connected={ wifi } level=4 combinedSignalIconId=0x7f020648/com.android.systemui:drawable/stat_sys_wifi_signal_4 mobileLabel=Telenor wifiLabel="Maqbool Solutions" emergencyOnly=false combinedLabel="Maqbool Solutions" mAirplaneMode=false mDataActivity=0 mPhoneSignalIconId=0x7f0205c8/com.android.systemui:drawable/stat_sys_signal_4_auto_rotate mQSPhoneSignalIconId=0x7f02015e/com.android.systemui:drawable/ic_qs_signal_4 mDataDirectionIconId=0x0/(null) mDataSignalIconId=0x7f0205c8/com.android.systemui:drawable/stat_sys_signal_4_auto_rotate mDataTypeIconId=0x7f020420/com.android.systemui:drawable/stat_sys_data_connected_h mQSDataTypeIconId=0x7f020168/com.android.systemui:drawable/ic_qs_signal_h mNoSimIconId=0x0/(null) mWifiIconId=0x7f020648/com.android.systemui:drawable/stat_sys_wifi_signal_4 mQSWifiIconId=0x7f02032a/com.android.systemui:drawable/qs_tile_wifi_signal_4 mWifiActivityIconId=0x7f0205fe/com.android.systemui:drawable/stat_sys_signal_no_inout mBluetoothTetherIconId=0x7f020624/com.android.systemui:drawable/stat_sys_tether_bluetooth
+12-07 17:17:38.531: D/StatusBar.NetworkController(1389): refreshNwBoosterIndicator - setNWBoosterIndicators(false)
+12-07 17:17:38.551: D/StatusBar.NetworkController(1389): refreshNwBoosterIndicator - setNWBoosterIndicators(false)
+12-07 17:17:38.561: D/StatusBar.NetworkController(1389): refreshNwBoosterIndicator - setNWBoosterIndicators(false)
+12-07 17:17:38.561: D/StatusBar.NetworkController(1389): refreshNwBoosterIndicator - setNWBoosterIndicators(false)
+12-07 17:17:39.331: D/StatusBar.NetworkController(1389): onSignalStrengthsChanged signalStrength=SignalStrength: 21 99 -120 -160 -120 -1 -1 99 2147483647 2147483647 2147483647 -1 2147483647 0x4 gsm|lte level=4
+12-07 17:17:39.331: D/StatusBar.NetworkController(1389): updateTelephonySignalStrength: hasService=true ss=SignalStrength: 21 99 -120 -160 -120 -1 -1 99 2147483647 2147483647 2147483647 -1 2147483647 0x4 gsm|lte
+12-07 17:17:39.331: D/StatusBar.NetworkController(1389): updateTelephonySignalStrength: iconLevel=4
+12-07 17:17:39.341: D/StatusBar.NetworkController(1389): updateTelephonySignalStrength, No signal level. mPhoneSignalIconId = com.android.systemui:drawable/stat_sys_signal_4_auto_rotate mDataSignalIconId = com.android.systemui:drawable/stat_sys_signal_4_auto_rotate mQSPhoneSignalIconId = com.android.systemui:drawable/ic_qs_signal_4 mContentDescriptionPhoneSignal = Phone signal full.
+12-07 17:17:39.441: D/StatusBar.NetworkController(1389): refreshViews connected={ wifi } level=4 combinedSignalIconId=0x7f020648/com.android.systemui:drawable/stat_sys_wifi_signal_4 mobileLabel=Telenor wifiLabel="Maqbool Solutions" emergencyOnly=false combinedLabel="Maqbool Solutions" mAirplaneMode=false mDataActivity=0 mPhoneSignalIconId=0x7f0205c8/com.android.systemui:drawable/stat_sys_signal_4_auto_rotate mQSPhoneSignalIconId=0x7f02015e/com.android.systemui:drawable/ic_qs_signal_4 mDataDirectionIconId=0x0/(null) mDataSignalIconId=0x7f0205c8/com.android.systemui:drawable/stat_sys_signal_4_auto_rotate mDataTypeIconId=0x7f020420/com.android.systemui:drawable/stat_sys_data_connected_h mQSDataTypeIconId=0x7f020168/com.android.systemui:drawable/ic_qs_signal_h mNoSimIconId=0x0/(null) mWifiIconId=0x7f020648/com.android.systemui:drawable/stat_sys_wifi_signal_4 mQSWifiIconId=0x7f02032a/com.android.systemui:drawable/qs_tile_wifi_signal_4 mWifiActivityIconId=0x7f0205fe/com.android.systemui:drawable/stat_sys_signal_no_inout mBluetoothTetherIconId=0x7f020624/com.android.systemui:drawable/stat_sys_tether_bluetooth
+12-07 17:17:39.441: D/StatusBar.NetworkController(1389): refreshNwBoosterIndicator - setNWBoosterIndicators(false)
+12-07 17:17:39.441: D/StatusBar.NetworkController(1389): refreshNwBoosterIndicator - setNWBoosterIndicators(false)
+12-07 17:17:39.441: D/StatusBar.NetworkController(1389): refreshNwBoosterIndicator - setNWBoosterIndicators(false)
+12-07 17:17:39.441: D/StatusBar.NetworkController(1389): refreshNwBoosterIndicator - setNWBoosterIndicators(false)
