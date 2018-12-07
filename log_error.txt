@@ -1,0 +1,69 @@
+12-07 17:10:56.091: E/FXEntity(1724): call native MultitouchEvent, density = 3.0, touchXs0 = 238
+12-07 17:10:56.121: E/FXEntity(1724): call native MultitouchEvent, density = 3.0, touchXs0 = 238
+12-07 17:10:56.161: E/FXEntity(1724): call native MultitouchEvent, density = 3.0, touchXs0 = 238
+12-07 17:10:56.171: E/FXEntity(1724): call native MultitouchEvent, density = 3.0, touchXs0 = 238
+12-07 17:10:56.171: E/FXEntity(1724): call native MultitouchEvent, density = 3.0, touchXs0 = 238
+12-07 17:11:02.931: E/FXEntity(1724): call native MultitouchEvent, density = 3.0, touchXs0 = 567
+12-07 17:11:02.971: E/FXEntity(1724): call native MultitouchEvent, density = 3.0, touchXs0 = 567
+12-07 17:11:02.991: E/FXEntity(1724): call native MultitouchEvent, density = 3.0, touchXs0 = 567
+12-07 17:11:03.021: E/FXEntity(1724): call native MultitouchEvent, density = 3.0, touchXs0 = 567
+12-07 17:11:03.081: E/FXEntity(1724): call native MultitouchEvent, density = 3.0, touchXs0 = 567
+12-07 17:11:03.081: E/FXEntity(1724): call native MultitouchEvent, density = 3.0, touchXs0 = 567
+12-07 17:11:03.161: E/AndroidRuntime(1724): FATAL EXCEPTION: JavaFX Application Thread
+12-07 17:11:03.161: E/AndroidRuntime(1724): Process: com.maqboolsolutions.mysql_ssh_android, PID: 1724
+12-07 17:11:03.161: E/AndroidRuntime(1724): java.lang.RuntimeException: java.lang.reflect.InvocationTargetException
+12-07 17:11:03.161: E/AndroidRuntime(1724): 	at javafx.fxml.FXMLLoader$MethodHandler.invoke(FXMLLoader.java:1774)
+12-07 17:11:03.161: E/AndroidRuntime(1724): 	at javafx.fxml.FXMLLoader$ControllerMethodEventHandler.handle(FXMLLoader.java:1657)
+12-07 17:11:03.161: E/AndroidRuntime(1724): 	at com.sun.javafx.event.CompositeEventHandler.dispatchBubblingEvent(CompositeEventHandler.java:86)
+12-07 17:11:03.161: E/AndroidRuntime(1724): 	at com.sun.javafx.event.EventHandlerManager.dispatchBubblingEvent(EventHandlerManager.java:238)
+12-07 17:11:03.161: E/AndroidRuntime(1724): 	at com.sun.javafx.event.EventHandlerManager.dispatchBubblingEvent(EventHandlerManager.java:191)
+12-07 17:11:03.161: E/AndroidRuntime(1724): 	at com.sun.javafx.event.CompositeEventDispatcher.dispatchBubblingEvent(CompositeEventDispatcher.java:59)
+12-07 17:11:03.161: E/AndroidRuntime(1724): 	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:58)
+12-07 17:11:03.161: E/AndroidRuntime(1724): 	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114)
+12-07 17:11:03.161: E/AndroidRuntime(1724): 	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56)
+12-07 17:11:03.161: E/AndroidRuntime(1724): 	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114)
+12-07 17:11:03.161: E/AndroidRuntime(1724): 	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56)
+12-07 17:11:03.161: E/AndroidRuntime(1724): 	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114)
+12-07 17:11:03.161: E/AndroidRuntime(1724): 	at com.sun.javafx.event.EventUtil.fireEventImpl(EventUtil.java:74)
+12-07 17:11:03.161: E/AndroidRuntime(1724): 	at com.sun.javafx.event.EventUtil.fireEvent(EventUtil.java:49)
+12-07 17:11:03.161: E/AndroidRuntime(1724): 	at javafx.event.Event.fireEvent(Event.java:198)
+12-07 17:11:03.161: E/AndroidRuntime(1724): 	at javafx.scene.Node.fireEvent(Node.java:8411)
+12-07 17:11:03.161: E/AndroidRuntime(1724): 	at javafx.scene.control.Button.fire(Button.java:185)
+12-07 17:11:03.161: E/AndroidRuntime(1724): 	at com.sun.javafx.scene.control.behavior.ButtonBehavior.mouseReleased(ButtonBehavior.java:182)
+12-07 17:11:03.161: E/AndroidRuntime(1724): 	at com.sun.javafx.scene.control.skin.BehaviorSkinBase$1.handle(BehaviorSkinBase.java:96)
+12-07 17:11:03.161: E/AndroidRuntime(1724): 	at com.sun.javafx.scene.control.skin.BehaviorSkinBase$1.handle(BehaviorSkinBase.java:89)
+12-07 17:11:03.161: E/AndroidRuntime(1724): 	at com.sun.javafx.event.CompositeEventHandler$NormalEventHandlerRecord.handleBubblingEvent(CompositeEventHandler.java:218)
+12-07 17:11:03.161: E/AndroidRuntime(1724): 	at com.sun.javafx.event.CompositeEventHandler.dispatchBubblingEvent(CompositeEventHandler.java:80)
+12-07 17:11:03.161: E/AndroidRuntime(1724): 	at com.sun.javafx.event.EventHandlerManager.dispatchBubblingEvent(EventHandlerManager.java:238)
+12-07 17:11:03.161: E/AndroidRuntime(1724): 	at com.sun.javafx.event.EventHandlerManager.dispatchBubblingEvent(EventHandlerManager.java:191)
+12-07 17:11:03.161: E/AndroidRuntime(1724): 	at com.sun.javafx.event.CompositeEventDispatcher.dispatchBubblingEvent(CompositeEventDispatcher.java:59)
+12-07 17:11:03.161: E/AndroidRuntime(1724): 	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:58)
+12-07 17:11:03.161: E/AndroidRuntime(1724): 	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114)
+12-07 17:11:03.161: E/AndroidRuntime(1724): 	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56)
+12-07 17:11:03.161: E/AndroidRuntime(1724): 	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114)
+12-07 17:11:03.161: E/AndroidRuntime(1724): 	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56)
+12-07 17:11:03.161: E/AndroidRuntime(1724): 	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114)
+12-07 17:11:03.161: E/AndroidRuntime(1724): 	at com.sun.javafx.event.EventUtil.fireEventImpl(EventUtil.java:74)
+12-07 17:11:03.161: E/AndroidRuntime(1724): 	at com.sun.javafx.event.EventUtil.fireEvent(EventUtil.java:54)
+12-07 17:11:03.161: E/AndroidRuntime(1724): 	at javafx.event.Event.fireEvent(Event.java:198)
+12-07 17:11:03.161: E/AndroidRuntime(1724): 	at javafx.scene.Scene$MouseHandler.process(Scene.java:3761)
+12-07 17:11:03.161: E/AndroidRuntime(1724): 	at javafx.scene.Scene$MouseHandler.access$1500(Scene.java:3489)
+12-07 17:11:03.161: E/AndroidRuntime(1724): 	at javafx.scene.Scene.impl_processMouseEvent(Scene.java:1762)
+12-07 17:11:03.161: E/AndroidRuntime(1724): 	at javafx.scene.Scene$ScenePeerListener.mouseEvent(Scene.java:2498)
+12-07 17:11:03.161: E/AndroidRuntime(1724): 	at com.sun.javafx.tk.quantum.GlassViewEventHandler$MouseEventNotification.run(GlassViewEventHandler.java:352)
+12-07 17:11:03.161: E/AndroidRuntime(1724): 	at com.sun.javafx.tk.quantum.GlassViewEventHandler$MouseEventNotification.run(GlassViewEventHandler.java:275)
+12-07 17:11:03.161: E/AndroidRuntime(1724): 	at java.security.AccessController.doPrivileged(AccessController.java:52)
+12-07 17:11:03.161: E/AndroidRuntime(1724): 	at com.sun.javafx.tk.quantum.GlassViewEventHandler.lambda$handleMouseEvent$335(GlassViewEventHandler.java:388)
+12-07 17:11:03.161: E/AndroidRuntime(1724): 	at com.sun.javafx.tk.quantum.GlassViewEventHandler.access$lambda$1(GlassViewEventHandler.java)
+12-07 17:11:03.161: E/AndroidRuntime(1724): 	at com.sun.javafx.tk.quantum.GlassViewEventHandler$$Lambda$4.get(Unknown Source)
+12-07 17:11:03.161: E/AndroidRuntime(1724): 	at com.sun.javafx.tk.quantum.QuantumToolkit.runWithoutRenderLock(QuantumToolkit.java:391)
+12-07 17:11:03.161: E/AndroidRuntime(1724): 	at com.sun.javafx.tk
+12-07 17:11:03.281: E/android.os.Debug(791): ro.product_ship = true
+12-07 17:11:03.281: E/android.os.Debug(791): ro.debug_level = 0x4f4c
+12-07 17:11:03.281: E/android.os.Debug(791): sys.mobilecare.preload = false
+12-07 17:11:04.151: E/ViewRootImpl(791): sendUserActionEvent() mView == null
+12-07 17:11:04.941: E/MARsDBManager(791): updateDBAll : begin --size 3
+12-07 17:11:05.021: E/MARsDBManager(791): updateDBAll : end
+12-07 17:11:11.111: E/DynamicConfigWriter(1859): No such serviceId was created! This is create!.
+12-07 17:11:11.121: E/DynamicConfigWriter(1859): No such serviceId was created! This is create!.
+12-07 17:11:11.661: E/Watchdog(791): !@Sync 1772 [12-07 17:11:11.671]
